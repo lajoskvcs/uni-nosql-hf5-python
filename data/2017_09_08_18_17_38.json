@@ -1,0 +1,36 @@
+{
+    "error": 0,
+    "data": {
+        "my_vote": null,
+        "requestID": "0",
+        "sid_path": null,
+        "next_poll": 15,
+        "title": "Trap (Ben Daglish)",
+        "live": 0,
+        "next_song": {
+            "artist": "XOR",
+            "title": "Auf Wiedersehen Monty (Fruity mix)",
+            "live": 0,
+            "filename": "M:\\Mp3\\c64\\rko\\XOR - Auf Wiedersehen Monty (Fruity mix).mp3",
+            "album": ""
+        },
+        "albumyear": "2001",
+        "picture": "BIT3.jpg",
+        "r64_vote": null,
+        "requestedBy": "",
+        "next_song_date": 1504888037,
+        "id": "2277",
+        "album": "Back in Time III",
+        "vote_percent": "89.0173",
+        "date_played": 1504886885,
+        "num_votes": "173",
+        "next_song_expected": 8,
+        "artist": "Ben Daglish & C.Abbott",
+        "website": "http://www.c64audio.com/productInfo.php?cat=C64CD3",
+        "listeners": "65",
+        "filename": "c64\\Albums\\Various Artists - Back in Time III\\13_1-ben_daglish_chris_abbott-trap_part_1_(ben_daglish)-slaggeedit.mp3",
+        "r64_id": null,
+        "duration": 576
+    },
+    "message": ""
+}

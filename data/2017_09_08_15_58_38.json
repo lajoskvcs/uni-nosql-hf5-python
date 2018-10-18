@@ -1,0 +1,36 @@
+{
+    "message": "",
+    "data": {
+        "filename": "c64\\rko\\Aki Jarvinen - Commando (2011 metal remix).mp3",
+        "next_poll": 15,
+        "website": "",
+        "album": "",
+        "r64_vote": "6",
+        "r64_id": "4753",
+        "num_votes": "339",
+        "date_played": 1504878821,
+        "artist": "Aki J\u00e4rvinen",
+        "duration": 270,
+        "next_song": {
+            "title": "Forbidden Forest (Purgatory Mix)",
+            "live": 0,
+            "artist": "Martin Dodd",
+            "album": "",
+            "filename": "M:\\Mp3\\c64\\rko\\Martin Dodd - Forbidden Forest (Purgatory Mix).mp3"
+        },
+        "my_vote": null,
+        "id": "4181",
+        "next_song_expected": -22,
+        "requestID": "0",
+        "live": 0,
+        "picture": "",
+        "listeners": "72",
+        "requestedBy": "",
+        "next_song_date": 1504879361,
+        "albumyear": "2011",
+        "title": "Commando (2011 metal remix)",
+        "vote_percent": "96.0914",
+        "sid_path": "MUSICIANS/H/Hubbard_Rob/Commando.sid"
+    },
+    "error": 0
+}

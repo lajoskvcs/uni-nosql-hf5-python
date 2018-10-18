@@ -1,0 +1,36 @@
+{
+    "data": {
+        "date_played": 1504872527,
+        "my_vote": null,
+        "num_votes": "65",
+        "website": "",
+        "artist": "Hazel",
+        "album": "",
+        "id": "2752",
+        "next_song": {
+            "title": "R-Type (Level 1 Boss)",
+            "live": 0,
+            "filename": "M:\\Mp3\\c64\\rko\\JA - R-Type (Level 1 Boss).mp3",
+            "artist": "JA",
+            "album": ""
+        },
+        "title": "Remark (Noisy Maniacs Remix) [Hazel vs Jeroen Tel]",
+        "requestedBy": "raw",
+        "next_song_expected": 134,
+        "requestID": "462408",
+        "sid_path": null,
+        "live": 0,
+        "next_poll": 134,
+        "next_song_date": 1504873007,
+        "albumyear": "2006",
+        "r64_vote": null,
+        "filename": "c64\\non-RKO\\Lets_Scroll_It\\Hazel vs Jeroen Tel - Remark (Noisy Maniacs Remix).mp3",
+        "r64_id": null,
+        "listeners": "84",
+        "picture": "",
+        "duration": 240,
+        "vote_percent": "98.8462"
+    },
+    "message": "",
+    "error": 0
+}

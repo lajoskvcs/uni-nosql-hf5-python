@@ -1,0 +1,36 @@
+{
+    "data": {
+        "my_vote": null,
+        "requestedBy": "raw",
+        "r64_id": "2280",
+        "num_votes": "111",
+        "sid_path": "MUSICIANS/H/Hanlon_David/Druid.sid",
+        "date_played": 1504875256,
+        "album": "",
+        "listeners": "76",
+        "id": "1920",
+        "vote_percent": "91.6667",
+        "next_song_expected": 121,
+        "next_song_date": 1504875652,
+        "r64_vote": "5",
+        "next_poll": 121,
+        "requestID": "462419",
+        "albumyear": "0",
+        "title": "Druid (Orchestral)",
+        "artist": "Acamantor",
+        "filename": "c64\\rko\\Acamantor - Druid (Orchestral).mp3",
+        "duration": 198,
+        "live": 0,
+        "website": "",
+        "picture": "",
+        "next_song": {
+            "title": "Firelord (Symphonic)",
+            "album": "",
+            "live": 0,
+            "artist": "Glyn R. Brown",
+            "filename": "M:\\Mp3\\c64\\rko\\Glyn R. Brown - Firelord (Symphonic).mp3"
+        }
+    },
+    "message": "",
+    "error": 0
+}

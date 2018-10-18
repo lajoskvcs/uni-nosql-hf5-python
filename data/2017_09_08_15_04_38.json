@@ -1,0 +1,36 @@
+{
+    "message": "",
+    "error": 0,
+    "data": {
+        "albumyear": "2014",
+        "requestID": "462421",
+        "title": "Fist II - The Legend Continues",
+        "r64_id": "5468",
+        "next_song": {
+            "artist": "Rune-Bertil's",
+            "title": "Boogie On a Spring (JP style)",
+            "live": 0,
+            "filename": "M:\\Mp3\\c64\\rko\\Rune-Bertil's - Boogie On a Spring (JP style).mp3",
+            "album": ""
+        },
+        "id": "4835",
+        "filename": "c64\\rko\\Dr Future - Fist II - The Legend Continues.mp3",
+        "vote_percent": "98.8636",
+        "artist": "Dr Future",
+        "date_played": 1504875678,
+        "num_votes": "44",
+        "next_poll": 15,
+        "my_vote": null,
+        "duration": 206,
+        "next_song_date": 1504876090,
+        "listeners": "77",
+        "sid_path": "MUSICIANS/B/Brennan_Neil/Fist_II-The_Legend_Continues.sid",
+        "r64_vote": "6",
+        "next_song_expected": 11,
+        "requestedBy": "raw",
+        "album": "",
+        "website": "",
+        "live": 0,
+        "picture": ""
+    }
+}

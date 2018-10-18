@@ -1,0 +1,36 @@
+{
+    "data": {
+        "next_poll": 15,
+        "my_vote": null,
+        "duration": 214,
+        "num_votes": "107",
+        "vote_percent": "89.9533",
+        "r64_id": "2554",
+        "album": "",
+        "requestedBy": "",
+        "sid_path": "MUSICIANS/D/Daglish_Ben/Deflektor.sid",
+        "next_song_date": 1504890255,
+        "next_song": {
+            "live": 0,
+            "title": "Nemesis (The Gradius Rotation Remix)",
+            "artist": "Dees",
+            "filename": "M:\\Mp3\\c64\\rko\\DeeS - Nemesis (The Gradius Rotation Remix).mp3",
+            "album": ""
+        },
+        "live": 0,
+        "picture": "",
+        "requestID": "0",
+        "date_played": 1504889827,
+        "artist": "MRT",
+        "website": "",
+        "next_song_expected": 8,
+        "r64_vote": "4",
+        "albumyear": "2004",
+        "filename": "c64\\rko\\MRT - Deflektor (softer version).mp3",
+        "title": "deflektor - softer version",
+        "listeners": "78",
+        "id": "2035"
+    },
+    "message": "",
+    "error": 0
+}

@@ -1,0 +1,36 @@
+{
+    "error": 0,
+    "message": "",
+    "data": {
+        "next_song": {
+            "live": 0,
+            "album": "",
+            "filename": "M:\\Mp3\\c64\\rko\\TmX - Last Ninja Inner Sanctum - Death Before Dishonour.mp3",
+            "title": "Last Ninja Inner Sanctum - Death Before Dishonour",
+            "artist": "TmX"
+        },
+        "requestedBy": "",
+        "requestID": "0",
+        "id": "4604",
+        "website": "",
+        "artist": "Lello Caliendo",
+        "title": "Aztec Challenge Evolution",
+        "vote_percent": "93.4211",
+        "num_votes": "56",
+        "r64_id": "5298",
+        "filename": "c64\\rko\\Lello Caliendo - Aztec challenge Evolution.mp3",
+        "r64_vote": "5",
+        "album": "",
+        "live": 0,
+        "listeners": "64",
+        "sid_path": "MUSICIANS/N/Norman_Paul/Aztec_Challenge.sid",
+        "next_song_expected": 27,
+        "date_played": 1504904144,
+        "next_poll": 27,
+        "next_song_date": 1504904536,
+        "picture": "",
+        "my_vote": null,
+        "albumyear": "2014",
+        "duration": 196
+    }
+}

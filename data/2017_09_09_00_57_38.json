@@ -1,0 +1,36 @@
+{
+    "message": "",
+    "data": {
+        "website": "",
+        "next_song_expected": -45,
+        "next_poll": 15,
+        "vote_percent": "91.8478",
+        "duration": 248,
+        "albumyear": "2004",
+        "sid_path": null,
+        "next_song_date": 1504911656,
+        "requestedBy": "",
+        "listeners": "55",
+        "filename": "c64\\non-RKO\\jgb - Delta (live perf. on SLAY Radio).mp3",
+        "my_vote": null,
+        "artist": "jgb",
+        "album": "SLAY Radio Live",
+        "live": 0,
+        "num_votes": "138",
+        "date_played": 1504911160,
+        "r64_id": null,
+        "r64_vote": null,
+        "id": "2437",
+        "requestID": "0",
+        "next_song": {
+            "live": 0,
+            "album": "Remix64 - Volume 1",
+            "title": "Platoon",
+            "artist": "Kent 'Trace' Walld\u00e9n",
+            "filename": "M:\\Mp3\\c64\\Albums\\Various Artists - Remix64 vol 1\\08-trace_-_platoon-cmg.mp3"
+        },
+        "picture": "",
+        "title": "Delta (live perf. on SLAY Radio)"
+    },
+    "error": 0
+}

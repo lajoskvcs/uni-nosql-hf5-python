@@ -1,0 +1,36 @@
+{
+    "message": "",
+    "data": {
+        "live": 0,
+        "next_poll": 15,
+        "picture": "",
+        "artist": "JA",
+        "r64_id": "1174",
+        "r64_vote": "4",
+        "id": "586",
+        "num_votes": "103",
+        "requestedBy": "raw",
+        "album": "",
+        "requestID": "462409",
+        "my_vote": null,
+        "listeners": "80",
+        "duration": 210,
+        "next_song": {
+            "artist": "Lagerfeldt",
+            "filename": "M:\\Mp3\\c64\\rko\\Lagerfeldt - Robocop 3 (Progressive Uplift).mp3",
+            "live": 0,
+            "title": "Robocop 3 (Progressive Uplift)",
+            "album": ""
+        },
+        "website": "",
+        "next_song_expected": -22,
+        "date_played": 1504872761,
+        "vote_percent": "93.9320",
+        "albumyear": "2001",
+        "sid_path": "MUSICIANS/H/Huelsbeck_Chris/R-Type.sid",
+        "next_song_date": 1504873181,
+        "filename": "c64\\rko\\JA - R-Type (Level 1 Boss).mp3",
+        "title": "R-Type (Level 1 Boss)"
+    },
+    "error": 0
+}

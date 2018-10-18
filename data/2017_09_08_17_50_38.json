@@ -1,0 +1,36 @@
+{
+    "message": "",
+    "error": 0,
+    "data": {
+        "num_votes": "98",
+        "next_song": {
+            "filename": "M:\\Mp3\\c64\\rko\\Gustav Tax\u00e9n - Human Race 4 (2002 mix).mp3",
+            "title": "Human Race 4 (2002 mix)",
+            "artist": "Gustav Tax\u00e9n",
+            "live": 0,
+            "album": ""
+        },
+        "requestID": "0",
+        "vote_percent": "92.8571",
+        "listeners": "59",
+        "next_song_date": 1504886052,
+        "albumyear": "2001",
+        "r64_vote": "5",
+        "album": "",
+        "r64_id": "732",
+        "my_vote": null,
+        "sid_path": "MUSICIANS/D/Daglish_Ben/Last_Ninja.sid",
+        "next_song_expected": 58,
+        "id": "1231",
+        "website": "",
+        "filename": "c64\\rko\\Sonic Wanderer - The Last Ninja - The Palace (128bpm Freestyle Edit).mp3",
+        "title": "The Last Ninja - The Palace (128bpm Freestyle Edit)",
+        "requestedBy": "",
+        "picture": "",
+        "duration": 161,
+        "artist": "Sonic Wanderer",
+        "live": 0,
+        "date_played": 1504885730,
+        "next_poll": 58
+    }
+}

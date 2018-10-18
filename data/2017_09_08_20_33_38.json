@@ -1,0 +1,36 @@
+{
+    "data": {
+        "requestID": "0",
+        "next_song": {
+            "live": 0,
+            "filename": "M:\\Mp3\\c64\\rko\\AmiGamer - GliderRider.mp3",
+            "artist": "AmiGamer",
+            "album": "",
+            "title": "GliderRider"
+        },
+        "albumyear": "2007",
+        "artist": "Mitch van Hayden",
+        "picture": "",
+        "num_votes": "136",
+        "next_song_expected": 99,
+        "requestedBy": "",
+        "duration": 258,
+        "website": "",
+        "title": "Toytone Caf (Piano Tribe Mix)",
+        "next_song_date": 1504895970,
+        "id": "2998",
+        "sid_path": "MUSICIANS/C/Chotaire/Toytone_Tribe.sid",
+        "album": "",
+        "r64_id": "3439",
+        "date_played": 1504895454,
+        "r64_vote": "5",
+        "filename": "c64\\rko\\DJ Mitch - Toytone Cafe (Piano Tribe Mix).mp3",
+        "vote_percent": "92.8309",
+        "listeners": "79",
+        "live": 0,
+        "my_vote": null,
+        "next_poll": 99
+    },
+    "message": "",
+    "error": 0
+}

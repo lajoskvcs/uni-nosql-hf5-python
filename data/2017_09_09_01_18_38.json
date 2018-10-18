@@ -1,0 +1,36 @@
+{
+    "data": {
+        "listeners": "54",
+        "next_poll": 51,
+        "r64_id": "2977",
+        "my_vote": null,
+        "title": "CJ's Elephant Antics",
+        "id": "2496",
+        "next_song_date": 1504912951,
+        "vote_percent": "91.6667",
+        "requestedBy": "",
+        "r64_vote": "4",
+        "filename": "c64\\rko\\Gammasutra - CJ's Elephant Antics.mp3",
+        "artist": "Gammasutra",
+        "website": "",
+        "sid_path": "MUSICIANS/H/Hogg_Ashley/CJs_Elephant_Antics.sid",
+        "picture": "",
+        "date_played": 1504912577,
+        "duration": 187,
+        "live": 0,
+        "num_votes": "93",
+        "albumyear": "2006",
+        "requestID": "0",
+        "next_song": {
+            "live": 0,
+            "filename": "M:\\Mp3\\c64\\rko\\Cirdan - In Karate (spacesynth remix).mp3",
+            "artist": "Cirdan",
+            "title": "In Karate (spacesynth remix)",
+            "album": ""
+        },
+        "next_song_expected": 51,
+        "album": ""
+    },
+    "message": "",
+    "error": 0
+}

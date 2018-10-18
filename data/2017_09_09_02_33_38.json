@@ -1,0 +1,36 @@
+{
+    "message": "",
+    "error": 0,
+    "data": {
+        "title": "Ocean Loader 2 (Dance X-Periment)",
+        "date_played": 1504916937,
+        "my_vote": null,
+        "artist": "Sonic Wanderer",
+        "r64_id": "1723",
+        "num_votes": "137",
+        "album": "",
+        "id": "1227",
+        "next_song_expected": -43,
+        "next_song_date": 1504917403,
+        "filename": "c64\\rko\\Sonic Wanderer - Ocean Loader 2 (Dance X-Periment).mp3",
+        "sid_path": "MUSICIANS/G/Galway_Martin/Ocean_Loader_2.sid",
+        "next_song": {
+            "title": "AirRide (short mix)",
+            "filename": "M:\\Mp3\\c64\\rko\\Dafunk - AirRide (short mix).mp3",
+            "album": "",
+            "live": 0,
+            "artist": "Dafunk"
+        },
+        "requestedBy": "",
+        "live": 0,
+        "listeners": "46",
+        "website": "",
+        "albumyear": "2003",
+        "next_poll": 15,
+        "duration": 233,
+        "vote_percent": "96.1679",
+        "picture": "",
+        "r64_vote": "5",
+        "requestID": "0"
+    }
+}

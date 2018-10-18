@@ -1,0 +1,36 @@
+{
+    "message": "",
+    "error": 0,
+    "data": {
+        "id": "4334",
+        "r64_vote": "5",
+        "website": "",
+        "live": 0,
+        "sid_path": "MUSICIANS/G/Galway_Martin/Comic_Bakery.sid",
+        "duration": 207,
+        "date_played": 1504876419,
+        "vote_percent": "94.7222",
+        "next_song_date": 1504876833,
+        "next_song": {
+            "album": "",
+            "live": 0,
+            "artist": "Analog-X64",
+            "title": "Arkanoid (2013)",
+            "filename": "M:\\Mp3\\c64\\rko\\Analog-X64 - Arkanoid (2013).mp3"
+        },
+        "num_votes": "90",
+        "next_poll": 15,
+        "albumyear": "2012",
+        "filename": "c64\\rko\\Cactus - Comic Bakery (Raggamuffin).mp3",
+        "title": "Comic Bakery (Raggamuffin)",
+        "artist": "Cactus",
+        "picture": "",
+        "next_song_expected": -27,
+        "requestID": "0",
+        "requestedBy": "",
+        "r64_id": "4938",
+        "album": "",
+        "listeners": "78",
+        "my_vote": null
+    }
+}

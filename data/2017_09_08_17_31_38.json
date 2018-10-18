@@ -1,0 +1,36 @@
+{
+    "message": "",
+    "error": 0,
+    "data": {
+        "num_votes": "86",
+        "date_played": 1504884542,
+        "my_vote": null,
+        "listeners": "65",
+        "sid_path": "MUSICIANS/G/Gray_Matt/Last_Ninja_2.sid",
+        "next_poll": 21,
+        "requestedBy": "",
+        "duration": 172,
+        "vote_percent": "90.6977",
+        "artist": "Isaac Abraham",
+        "next_song_date": 1504884886,
+        "title": "The Last Ninja - Central Park",
+        "requestID": "0",
+        "id": "575",
+        "r64_id": "1205",
+        "picture": "",
+        "live": 0,
+        "album": "",
+        "albumyear": "1999",
+        "filename": "c64\\rko\\Isaac Abraham - The Last Ninja - Central Park.mp3",
+        "website": "",
+        "next_song": {
+            "live": 0,
+            "album": "",
+            "artist": "Pex \"Mahoney\" Tufvesson",
+            "filename": "M:\\Mp3\\c64\\rko\\Pex Mahoney Tufvesson - Boulder Dash (Commodore 69 mix).mp3",
+            "title": "Boulder Dash (Commodore 69 mix)"
+        },
+        "r64_vote": "4",
+        "next_song_expected": 21
+    }
+}

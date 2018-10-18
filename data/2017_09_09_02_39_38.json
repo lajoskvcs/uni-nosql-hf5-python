@@ -1,0 +1,36 @@
+{
+    "message": "",
+    "data": {
+        "website": "http://www.c64audio.com/productInfo.php?cat=PP004",
+        "vote_percent": "92.3077",
+        "r64_vote": null,
+        "requestedBy": "",
+        "picture": "Reyn_-_BBB.jpg",
+        "date_played": 1504917506,
+        "next_song": {
+            "live": 0,
+            "artist": "Cirdan",
+            "title": "Stormlord title (spacemix)",
+            "album": "",
+            "filename": "M:\\Mp3\\c64\\rko\\Cirdan - Stormlord title (spacemix).mp3"
+        },
+        "id": "3328",
+        "num_votes": "78",
+        "next_song_expected": 25,
+        "album": "The Blithe, The Blend & The Bizarre",
+        "next_song_date": 1504917690,
+        "duration": 92,
+        "sid_path": null,
+        "listeners": "44",
+        "artist": "Reyn Ouwehand",
+        "albumyear": "",
+        "live": 0,
+        "requestID": "0",
+        "title": "French Frittes",
+        "r64_id": null,
+        "next_poll": 25,
+        "filename": "c64\\Albums\\Reyn Ouwehand - Blithe Blend Bizarre\\04 French Frittes.mp3",
+        "my_vote": null
+    },
+    "error": 0
+}

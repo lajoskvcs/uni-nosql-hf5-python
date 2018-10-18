@@ -1,0 +1,36 @@
+{
+    "error": 0,
+    "message": "",
+    "data": {
+        "picture": "",
+        "live": 0,
+        "listeners": "45",
+        "sid_path": "MUSICIANS/G/Galway_Martin/Street_Hawk_Prototype.sid",
+        "title": "Street Hawk",
+        "artist": "moog (Sebastian Bachli\u00f1ski)",
+        "id": "2920",
+        "requestID": "0",
+        "requestedBy": "",
+        "num_votes": "114",
+        "website": "",
+        "date_played": 1504917312,
+        "my_vote": null,
+        "next_poll": 105,
+        "r64_vote": "6",
+        "albumyear": "2007",
+        "next_song": {
+            "artist": "BeeZerk",
+            "live": 0,
+            "album": "",
+            "filename": "M:\\Mp3\\c64\\rko\\BeeZerk - Saxon's End.mp3",
+            "title": "Saxon's End"
+        },
+        "next_song_expected": 105,
+        "next_song_date": 1504917684,
+        "r64_id": "3372",
+        "vote_percent": "91.4474",
+        "album": "",
+        "duration": 186,
+        "filename": "c64\\rko\\moog (Sebastian Bachlinski) - Street Hawk.mp3"
+    }
+}

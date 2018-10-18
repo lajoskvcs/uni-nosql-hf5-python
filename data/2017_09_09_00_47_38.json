@@ -1,0 +1,36 @@
+{
+    "error": 0,
+    "message": "",
+    "data": {
+        "website": "",
+        "my_vote": null,
+        "next_song": {
+            "live": 0,
+            "artist": "Thomas Detert",
+            "title": "Clystron",
+            "filename": "M:\\Mp3\\c64\\rko\\Thomas Detert - Clystron.mp3",
+            "album": ""
+        },
+        "num_votes": "147",
+        "duration": 259,
+        "r64_vote": "6",
+        "filename": "c64\\rko\\Cirdan - Last Ninja III (qso-mix).mp3",
+        "requestID": "0",
+        "sid_path": "MUSICIANS/O/Ouwehand_Reyn/Last_Ninja_3.sid",
+        "next_song_expected": 79,
+        "vote_percent": "94.3878",
+        "id": "194",
+        "r64_id": "1207",
+        "artist": "Cirdan",
+        "listeners": "57",
+        "next_poll": 79,
+        "live": 0,
+        "picture": "",
+        "album": "",
+        "requestedBy": "",
+        "title": "Last Ninja III (qso-mix)",
+        "next_song_date": 1504911191,
+        "date_played": 1504910673,
+        "albumyear": "2002"
+    }
+}

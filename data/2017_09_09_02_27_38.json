@@ -1,0 +1,36 @@
+{
+    "message": "",
+    "error": 0,
+    "data": {
+        "vote_percent": "90.5963",
+        "next_song_expected": 106,
+        "artist": "Fby",
+        "next_song": {
+            "album": "",
+            "live": 0,
+            "title": "Ocean Loader 2 (Dance X-Periment)",
+            "filename": "M:\\Mp3\\c64\\rko\\Sonic Wanderer - Ocean Loader 2 (Dance X-Periment).mp3",
+            "artist": "Sonic Wanderer"
+        },
+        "albumyear": "2006",
+        "next_poll": 106,
+        "my_vote": null,
+        "r64_vote": "6",
+        "album": "",
+        "id": "2713",
+        "r64_id": "3176",
+        "filename": "c64\\rko\\Fby - Black lamp (symphony).mp3",
+        "duration": 245,
+        "listeners": "48",
+        "picture": "",
+        "requestedBy": "",
+        "sid_path": "MUSICIANS/F/Follin_Tim/Black_Lamp.sid",
+        "title": "Black lamp (symphony)",
+        "num_votes": "109",
+        "next_song_date": 1504917204,
+        "live": 0,
+        "website": "",
+        "requestID": "0",
+        "date_played": 1504916714
+    }
+}

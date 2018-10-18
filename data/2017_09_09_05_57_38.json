@@ -1,0 +1,36 @@
+{
+    "error": 0,
+    "message": "",
+    "data": {
+        "next_poll": 58,
+        "website": "",
+        "albumyear": "2016",
+        "requestedBy": "",
+        "sid_path": "MUSICIANS/R/Rousseau_Marcus/Crimson_Blessing.sid",
+        "r64_id": "5587",
+        "picture": "",
+        "vote_percent": "97.8261",
+        "date_played": 1504929203,
+        "artist": "MRT",
+        "live": 0,
+        "requestID": "0",
+        "num_votes": "23",
+        "next_song_date": 1504929819,
+        "duration": 308,
+        "listeners": "38",
+        "id": "4874",
+        "next_song": {
+            "filename": "M:\\Mp3\\c64\\rko\\Kent 'Trace' Walld\u00e9n - OMAHD (Clubby house-trance mix).mp3",
+            "album": "",
+            "live": 0,
+            "artist": "Kent 'Trace' Walld\u00e9n",
+            "title": "OMAHD (Clubby house-trance mix)"
+        },
+        "filename": "c64\\rko\\MRT - Crimson Blessing.mp3",
+        "next_song_expected": 58,
+        "my_vote": null,
+        "album": "",
+        "r64_vote": "6",
+        "title": "Crimson Blessing"
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "data": {
+        "title": "Shavitt No.7",
+        "r64_id": "3204",
+        "albumyear": "2006",
+        "artist": "Red Devil",
+        "next_song_expected": 1,
+        "num_votes": "117",
+        "id": "2739",
+        "duration": 186,
+        "requestID": "0",
+        "date_played": 1504914868,
+        "r64_vote": "5",
+        "filename": "c64\\rko\\Red Devil - Shavitt No.7.mp3",
+        "album": "",
+        "sid_path": "MUSICIANS/S/Shavitt_Guy/Sidchip_Music_Score_7.sid",
+        "live": 0,
+        "listeners": "49",
+        "website": "",
+        "next_song_date": 1504915240,
+        "requestedBy": "",
+        "picture": "",
+        "next_song": {
+            "artist": "Markus Schneider",
+            "album": "Remix64 - Into Eternity",
+            "title": "Butcher Hill (Ben Daglish)",
+            "live": 0,
+            "filename": "M:\\Mp3\\c64\\Albums\\Various Artists - Remix64 - Into Eternity\\10-markus_schneider-butcher_hill_(ben_daglish)-byter.mp3"
+        },
+        "next_poll": 15,
+        "vote_percent": "93.3761",
+        "my_vote": null
+    },
+    "error": 0,
+    "message": ""
+}

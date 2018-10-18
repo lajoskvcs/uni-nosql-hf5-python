@@ -1,0 +1,36 @@
+{
+    "data": {
+        "id": "573",
+        "next_song_date": 1504908126,
+        "requestedBy": "",
+        "live": 0,
+        "next_poll": 70,
+        "vote_percent": "99.3421",
+        "requestID": "0",
+        "listeners": "59",
+        "title": "Westbank",
+        "r64_vote": null,
+        "album": "",
+        "next_song_expected": 70,
+        "artist": "Instant Remedy",
+        "filename": "c64\\rko\\Instant Remedy - Westbank.mp3",
+        "next_song": {
+            "artist": "Mattias Sachal",
+            "album": "",
+            "live": 0,
+            "title": "Barbarian (Orchestral)",
+            "filename": "M:\\Mp3\\c64\\rko\\Mattias Sachal - Barbarian (Orchestral).mp3"
+        },
+        "my_vote": null,
+        "r64_id": null,
+        "num_votes": "38",
+        "date_played": 1504907840,
+        "duration": 143,
+        "picture": "",
+        "sid_path": null,
+        "website": "",
+        "albumyear": "1998"
+    },
+    "error": 0,
+    "message": ""
+}

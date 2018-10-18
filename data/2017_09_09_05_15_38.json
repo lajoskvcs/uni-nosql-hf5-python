@@ -1,0 +1,36 @@
+{
+    "message": "",
+    "error": 0,
+    "data": {
+        "next_song_expected": 97,
+        "requestID": "0",
+        "next_poll": 97,
+        "albumyear": "0",
+        "next_song": {
+            "album": "",
+            "artist": "The SIE",
+            "filename": "M:\\Mp3\\c64\\rko\\The SIE - Rock'n'Roll level1 ala Shadows.mp3",
+            "live": 0,
+            "title": "Rock'n'Roll level1 ala Shadows"
+        },
+        "website": "",
+        "num_votes": "207",
+        "r64_vote": "5",
+        "next_song_date": 1504927196,
+        "date_played": 1504926864,
+        "requestedBy": "",
+        "r64_id": "5188",
+        "sid_path": "MUSICIANS/D/Danko_Tomas/Into_the_Past.sid",
+        "listeners": "38",
+        "picture": "",
+        "artist": "Slaygon",
+        "id": "4515",
+        "my_vote": null,
+        "vote_percent": "98.0676",
+        "duration": 166,
+        "album": "",
+        "filename": "c64\\rko\\Slaygon - Into the Past (feat. Mordi).mp3",
+        "live": 0,
+        "title": "Into the Past (feat. Mordi)"
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "error": 0,
+    "data": {
+        "num_votes": "124",
+        "sid_path": "MUSICIANS/H/Hubbard_Rob/Spellbound.sid",
+        "picture": "",
+        "next_song_date": 1504895196,
+        "albumyear": "2006",
+        "next_song": {
+            "filename": "M:\\Mp3\\c64\\rko\\Wobbler - Future Shock (Analogue addicts mix).mp3",
+            "artist": "Wobbler",
+            "title": "Future Shock (Analogue addicts mix)",
+            "album": "",
+            "live": 0
+        },
+        "title": "Spellbound (64 Knights And One Round Table)",
+        "r64_vote": "5",
+        "artist": "Hazel",
+        "r64_id": "3202",
+        "vote_percent": "95.1613",
+        "live": 0,
+        "id": "2741",
+        "next_song_expected": -4,
+        "duration": 307,
+        "next_poll": 15,
+        "my_vote": null,
+        "album": "",
+        "listeners": "75",
+        "requestedBy": "",
+        "filename": "c64\\rko\\Hazel - Spellbound (64 Knights And One Round Table).mp3",
+        "website": "",
+        "requestID": "0",
+        "date_played": 1504894582
+    },
+    "message": ""
+}

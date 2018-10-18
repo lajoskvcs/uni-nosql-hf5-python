@@ -1,0 +1,36 @@
+{
+    "error": 0,
+    "data": {
+        "next_song_expected": -44,
+        "album": "",
+        "sid_path": "MUSICIANS/H/Hubbard_Rob/Delta.sid",
+        "listeners": "39",
+        "requestedBy": "",
+        "vote_percent": "93.4375",
+        "live": 0,
+        "website": "",
+        "my_vote": null,
+        "filename": "c64\\rko\\Hoylander - Delta (main theme).mp3",
+        "picture": "",
+        "title": "Delta (main theme)",
+        "next_song": {
+            "filename": "M:\\Mp3\\c64\\rko\\Amok - Dulcedo Cogitationis (Sad n Soft Mix).mp3",
+            "title": "Dulcedo Cogitationis (Sad n Soft Mix)",
+            "artist": "Amok",
+            "album": "",
+            "live": 0
+        },
+        "r64_id": "4361",
+        "artist": "Hoylander",
+        "duration": 173,
+        "albumyear": "2010",
+        "next_song_date": 1504922922,
+        "r64_vote": "4",
+        "id": "3828",
+        "date_played": 1504922576,
+        "next_poll": 15,
+        "requestID": "0",
+        "num_votes": "80"
+    },
+    "message": ""
+}

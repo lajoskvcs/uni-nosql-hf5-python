@@ -1,0 +1,36 @@
+{
+    "data": {
+        "date_played": 1504930239,
+        "r64_vote": "6",
+        "requestID": "0",
+        "listeners": "42",
+        "artist": "Martin Dodd",
+        "picture": "",
+        "next_poll": 15,
+        "sid_path": "MUSICIANS/B/Beben_Wally/Total_Eclipse.sid",
+        "id": "4742",
+        "vote_percent": "96.0000",
+        "next_song_date": 1504931199,
+        "num_votes": "50",
+        "duration": 480,
+        "filename": "c64\\rko\\Martin Dodd - Total Eclipse (Main Theme Remix).mp3",
+        "requestedBy": "",
+        "albumyear": "2015",
+        "r64_id": "5401",
+        "next_song_expected": 6,
+        "title": "Total Eclipse (Main Theme Remix)",
+        "my_vote": null,
+        "live": 0,
+        "next_song": {
+            "artist": "Marcel Donn\u00e9",
+            "filename": "M:\\Mp3\\c64\\rko\\Marcel Donn\u00e9 - Watch It!.mp3",
+            "title": "Watch It!",
+            "album": "",
+            "live": 0
+        },
+        "album": "",
+        "website": ""
+    },
+    "error": 0,
+    "message": ""
+}

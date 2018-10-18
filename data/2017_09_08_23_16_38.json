@@ -1,0 +1,36 @@
+{
+    "data": {
+        "id": "4762",
+        "date_played": 1504905265,
+        "website": "",
+        "album": "",
+        "filename": "c64\\rko\\LukHash - Bruce Lee [youtube vid].mp3",
+        "albumyear": "1984",
+        "sid_path": "MUSICIANS/F/Fitzpatrick_John/Bruce_Lee.sid",
+        "title": "Bruce Lee [youtube vid]",
+        "requestID": "0",
+        "vote_percent": "99.4845",
+        "live": 0,
+        "duration": 173,
+        "next_song_date": 1504905611,
+        "picture": "",
+        "next_poll": 45,
+        "r64_vote": "6",
+        "num_votes": "97",
+        "r64_id": "5430",
+        "next_song_expected": 45,
+        "next_song": {
+            "live": 0,
+            "artist": "A.Zhukoff",
+            "album": "",
+            "title": "ThunderCats",
+            "filename": "M:\\Mp3\\c64\\rko\\A.Zhukoff - ThunderCats.mp3"
+        },
+        "requestedBy": "",
+        "listeners": "62",
+        "artist": "LukHash",
+        "my_vote": null
+    },
+    "error": 0,
+    "message": ""
+}

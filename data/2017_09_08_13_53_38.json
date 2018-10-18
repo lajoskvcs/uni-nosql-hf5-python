@@ -1,0 +1,36 @@
+{
+    "data": {
+        "next_song": {
+            "album": "",
+            "title": "Deflektor (In Your Face Mix)",
+            "live": 0,
+            "artist": "KryogeniK",
+            "filename": "M:\\Mp3\\c64\\rko\\KryogeniK - Deflektor (In Your Face Mix).mp3"
+        },
+        "date_played": 1504871574,
+        "requestID": "0",
+        "num_votes": "50",
+        "requestedBy": "",
+        "next_song_date": 1504871952,
+        "r64_id": "166",
+        "my_vote": null,
+        "id": "965",
+        "sid_path": "MUSICIANS/H/Hubbard_Rob/Delta.sid",
+        "artist": "Peter Connolly",
+        "duration": 189,
+        "next_song_expected": 150,
+        "albumyear": "0",
+        "vote_percent": "99.5000",
+        "album": "",
+        "filename": "c64\\rko\\Peter Connolly - Delta.mp3",
+        "website": "",
+        "picture": "",
+        "live": 0,
+        "title": "Delta",
+        "next_poll": 150,
+        "r64_vote": "4",
+        "listeners": "88"
+    },
+    "error": 0,
+    "message": ""
+}

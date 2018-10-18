@@ -1,0 +1,36 @@
+{
+    "message": "",
+    "error": 0,
+    "data": {
+        "website": "",
+        "title": "Bard's Tale II (Subtune 3)",
+        "vote_percent": "87.7500",
+        "next_poll": 28,
+        "filename": "c64\\rko\\Chris Prattini - Bards Tale II (Subtune 3).mp3",
+        "picture": "",
+        "id": "1844",
+        "album": "",
+        "next_song_expected": 28,
+        "artist": "Chris Prattini",
+        "my_vote": null,
+        "sid_path": "MUSICIANS/W/Warhol_Dave/Bards_Tale_II-Destiny_Knight.sid",
+        "num_votes": "100",
+        "duration": 136,
+        "next_song_date": 1504911917,
+        "albumyear": "2004",
+        "listeners": "56",
+        "requestID": "0",
+        "r64_id": "2254",
+        "live": 0,
+        "next_song": {
+            "title": "Flimbo's Quest (For The Ultimate Beat)",
+            "filename": "M:\\Mp3\\c64\\rko\\Sonic Wanderer - Flimbo's Quest (For The Ultimate Beat).mp3",
+            "artist": "Sonic Wanderer",
+            "live": 0,
+            "album": ""
+        },
+        "r64_vote": "5",
+        "requestedBy": "",
+        "date_played": 1504911645
+    }
+}

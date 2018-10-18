@@ -1,0 +1,36 @@
+{
+    "data": {
+        "r64_id": null,
+        "num_votes": "123",
+        "artist": "Reyn Ouwehand",
+        "live": 0,
+        "next_song_expected": 83,
+        "filename": "c64\\Albums\\Reyn Ouwehand - Galway Remixed\\07 - Parallax [ingame].mp3",
+        "vote_percent": "96.7480",
+        "title": "Parallax [ingame]",
+        "r64_vote": null,
+        "duration": 191,
+        "picture": "Reyn_-_Galway_remixed.jpg",
+        "next_song": {
+            "artist": "Peacemaker",
+            "title": "Ocean Loader 2",
+            "album": "",
+            "filename": "M:\\Mp3\\c64\\rko\\Peacemaker - Ocean Loader 2.mp3",
+            "live": 0
+        },
+        "website": "http://www.c64audio.com/productInfo.php?cat=PP002",
+        "my_vote": null,
+        "next_poll": 83,
+        "requestID": "0",
+        "album": "Galway [Remixed]",
+        "albumyear": "2002",
+        "id": "2318",
+        "requestedBy": "",
+        "date_played": 1504915305,
+        "next_song_date": 1504915687,
+        "sid_path": null,
+        "listeners": "50"
+    },
+    "error": 0,
+    "message": ""
+}

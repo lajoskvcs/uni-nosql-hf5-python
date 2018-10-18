@@ -1,0 +1,36 @@
+{
+    "message": "",
+    "data": {
+        "artist": "Jeroen Breebaart",
+        "next_poll": 15,
+        "listeners": "61",
+        "sid_path": "MUSICIANS/H/Hubbard_Rob/International_Karate.sid",
+        "date_played": 1504907455,
+        "next_song_expected": -31,
+        "id": "598",
+        "next_song": {
+            "live": 0,
+            "artist": "DjLizard",
+            "album": "",
+            "title": "Temple of Apshai (Drum and Bass)",
+            "filename": "M:\\Mp3\\c64\\rko\\DjLizard - Temple of Apshai (Drum and Bass).mp3"
+        },
+        "num_votes": "174",
+        "r64_vote": "6",
+        "requestedBy": "",
+        "duration": 247,
+        "my_vote": null,
+        "filename": "c64\\rko\\Jeroen Breebaart - International Karate (80s remix).mp3",
+        "vote_percent": "95.9770",
+        "live": 0,
+        "website": "",
+        "albumyear": "0",
+        "picture": "",
+        "album": "",
+        "r64_id": "1609",
+        "title": "International Karate (80s remix)",
+        "requestID": "0",
+        "next_song_date": 1504907949
+    },
+    "error": 0
+}

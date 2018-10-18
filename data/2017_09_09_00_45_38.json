@@ -1,0 +1,36 @@
+{
+    "error": 0,
+    "message": "",
+    "data": {
+        "requestedBy": "",
+        "title": "Lightforce",
+        "sid_path": "MUSICIANS/H/Hubbard_Rob/Lightforce.sid",
+        "filename": "c64\\non-RKO\\x-formz_-_lightforcev2.mp3",
+        "picture": "",
+        "id": "1461",
+        "live": 0,
+        "r64_vote": "5",
+        "listeners": "58",
+        "requestID": "0",
+        "next_song": {
+            "filename": "M:\\Mp3\\c64\\rko\\Thomas Detert - Clystron.mp3",
+            "album": "",
+            "title": "Clystron",
+            "live": 0,
+            "artist": "Thomas Detert"
+        },
+        "vote_percent": "96.2121",
+        "artist": "X-formZ",
+        "album": "",
+        "albumyear": "2003",
+        "next_song_date": 1504910881,
+        "next_song_expected": -66,
+        "num_votes": "99",
+        "duration": 214,
+        "next_poll": 15,
+        "my_vote": null,
+        "website": "",
+        "r64_id": "1936",
+        "date_played": 1504910453
+    }
+}

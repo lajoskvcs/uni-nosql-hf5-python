@@ -1,0 +1,36 @@
+{
+    "error": 0,
+    "message": "",
+    "data": {
+        "artist": "Instant Remedy",
+        "requestID": "0",
+        "album": "Instant Remedy",
+        "title": "International Karate",
+        "picture": "Instant_Remedy.jpg",
+        "sid_path": null,
+        "date_played": 1504900269,
+        "r64_id": null,
+        "website": "http://www.c64audio.com/productInfo.php?cat=IR01",
+        "next_song_date": 1504900743,
+        "next_song_expected": 213,
+        "r64_vote": null,
+        "next_poll": 213,
+        "next_song": {
+            "title": "Fairlight",
+            "filename": "M:\\Mp3\\c64\\rko\\Doctorrus Petrixuss - Fairlight.mp3",
+            "live": 0,
+            "album": "",
+            "artist": "Doctorrus Petrixuss"
+        },
+        "listeners": "63",
+        "duration": 237,
+        "my_vote": null,
+        "requestedBy": "",
+        "id": "2179",
+        "vote_percent": "95.1872",
+        "albumyear": "2002",
+        "live": 0,
+        "num_votes": "187",
+        "filename": "c64\\Albums\\Instant Remedy - Instant Remedy\\04 - International Karate.mp3"
+    }
+}

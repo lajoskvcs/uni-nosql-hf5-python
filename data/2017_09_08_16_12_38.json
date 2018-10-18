@@ -1,0 +1,36 @@
+{
+    "message": "",
+    "data": {
+        "next_song_expected": 40,
+        "next_song_date": 1504880307,
+        "album": "",
+        "website": "",
+        "live": 0,
+        "next_poll": 40,
+        "filename": "c64\\rko\\Johan Andersson - Myth.mp3",
+        "id": "4646",
+        "sid_path": "MUSICIANS/T/Tel_Jeroen/Myth.sid",
+        "duration": 314,
+        "artist": "Johan Andersson",
+        "next_song": {
+            "live": 0,
+            "filename": "M:\\Mp3\\c64\\rko\\Taxim - Last Ninja 1 - Inner sanctum.mp3",
+            "artist": "Taxim",
+            "title": "Last Ninja 1 - Inner sanctum",
+            "album": ""
+        },
+        "requestID": "0",
+        "requestedBy": "",
+        "r64_id": "5254",
+        "listeners": "72",
+        "title": "Myth",
+        "num_votes": "37",
+        "vote_percent": "98.0263",
+        "date_played": 1504879679,
+        "albumyear": "2014",
+        "my_vote": null,
+        "r64_vote": "5",
+        "picture": ""
+    },
+    "error": 0
+}

@@ -1,0 +1,36 @@
+{
+    "data": {
+        "artist": "Cirdan",
+        "next_song": {
+            "live": 0,
+            "filename": "M:\\Mp3\\c64\\rko\\Thomas Detert - Sigma Seven (Chariots of fire remix).mp3",
+            "album": "",
+            "artist": "Thomas Detert",
+            "title": "Sigma Seven (Chariots of fire remix)"
+        },
+        "next_song_date": 1504913421,
+        "live": 0,
+        "num_votes": "139",
+        "next_song_expected": -41,
+        "filename": "c64\\rko\\Cirdan - In Karate (spacesynth remix).mp3",
+        "vote_percent": "96.0432",
+        "r64_vote": "5",
+        "sid_path": "MUSICIANS/O/Ouwehand_Reyn/In_Karate.sid",
+        "requestedBy": "",
+        "requestID": "0",
+        "duration": 329,
+        "id": "1976",
+        "website": "",
+        "date_played": 1504912763,
+        "next_poll": 15,
+        "albumyear": "2004",
+        "picture": "",
+        "listeners": "53",
+        "title": "In Karate (spacesynth remix)",
+        "album": "",
+        "r64_id": "2353",
+        "my_vote": null
+    },
+    "error": 0,
+    "message": ""
+}

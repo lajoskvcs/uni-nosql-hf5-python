@@ -1,0 +1,36 @@
+{
+    "data": {
+        "requestedBy": "raw",
+        "sid_path": "MUSICIANS/B/Brennan_Neil/Bazooka_Bill.sid",
+        "title": "Bazooka Bill (Subtune 1)",
+        "listeners": "84",
+        "filename": "c64\\rko\\Westerling - Bazooka Bill (Subtune 1).mp3",
+        "next_song_expected": 149,
+        "requestID": "462412",
+        "r64_vote": "5",
+        "artist": "Westerling",
+        "r64_id": "2899",
+        "duration": 225,
+        "live": 0,
+        "next_song": {
+            "album": "Nexus 6581-II",
+            "title": "Bombo (Ben Daglish)",
+            "live": 0,
+            "filename": "M:\\Mp3\\c64\\Albums\\Reyn Ouwehand - Nexus 6581 II\\01-reyn_ouwehand-bombo_(ben_daglish)-byter.mp3",
+            "artist": "Reyn Ouwehand"
+        },
+        "next_song_date": 1504874087,
+        "picture": "",
+        "album": "",
+        "next_poll": 149,
+        "date_played": 1504873637,
+        "id": "2458",
+        "vote_percent": "97.0845",
+        "my_vote": null,
+        "website": "",
+        "albumyear": "2005",
+        "num_votes": "343"
+    },
+    "message": "",
+    "error": 0
+}

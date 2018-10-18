@@ -1,0 +1,36 @@
+{
+    "message": "",
+    "data": {
+        "id": "379",
+        "sid_path": "MUSICIANS/F/Future_Freak/Last_Hero.sid",
+        "requestID": "0",
+        "next_poll": 15,
+        "next_song_date": 1504881642,
+        "next_song": {
+            "live": 0,
+            "album": "",
+            "artist": "Aki J\u00e4rvinen",
+            "title": "Monty On The Run (Metal Remix)",
+            "filename": "M:\\Mp3\\c64\\rko\\Aki Jarvinen - Monty On The Run (Metal Remix).mp3"
+        },
+        "album": "",
+        "website": "",
+        "vote_percent": "92.9577",
+        "filename": "c64\\rko\\Estrayk - Last Hero.mp3",
+        "requestedBy": "",
+        "picture": "",
+        "listeners": "76",
+        "r64_vote": "5",
+        "next_song_expected": -23,
+        "live": 0,
+        "artist": "Estrayk",
+        "duration": 92,
+        "r64_id": "701",
+        "my_vote": null,
+        "albumyear": "0",
+        "date_played": 1504881458,
+        "num_votes": "71",
+        "title": "Last Hero"
+    },
+    "error": 0
+}

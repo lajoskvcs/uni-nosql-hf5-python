@@ -1,0 +1,36 @@
+{
+    "message": "",
+    "error": 0,
+    "data": {
+        "requestedBy": "",
+        "r64_vote": "4",
+        "my_vote": null,
+        "vote_percent": "97.5275",
+        "requestID": "0",
+        "num_votes": "91",
+        "sid_path": "MUSICIANS/B/Barrett_Steve/Pulse_Warrior.sid",
+        "r64_id": "3492",
+        "picture": "",
+        "next_song_date": 1504897835,
+        "filename": "c64\\rko\\Dr. Bongo - Pulse Warrior (Gotta keep on going).mp3",
+        "next_poll": 114,
+        "title": "Pulse Warrior (Gotta keep on going)",
+        "live": 0,
+        "albumyear": "2007",
+        "artist": "Dr. Bongo",
+        "duration": 188,
+        "next_song_expected": 114,
+        "listeners": "75",
+        "album": "",
+        "next_song": {
+            "album": "Back in Time Live DVD",
+            "title": "Comic Bakery",
+            "live": 0,
+            "filename": "M:\\Mp3\\c64\\Albums\\Back in Time Live\\Visa Roster _ Comic Bakery.mp3",
+            "artist": "Visa R\u00f6ster"
+        },
+        "id": "2958",
+        "website": "",
+        "date_played": 1504897459
+    }
+}

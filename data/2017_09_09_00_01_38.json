@@ -1,0 +1,36 @@
+{
+    "data": {
+        "requestedBy": "",
+        "sid_path": null,
+        "date_played": 1504907980,
+        "title": "Barbarian (Orchestral)",
+        "next_song": {
+            "title": "Jeroen (Free to Love)",
+            "live": 0,
+            "artist": "Mordi",
+            "album": "",
+            "filename": "M:\\Mp3\\c64\\rko\\Mordi - Jeroen (Free to Love).mp3"
+        },
+        "next_song_expected": -16,
+        "albumyear": "0",
+        "vote_percent": "89.6875",
+        "live": 0,
+        "duration": 97,
+        "next_song_date": 1504908174,
+        "filename": "c64\\rko\\Mattias Sachal - Barbarian (Orchestral).mp3",
+        "website": "",
+        "my_vote": null,
+        "next_poll": 15,
+        "album": "",
+        "id": "819",
+        "r64_id": null,
+        "listeners": "60",
+        "artist": "Mattias Sachal",
+        "r64_vote": null,
+        "num_votes": "80",
+        "requestID": "0",
+        "picture": ""
+    },
+    "error": 0,
+    "message": ""
+}

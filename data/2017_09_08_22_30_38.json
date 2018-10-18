@@ -1,0 +1,36 @@
+{
+    "data": {
+        "live": 0,
+        "albumyear": "2013",
+        "sid_path": "MUSICIANS/H/Huelsbeck_Chris/R-Type.sid",
+        "requestedBy": "",
+        "next_song_expected": 50,
+        "num_votes": "39",
+        "picture": "",
+        "next_poll": 50,
+        "r64_id": "5135",
+        "duration": 143,
+        "id": "4472",
+        "vote_percent": "97.4359",
+        "r64_vote": "5",
+        "next_song": {
+            "filename": "M:\\Mp3\\c64\\rko\\AcidBlock - Training (Kicks with a punch Remix).mp3",
+            "title": "Training (Kicks with a punch Remix)",
+            "album": "",
+            "live": 0,
+            "artist": "AcidBlock"
+        },
+        "title": "R-Type - Main Theme (YM2151 Arrange)",
+        "next_song_date": 1504902826,
+        "listeners": "67",
+        "requestID": "0",
+        "album": "",
+        "artist": "Luke McQueen",
+        "date_played": 1504902540,
+        "filename": "c64\\rko\\Luke McQueen - R-Type - Main Theme (YM2151 Arrange).mp3",
+        "website": "",
+        "my_vote": null
+    },
+    "message": "",
+    "error": 0
+}

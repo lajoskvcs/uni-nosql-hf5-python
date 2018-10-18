@@ -1,0 +1,36 @@
+{
+    "data": {
+        "live": 0,
+        "website": "",
+        "picture": "",
+        "r64_vote": "5",
+        "sid_path": "MUSICIANS/C/Crowther_Antony/R1D1.sid",
+        "r64_id": "3431",
+        "filename": "c64\\rko\\DJ Skitz - R1D1 (Funky Gibbon Mix).mp3",
+        "date_played": 1504891397,
+        "requestID": "462423",
+        "my_vote": null,
+        "title": "R1D1 (Funky Gibbon Mix)",
+        "artist": "DJ Skitz",
+        "vote_percent": "90.7895",
+        "id": "2938",
+        "album": "",
+        "next_song_date": 1504891763,
+        "duration": 183,
+        "albumyear": "2007",
+        "listeners": "76",
+        "next_song_expected": -13,
+        "next_song": {
+            "live": 0,
+            "title": "Hatlelid's Grand Prix Circuit (Medley Mix)",
+            "filename": "M:\\Mp3\\c64\\rko\\Makke - Hatlelid's Grand Prix Circuit (Medley Mix).mp3",
+            "album": "",
+            "artist": "Makke"
+        },
+        "num_votes": "209",
+        "requestedBy": "zdooder",
+        "next_poll": 15
+    },
+    "error": 0,
+    "message": ""
+}

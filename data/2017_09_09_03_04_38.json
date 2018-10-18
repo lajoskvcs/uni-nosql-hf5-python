@@ -1,0 +1,36 @@
+{
+    "error": 0,
+    "data": {
+        "artist": "Instant Remedy",
+        "filename": "c64\\Albums\\Instant Remedy - Instant Remedy\\01 - Last Ninja - The Palace.mp3",
+        "r64_vote": null,
+        "duration": 298,
+        "id": "2176",
+        "next_song_date": 1504919436,
+        "sid_path": null,
+        "picture": "Instant_Remedy.jpg",
+        "vote_percent": "95.9064",
+        "next_poll": 65,
+        "my_vote": null,
+        "num_votes": "171",
+        "next_song": {
+            "artist": "Mordi",
+            "album": "",
+            "title": "Agent X 2",
+            "live": 0,
+            "filename": "M:\\Mp3\\c64\\rko\\Mordi - Agent X 2.mp3"
+        },
+        "albumyear": "2002",
+        "date_played": 1504918840,
+        "website": "http://www.c64audio.com/productInfo.php?cat=IR01",
+        "title": "Last Ninja - The Palace",
+        "live": 0,
+        "requestID": "0",
+        "r64_id": null,
+        "next_song_expected": 65,
+        "requestedBy": "",
+        "album": "Instant Remedy",
+        "listeners": "39"
+    },
+    "message": ""
+}

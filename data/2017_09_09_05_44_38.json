@@ -1,0 +1,36 @@
+{
+    "data": {
+        "listeners": "40",
+        "requestedBy": "",
+        "artist": "Hazel",
+        "id": "3524",
+        "title": "Savage (A Kingdom Will Fall)",
+        "live": 0,
+        "picture": "",
+        "next_song_date": 1504929012,
+        "vote_percent": "94.3452",
+        "r64_vote": "5",
+        "sid_path": "MUSICIANS/T/Tel_Jeroen/Savage.sid",
+        "album": "",
+        "date_played": 1504928268,
+        "next_poll": 15,
+        "next_song_expected": -33,
+        "num_votes": "168",
+        "filename": "c64\\rko\\Hazel - Savage (A Kingdom Will Fall).mp3",
+        "my_vote": null,
+        "next_song": {
+            "album": "",
+            "title": "Slow Slower (Place in the Space mix)",
+            "live": 0,
+            "artist": "Xandra",
+            "filename": "M:\\Mp3\\c64\\rko\\Xandra - Slow Slower (Place in the Space mix).mp3"
+        },
+        "r64_id": "4052",
+        "website": "",
+        "albumyear": "2009",
+        "requestID": "0",
+        "duration": 372
+    },
+    "message": "",
+    "error": 0
+}

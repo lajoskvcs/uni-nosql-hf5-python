@@ -1,0 +1,36 @@
+{
+    "message": "",
+    "data": {
+        "artist": "AcidBlock",
+        "num_votes": "83",
+        "next_song_expected": 193,
+        "r64_id": "5035",
+        "title": "Training (Kicks with a punch Remix)",
+        "next_song": {
+            "live": 0,
+            "album": "",
+            "artist": "BeeZerk",
+            "filename": "M:\\Mp3\\c64\\rko\\BeeZerk - BeeZerk - Blasphemy (Feat. Pallaso and Kage).mp3",
+            "title": "BeeZerk - Blasphemy (Feat. Pallaso & Kage)"
+        },
+        "album": "",
+        "id": "4456",
+        "r64_vote": "5",
+        "date_played": 1504902671,
+        "listeners": "67",
+        "duration": 335,
+        "my_vote": null,
+        "next_poll": 193,
+        "live": 0,
+        "requestID": "0",
+        "requestedBy": "",
+        "vote_percent": "97.8916",
+        "picture": "",
+        "next_song_date": 1504903341,
+        "sid_path": "MUSICIANS/J/JCH/Training.sid",
+        "albumyear": "2013",
+        "filename": "c64\\rko\\AcidBlock - Training (Kicks with a punch Remix).mp3",
+        "website": ""
+    },
+    "error": 0
+}

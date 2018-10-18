@@ -1,0 +1,36 @@
+{
+    "data": {
+        "id": "3471",
+        "picture": "",
+        "artist": "DJ Skitz",
+        "requestID": "0",
+        "next_song_expected": 136,
+        "next_song_date": 1504918791,
+        "listeners": "43",
+        "r64_id": "4000",
+        "next_poll": 136,
+        "album": "",
+        "vote_percent": "90.2047",
+        "num_votes": "171",
+        "sid_path": "MUSICIANS/G/Gilmore_Adam/Draconus.sid",
+        "date_played": 1504918307,
+        "title": "Draconus Main Title (Speeds of Three Remix)",
+        "duration": 242,
+        "my_vote": null,
+        "requestedBy": "",
+        "albumyear": "2008",
+        "r64_vote": "4",
+        "next_song": {
+            "filename": "M:\\Mp3\\c64\\rko\\Sinatra - Boulder Dash.mp3",
+            "artist": "Sinatra",
+            "title": "Boulder Dash",
+            "live": 0,
+            "album": ""
+        },
+        "live": 0,
+        "website": "",
+        "filename": "c64\\rko\\DJ Skitz - Draconus Main Title (Speeds of Three Remix).mp3"
+    },
+    "error": 0,
+    "message": ""
+}

@@ -1,0 +1,36 @@
+{
+    "error": 0,
+    "message": "",
+    "data": {
+        "listeners": "73",
+        "requestID": "0",
+        "live": 0,
+        "title": "Commando Highscore",
+        "r64_vote": "4",
+        "album": "",
+        "website": "",
+        "picture": "",
+        "duration": 183,
+        "next_poll": 15,
+        "next_song_expected": -8,
+        "vote_percent": "84.5960",
+        "num_votes": "99",
+        "r64_id": "4318",
+        "next_song_date": 1504877968,
+        "artist": "Andreas Schommer",
+        "albumyear": "2010",
+        "filename": "c64\\rko\\Andreas Schommer - Commando Highscore.mp3",
+        "sid_path": "MUSICIANS/H/Hubbard_Rob/Commando.sid",
+        "date_played": 1504877602,
+        "id": "3775",
+        "requestedBy": "",
+        "my_vote": null,
+        "next_song": {
+            "artist": "Mano",
+            "live": 0,
+            "title": "Rick Dangerous (Rick's March)",
+            "filename": "M:\\Mp3\\c64\\rko\\Mano - Rick Dangerous (Rick's March).mp3",
+            "album": ""
+        }
+    }
+}

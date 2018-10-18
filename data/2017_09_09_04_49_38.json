@@ -1,0 +1,36 @@
+{
+    "data": {
+        "requestedBy": "",
+        "next_song_expected": 65,
+        "r64_vote": "5",
+        "num_votes": "133",
+        "sid_path": "MUSICIANS/H/Huelsbeck_Chris/Dulcedo_Cogitationis.sid",
+        "live": 0,
+        "id": "3189",
+        "duration": 261,
+        "next_poll": 65,
+        "requestID": "0",
+        "my_vote": null,
+        "next_song_date": 1504925699,
+        "listeners": "37",
+        "website": "",
+        "artist": "Amok",
+        "album": "",
+        "vote_percent": "94.9248",
+        "filename": "c64\\rko\\Amok - Dulcedo Cogitationis (Nightmare-Mix).mp3",
+        "albumyear": "2008",
+        "date_played": 1504925177,
+        "picture": "",
+        "r64_id": "3718",
+        "next_song": {
+            "filename": "M:\\Mp3\\c64\\rko\\Dr. Bongo - Logical (Take it Easy).mp3",
+            "title": "Logical (Take it Easy)",
+            "artist": "Dr. Bongo",
+            "live": 0,
+            "album": ""
+        },
+        "title": "Dulcedo Cogitationis (Nightmare-Mix)"
+    },
+    "message": "",
+    "error": 0
+}

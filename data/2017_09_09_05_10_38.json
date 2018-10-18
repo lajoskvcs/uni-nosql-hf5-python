@@ -1,0 +1,36 @@
+{
+    "message": "",
+    "error": 0,
+    "data": {
+        "albumyear": "2008",
+        "website": "",
+        "my_vote": null,
+        "sid_path": "MUSICIANS/T/Tel_Jeroen/Tintin_on_the_Moon.sid",
+        "next_song_expected": 17,
+        "date_played": 1504926415,
+        "picture": "",
+        "r64_id": "3895",
+        "listeners": "38",
+        "id": "3367",
+        "duration": 235,
+        "requestID": "0",
+        "vote_percent": "90.9449",
+        "artist": "BeeZerk",
+        "num_votes": "127",
+        "requestedBy": "",
+        "live": 0,
+        "r64_vote": "6",
+        "album": "",
+        "next_poll": 17,
+        "filename": "c64\\rko\\BeeZerk - Tintin On The Moon.mp3",
+        "title": "Tintin On The Moon",
+        "next_song_date": 1504926885,
+        "next_song": {
+            "title": "Thrust Electro Remix",
+            "artist": "Mortalshock",
+            "live": 0,
+            "filename": "M:\\Mp3\\c64\\rko\\Mortalshock - Thrust Electro Remix.mp3",
+            "album": ""
+        }
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "message": "",
+    "error": 0,
+    "data": {
+        "id": "4047",
+        "sid_path": "MUSICIANS/L/Link/Comic_Frame.sid",
+        "album": "",
+        "next_song_date": 1504924547,
+        "listeners": "41",
+        "live": 0,
+        "date_played": 1504924139,
+        "r64_vote": "6",
+        "requestedBy": "",
+        "next_song_expected": 110,
+        "requestID": "0",
+        "duration": 204,
+        "next_poll": 110,
+        "website": "",
+        "r64_id": "4627",
+        "picture": "",
+        "artist": "Hazel",
+        "albumyear": "2011",
+        "title": "Comic Frame",
+        "num_votes": "140",
+        "filename": "c64\\rko\\Hazel - Comic Frame.mp3",
+        "next_song": {
+            "filename": "M:\\Mp3\\c64\\rko\\Dafunk - FunKus.mp3",
+            "artist": "Dafunk",
+            "live": 0,
+            "title": "FunKus",
+            "album": ""
+        },
+        "vote_percent": "95.3571",
+        "my_vote": null
+    }
+}

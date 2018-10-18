@@ -1,0 +1,36 @@
+{
+    "message": "",
+    "data": {
+        "duration": 261,
+        "date_played": 1504921555,
+        "title": "Mega Starforce",
+        "requestID": "0",
+        "filename": "c64\\rko\\BeeZerk - Mega Starforce.mp3",
+        "next_poll": 103,
+        "live": 0,
+        "next_song_date": 1504922077,
+        "r64_id": "3717",
+        "picture": "",
+        "id": "3190",
+        "website": "",
+        "album": "",
+        "sid_path": "MUSICIANS/D/Detert_Thomas/Mega_Starforce.sid",
+        "artist": "BeeZerk",
+        "r64_vote": "6",
+        "next_song_expected": 103,
+        "requestedBy": "",
+        "albumyear": "2008",
+        "vote_percent": "93.1579",
+        "num_votes": "95",
+        "next_song": {
+            "live": 0,
+            "title": "Tower (Ambient Relaxing II)",
+            "filename": "M:\\Mp3\\c64\\rko\\C64toBit64 - Tower (Ambient Relaxing II).mp3",
+            "artist": "C64toBit64",
+            "album": ""
+        },
+        "listeners": "40",
+        "my_vote": null
+    },
+    "error": 0
+}

@@ -1,0 +1,36 @@
+{
+    "error": 0,
+    "data": {
+        "r64_vote": null,
+        "requestedBy": "",
+        "live": 0,
+        "duration": 141,
+        "sid_path": null,
+        "listeners": "61",
+        "next_song_expected": 47,
+        "title": "Temple of Apshai (Drum and Bass)",
+        "next_song_date": 1504907981,
+        "num_votes": "123",
+        "requestID": "0",
+        "next_poll": 47,
+        "my_vote": null,
+        "website": "",
+        "albumyear": "0",
+        "picture": "",
+        "filename": "c64\\rko\\DjLizard - Temple of Apshai (Drum and Bass).mp3",
+        "album": "",
+        "vote_percent": "89.6341",
+        "next_song": {
+            "title": "Westbank",
+            "filename": "M:\\Mp3\\c64\\rko\\Instant Remedy - Westbank.mp3",
+            "live": 0,
+            "album": "",
+            "artist": "Instant Remedy"
+        },
+        "artist": "DjLizard",
+        "date_played": 1504907699,
+        "id": "321",
+        "r64_id": null
+    },
+    "message": ""
+}

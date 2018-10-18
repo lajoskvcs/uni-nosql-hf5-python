@@ -1,0 +1,36 @@
+{
+    "data": {
+        "date_played": 1504922278,
+        "r64_vote": "4",
+        "id": "3633",
+        "num_votes": "148",
+        "artist": "vurtX",
+        "r64_id": "4148",
+        "listeners": "40",
+        "filename": "c64\\rko\\vurtX - Short Circuit 4 (Dischord Disco).mp3",
+        "vote_percent": "85.6419",
+        "next_song_date": 1504922930,
+        "duration": 326,
+        "sid_path": "MUSICIANS/G/Galway_Martin/Short_Circuit.sid",
+        "next_song": {
+            "filename": "M:\\Mp3\\c64\\rko\\Hoylander - Delta (main theme).mp3",
+            "artist": "Hoylander",
+            "album": "",
+            "live": 0,
+            "title": "Delta (main theme)"
+        },
+        "live": 0,
+        "requestID": "0",
+        "title": "Short Circuit 4 (Dischord Disco)",
+        "requestedBy": "",
+        "website": "",
+        "albumyear": "2009",
+        "album": "",
+        "next_poll": 51,
+        "next_song_expected": 51,
+        "my_vote": null,
+        "picture": ""
+    },
+    "error": 0,
+    "message": ""
+}

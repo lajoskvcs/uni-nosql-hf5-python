@@ -1,0 +1,36 @@
+{
+    "data": {
+        "next_song": {
+            "artist": "jgb",
+            "title": "Delta (live perf. on SLAY Radio)",
+            "live": 0,
+            "album": "SLAY Radio Live",
+            "filename": "M:\\Mp3\\c64\\non-RKO\\jgb - Delta (live perf. on SLAY Radio).mp3"
+        },
+        "my_vote": null,
+        "next_poll": 23,
+        "id": "224",
+        "r64_vote": "4",
+        "vote_percent": "91.3110",
+        "duration": 236,
+        "albumyear": "0",
+        "r64_id": "555",
+        "filename": "c64\\rko\\CZ Tunes - Target Renegade - Title.mp3",
+        "title": "Target Renegade - Title",
+        "requestID": "0",
+        "num_votes": "164",
+        "date_played": 1504910940,
+        "sid_path": "MUSICIANS/B/Biasillo_Gary/Target_Renegade.sid",
+        "picture": "",
+        "artist": "CZ Tunes",
+        "requestedBy": "",
+        "next_song_expected": 23,
+        "listeners": "57",
+        "next_song_date": 1504911412,
+        "live": 0,
+        "website": "",
+        "album": ""
+    },
+    "message": "",
+    "error": 0
+}

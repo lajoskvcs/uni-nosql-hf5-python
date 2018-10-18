@@ -1,0 +1,36 @@
+{
+    "message": "",
+    "error": 0,
+    "data": {
+        "next_song_date": 1504890118,
+        "next_poll": 112,
+        "requestedBy": "",
+        "id": "1123",
+        "live": 0,
+        "duration": 153,
+        "date_played": 1504889812,
+        "next_song": {
+            "filename": "M:\\Mp3\\c64\\rko\\MRT - Deflektor (softer version).mp3",
+            "title": "deflektor - softer version",
+            "artist": "MRT",
+            "live": 0,
+            "album": ""
+        },
+        "requestID": "0",
+        "listeners": "72",
+        "my_vote": null,
+        "sid_path": "MUSICIANS/G/Gray_Matt/Driller.sid",
+        "album": "",
+        "artist": "Rob Steptoe",
+        "albumyear": "0",
+        "filename": "c64\\rko\\Rob Steptoe - Driller - Part 1.mp3",
+        "r64_id": "801",
+        "picture": "",
+        "vote_percent": "96.0417",
+        "r64_vote": "5",
+        "num_votes": "120",
+        "website": "",
+        "title": "Driller - Part 1",
+        "next_song_expected": 112
+    }
+}

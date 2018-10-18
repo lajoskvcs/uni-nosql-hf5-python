@@ -1,0 +1,36 @@
+{
+    "message": "",
+    "error": 0,
+    "data": {
+        "num_votes": "130",
+        "album": "",
+        "r64_id": "4864",
+        "vote_percent": "95.1923",
+        "my_vote": null,
+        "date_played": 1504901212,
+        "picture": "",
+        "next_song_expected": -53,
+        "r64_vote": "6",
+        "id": "4312",
+        "albumyear": "2010",
+        "artist": "Klemen Verdnik",
+        "sid_path": "MUSICIANS/F/Furniss_Matt/Castle_Master.sid",
+        "requestID": "0",
+        "listeners": "66",
+        "requestedBy": "",
+        "filename": "c64\\rko\\Klemen Verdnik - Castle Master (Tribute).mp3",
+        "duration": 348,
+        "next_poll": 15,
+        "live": 0,
+        "next_song_date": 1504901908,
+        "title": "Castle Master (Tribute)",
+        "next_song": {
+            "artist": "XxDUSTYxX",
+            "title": "To be on Top - S2 [RMX2008]",
+            "live": 0,
+            "album": "",
+            "filename": "M:\\Mp3\\c64\\rko\\XxDUSTYxX - To be on Top - S2 [RMX2008].mp3"
+        },
+        "website": ""
+    }
+}

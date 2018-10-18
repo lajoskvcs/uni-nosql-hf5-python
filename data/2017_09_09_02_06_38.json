@@ -1,0 +1,36 @@
+{
+    "error": 0,
+    "message": "",
+    "data": {
+        "artist": "Peacemaker",
+        "duration": 224,
+        "num_votes": "89",
+        "live": 0,
+        "date_played": 1504915476,
+        "requestedBy": "",
+        "my_vote": null,
+        "r64_id": "1588",
+        "sid_path": "MUSICIANS/G/Galway_Martin/Ocean_Loader_2.sid",
+        "album": "",
+        "next_song": {
+            "live": 0,
+            "title": "Warriors (Club Version)",
+            "album": "Instant Remedy",
+            "artist": "Instant Remedy",
+            "filename": "M:\\Mp3\\c64\\Albums\\Instant Remedy - Instant Remedy\\10 - Warriors (Club version).mp3"
+        },
+        "next_song_expected": 107,
+        "next_song_date": 1504915924,
+        "listeners": "50",
+        "id": "950",
+        "title": "Ocean Loader 2",
+        "requestID": "0",
+        "vote_percent": "96.3483",
+        "next_poll": 107,
+        "picture": "",
+        "r64_vote": "5",
+        "albumyear": "2002",
+        "website": "",
+        "filename": "c64\\rko\\Peacemaker - Ocean Loader 2.mp3"
+    }
+}

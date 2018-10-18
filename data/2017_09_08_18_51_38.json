@@ -1,0 +1,36 @@
+{
+    "data": {
+        "website": "",
+        "num_votes": "116",
+        "artist": "Slumgud of Depth",
+        "filename": "c64\\rko\\Slumgud of Depth - Hairy Toes.mp3",
+        "sid_path": null,
+        "requestedBy": "",
+        "next_song_date": 1504889634,
+        "live": 0,
+        "vote_percent": "92.6724",
+        "next_song_expected": -45,
+        "title": "Hairy Toes",
+        "albumyear": "2001",
+        "next_song": {
+            "album": "",
+            "artist": "Branko Balsic",
+            "filename": "M:\\Mp3\\c64\\rko\\Branko Balsic - Mellow Idea (Orthodox Mix).mp3",
+            "title": "Mellow Idea (Orthodox Mix)",
+            "live": 0
+        },
+        "r64_vote": null,
+        "duration": 186,
+        "requestID": "0",
+        "listeners": "67",
+        "album": "",
+        "picture": "",
+        "r64_id": null,
+        "my_vote": null,
+        "date_played": 1504889262,
+        "next_poll": 15,
+        "id": "1196"
+    },
+    "error": 0,
+    "message": ""
+}

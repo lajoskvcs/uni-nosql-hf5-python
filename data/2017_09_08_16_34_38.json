@@ -1,0 +1,36 @@
+{
+    "error": 0,
+    "message": "",
+    "data": {
+        "artist": "Martin Dodd",
+        "listeners": "76",
+        "picture": "",
+        "id": "4731",
+        "album": "",
+        "my_vote": null,
+        "vote_percent": "96.5909",
+        "next_song": {
+            "artist": "Tron",
+            "filename": "M:\\Mp3\\c64\\rko\\Tron - Bounces (Glam Rock Hammond Galore Demo Tape).mp3",
+            "album": "",
+            "live": 0,
+            "title": "Bounces (Glam Rock Hammond Galore Demo Tape)"
+        },
+        "albumyear": "2015",
+        "r64_vote": "5",
+        "live": 0,
+        "duration": 207,
+        "requestedBy": "",
+        "website": "",
+        "filename": "c64\\rko\\Martin Dodd - The Human Race (The Human Machine Remix).mp3",
+        "next_song_expected": 29,
+        "requestID": "0",
+        "r64_id": "5369",
+        "title": "The Human Race (The Human Machine Remix)",
+        "num_votes": "44",
+        "date_played": 1504881095,
+        "next_song_date": 1504881509,
+        "sid_path": "MUSICIANS/H/Hubbard_Rob/Human_Race.sid",
+        "next_poll": 29
+    }
+}

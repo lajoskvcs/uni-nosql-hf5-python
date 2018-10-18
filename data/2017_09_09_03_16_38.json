@@ -1,0 +1,36 @@
+{
+    "message": "",
+    "data": {
+        "id": "2781",
+        "requestedBy": "",
+        "filename": "c64\\rko\\Obscuresounds - Arkanoid (nostalgique remake).mp3",
+        "next_song_expected": 140,
+        "picture": "",
+        "num_votes": "143",
+        "artist": "Obscuresounds",
+        "sid_path": "MUSICIANS/G/Galway_Martin/Arkanoid.sid",
+        "albumyear": "2006",
+        "my_vote": null,
+        "duration": 227,
+        "next_song": {
+            "live": 0,
+            "album": "",
+            "filename": "M:\\Mp3\\c64\\rko\\KirikuGo - Plastic Pop (Plastic Fantastic Mix).mp3",
+            "artist": "KirikuGo",
+            "title": "Plastic Pop (Plastic Fantastic Mix)"
+        },
+        "title": "Arkanoid (nostalgique remake)",
+        "live": 0,
+        "next_song_date": 1504920160,
+        "requestID": "0",
+        "album": "",
+        "vote_percent": "93.7063",
+        "listeners": "40",
+        "r64_vote": "5",
+        "r64_id": "3279",
+        "website": "",
+        "date_played": 1504919706,
+        "next_poll": 140
+    },
+    "error": 0
+}

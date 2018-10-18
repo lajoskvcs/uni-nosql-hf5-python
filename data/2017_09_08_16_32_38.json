@@ -1,0 +1,36 @@
+{
+    "data": {
+        "next_song": {
+            "live": 0,
+            "album": "",
+            "title": "Bounces (Glam Rock Hammond Galore Demo Tape)",
+            "filename": "M:\\Mp3\\c64\\rko\\Tron - Bounces (Glam Rock Hammond Galore Demo Tape).mp3",
+            "artist": "Tron"
+        },
+        "album": "",
+        "date_played": 1504881022,
+        "live": 0,
+        "artist": "Eric Delos",
+        "num_votes": "45",
+        "title": "Beroot Olejuuri (Minimal Washburn mix preview)",
+        "next_song_date": 1504881172,
+        "r64_vote": "4",
+        "sid_path": "MUSICIANS/A/Agemixer/Beroot_Olejuuri.sid",
+        "albumyear": "2002",
+        "duration": 75,
+        "website": "",
+        "r64_id": "1755",
+        "listeners": "75",
+        "id": "361",
+        "next_poll": 15,
+        "vote_percent": "91.1111",
+        "requestedBy": "",
+        "next_song_expected": -56,
+        "picture": "",
+        "filename": "c64\\rko\\Eric Delos - Beroot Olejuuri (Minimal Washburn mix preview).mp3",
+        "my_vote": null,
+        "requestID": "0"
+    },
+    "message": "",
+    "error": 0
+}

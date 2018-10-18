@@ -1,0 +1,36 @@
+{
+    "data": {
+        "vote_percent": "95.3125",
+        "requestedBy": "",
+        "num_votes": "48",
+        "next_poll": 113,
+        "requestID": "0",
+        "next_song": {
+            "title": "180 (Happy Hour Mix Remastered)",
+            "filename": "M:\\Mp3\\c64\\rko\\Martin Dodd - 180 (Happy Hour Mix Remastered).mp3",
+            "artist": "Martin Dodd",
+            "live": 0,
+            "album": ""
+        },
+        "album": "",
+        "website": "",
+        "r64_id": "4999",
+        "live": 0,
+        "filename": "c64\\rko\\Johan Andersson - Auf Wiedersehen Monty (short rmx) .mp3",
+        "picture": "",
+        "id": "4393",
+        "r64_vote": "4",
+        "listeners": "75",
+        "date_played": 1504876820,
+        "next_song_expected": 113,
+        "sid_path": "MUSICIANS/H/Hubbard_Rob/Auf_Wiedersehen_Monty.sid",
+        "duration": 186,
+        "next_song_date": 1504877192,
+        "title": "Auf Wiedersehen Monty (short rmx)",
+        "albumyear": "2013",
+        "artist": "Johan Andersson",
+        "my_vote": null
+    },
+    "message": "",
+    "error": 0
+}

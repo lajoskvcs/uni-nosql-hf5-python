@@ -1,0 +1,36 @@
+{
+    "error": 0,
+    "message": "",
+    "data": {
+        "next_song_expected": 91,
+        "album": "",
+        "num_votes": "68",
+        "listeners": "40",
+        "sid_path": "MUSICIANS/D/DRAX/Gemini.sid",
+        "artist": "Dees",
+        "website": "",
+        "r64_id": "5140",
+        "duration": 247,
+        "live": 0,
+        "vote_percent": "94.1176",
+        "date_played": 1504923897,
+        "filename": "c64\\rko\\Dees - Gemini (Electro Glide Remix).mp3",
+        "requestID": "0",
+        "r64_vote": "5",
+        "next_song": {
+            "title": "Comic Frame",
+            "filename": "M:\\Mp3\\c64\\rko\\Hazel - Comic Frame.mp3",
+            "artist": "Hazel",
+            "album": "",
+            "live": 0
+        },
+        "next_poll": 91,
+        "title": "Gemini (Electro Glide Remix)",
+        "albumyear": "2013",
+        "requestedBy": "",
+        "id": "4471",
+        "my_vote": null,
+        "picture": "",
+        "next_song_date": 1504924391
+    }
+}

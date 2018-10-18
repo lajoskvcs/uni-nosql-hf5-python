@@ -1,0 +1,36 @@
+{
+    "error": 0,
+    "data": {
+        "live": 0,
+        "website": "",
+        "title": "Another World",
+        "albumyear": "1992",
+        "listeners": "49",
+        "next_song_expected": 118,
+        "vote_percent": "95.5285",
+        "duration": 216,
+        "next_song_date": 1504916527,
+        "picture": "",
+        "album": "",
+        "my_vote": null,
+        "next_poll": 118,
+        "num_votes": "123",
+        "id": "1356",
+        "requestID": "0",
+        "next_song": {
+            "live": 0,
+            "filename": "M:\\Mp3\\c64\\rko\\Hazel - Remark.mp3",
+            "title": "Remark",
+            "artist": "Hazel",
+            "album": ""
+        },
+        "r64_vote": "5",
+        "sid_path": "MUSICIANS/D/Detert_Thomas/Another_World.sid",
+        "artist": "Thomas Detert",
+        "requestedBy": "",
+        "filename": "c64\\rko\\Thomas Detert - Another World.mp3",
+        "r64_id": "936",
+        "date_played": 1504916095
+    },
+    "message": ""
+}

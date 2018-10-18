@@ -1,0 +1,36 @@
+{
+    "error": 0,
+    "message": "",
+    "data": {
+        "requestID": "0",
+        "albumyear": "2007",
+        "sid_path": "MUSICIANS/C/Coolrock/Evelien.sid",
+        "date_played": 1504922074,
+        "website": "",
+        "filename": "c64\\rko\\Hazel - Evelien (Only You).mp3",
+        "id": "3077",
+        "r64_id": "3631",
+        "duration": 232,
+        "picture": "",
+        "listeners": "40",
+        "r64_vote": "5",
+        "requestedBy": "",
+        "vote_percent": "90.7895",
+        "next_poll": 15,
+        "title": "Evelien (Only You)",
+        "artist": "Hazel",
+        "next_song_expected": -7,
+        "num_votes": "133",
+        "my_vote": null,
+        "album": "",
+        "next_song_date": 1504922538,
+        "live": 0,
+        "next_song": {
+            "title": "Short Circuit 4 (Dischord Disco)",
+            "album": "",
+            "filename": "M:\\Mp3\\c64\\rko\\vurtX - Short Circuit 4 (Dischord Disco).mp3",
+            "artist": "vurtX",
+            "live": 0
+        }
+    }
+}

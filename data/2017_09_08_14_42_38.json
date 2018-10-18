@@ -1,0 +1,36 @@
+{
+    "message": "",
+    "error": 0,
+    "data": {
+        "vote_percent": "95.3297",
+        "my_vote": null,
+        "album": "",
+        "live": 0,
+        "duration": 299,
+        "r64_vote": "5",
+        "requestID": "462416",
+        "picture": "",
+        "title": "Metalzoids [Zoids for 6 strings and doublebass]",
+        "listeners": "81",
+        "website": "",
+        "next_poll": 23,
+        "id": "3259",
+        "artist": "XxDUSTYxX",
+        "next_song": {
+            "title": "Double Dragon Title Remix (Extended Version)",
+            "album": "",
+            "live": 0,
+            "artist": "CZ Tunes",
+            "filename": "M:\\Mp3\\c64\\non-RKO\\CZ-Tunes - Double Dragon Title Remix (Extended Version).mp3"
+        },
+        "filename": "c64\\rko\\XxDUSTYxX - Metalzoids [Zoids for 6 strings and doublebass].mp3",
+        "sid_path": "MUSICIANS/H/Hubbard_Rob/Zoids.sid",
+        "date_played": 1504874277,
+        "num_votes": "182",
+        "next_song_date": 1504874875,
+        "requestedBy": "raw",
+        "albumyear": "2008",
+        "r64_id": "3803",
+        "next_song_expected": 23
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "data": {
+        "album": "",
+        "title": "Boulder Dash (Commodore 69 mix)",
+        "next_song": {
+            "filename": "M:\\Mp3\\c64\\rko\\o2 - Spellbound (MiniVersion).mp3",
+            "album": "",
+            "title": "Spellbound (MiniVersion)",
+            "artist": "o2",
+            "live": 0
+        },
+        "duration": 120,
+        "artist": "Pex \"Mahoney\" Tufvesson",
+        "r64_vote": "6",
+        "next_song_date": 1504884939,
+        "num_votes": "180",
+        "website": "",
+        "r64_id": "1023",
+        "vote_percent": "86.5278",
+        "next_poll": 15,
+        "my_vote": null,
+        "sid_path": "GAMES/A-F/Boulder_Dash.sid",
+        "id": "975",
+        "next_song_expected": 6,
+        "live": 0,
+        "listeners": "64",
+        "requestedBy": "",
+        "requestID": "0",
+        "picture": "",
+        "albumyear": "0",
+        "filename": "c64\\rko\\Pex Mahoney Tufvesson - Boulder Dash (Commodore 69 mix).mp3",
+        "date_played": 1504884699
+    },
+    "message": "",
+    "error": 0
+}

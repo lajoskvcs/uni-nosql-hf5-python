@@ -1,0 +1,36 @@
+{
+    "data": {
+        "duration": 229,
+        "next_song": {
+            "album": "",
+            "filename": "M:\\Mp3\\c64\\rko\\C.Abbott - Elite (99 mix).mp3",
+            "title": "Elite (99 mix)",
+            "live": 0,
+            "artist": "C.Abbott"
+        },
+        "id": "4185",
+        "sid_path": "MUSICIANS/C/Clarke_Peter/Ocean_Loader_3.sid",
+        "title": "Ocean Loader 3 (Cinematic remix)",
+        "next_poll": 15,
+        "my_vote": null,
+        "website": "",
+        "r64_id": "4767",
+        "date_played": 1504881846,
+        "next_song_expected": -38,
+        "next_song_date": 1504882304,
+        "vote_percent": "95.5036",
+        "num_votes": "139",
+        "requestID": "0",
+        "r64_vote": "6",
+        "listeners": "71",
+        "filename": "c64\\rko\\Peter Clarke - Ocean Loader 3 (Cinematic remix).mp3",
+        "picture": "",
+        "live": 0,
+        "artist": "Peter Clarke",
+        "album": "",
+        "requestedBy": "",
+        "albumyear": "2011"
+    },
+    "message": "",
+    "error": 0
+}

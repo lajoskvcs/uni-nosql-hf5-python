@@ -1,0 +1,36 @@
+{
+    "message": "",
+    "data": {
+        "requestID": "0",
+        "r64_vote": "5",
+        "picture": "",
+        "sid_path": "MUSICIANS/H/Hubbard_Rob/Spellbound.sid",
+        "albumyear": "0",
+        "live": 0,
+        "album": "",
+        "vote_percent": "94.2529",
+        "id": "901",
+        "next_song_expected": 62,
+        "title": "Spellbound (MiniVersion)",
+        "requestedBy": "",
+        "date_played": 1504884813,
+        "my_vote": null,
+        "artist": "o2",
+        "website": "",
+        "listeners": "65",
+        "filename": "c64\\rko\\o2 - Spellbound (MiniVersion).mp3",
+        "duration": 182,
+        "next_song": {
+            "title": "Bump Set Spike (Schizo Classical Remix)",
+            "live": 0,
+            "album": "",
+            "artist": "Nicklas Schmidt",
+            "filename": "M:\\Mp3\\c64\\rko\\Nicklas Schmidt - Bump Set Spike (Schizo Classical Remix).mp3"
+        },
+        "next_poll": 62,
+        "num_votes": "87",
+        "r64_id": "1014",
+        "next_song_date": 1504885177
+    },
+    "error": 0
+}

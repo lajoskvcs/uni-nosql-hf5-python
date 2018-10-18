@@ -1,0 +1,36 @@
+{
+    "data": {
+        "listeners": "74",
+        "next_song": {
+            "album": "",
+            "filename": "M:\\Mp3\\c64\\rko\\Amok - Depressed (Renoise 2.5 Beta Mix).mp3",
+            "artist": "Amok",
+            "title": "Depressed (Renoise 2.5 Beta Mix)",
+            "live": 0
+        },
+        "my_vote": null,
+        "r64_vote": "6",
+        "next_song_expected": 67,
+        "artist": "N-JOY",
+        "vote_percent": "82.3009",
+        "date_played": 1504876053,
+        "sid_path": "MUSICIANS/T/Tel_Jeroen/Eliminator.sid",
+        "live": 0,
+        "requestedBy": "",
+        "duration": 187,
+        "next_poll": 67,
+        "requestID": "0",
+        "num_votes": "113",
+        "album": "",
+        "next_song_date": 1504876427,
+        "filename": "c64\\rko\\N-JOY - Eliminator (Sexy and Saxy Smooth Party remix).mp3",
+        "title": "Eliminator (Sexy & Saxy Smooth Party remix)",
+        "r64_id": "4428",
+        "picture": "",
+        "website": "",
+        "albumyear": "2010",
+        "id": "3883"
+    },
+    "message": "",
+    "error": 0
+}

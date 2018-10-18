@@ -1,0 +1,36 @@
+{
+    "data": {
+        "next_poll": 15,
+        "live": 0,
+        "website": "",
+        "requestedBy": "",
+        "requestID": "0",
+        "filename": "c64\\rko\\JSL - Scumball remix v2.mp3",
+        "listeners": "69",
+        "date_played": 1504882475,
+        "my_vote": null,
+        "albumyear": "0",
+        "r64_id": null,
+        "next_song": {
+            "title": "Whatever Mattered",
+            "live": 0,
+            "artist": "mind.in.a.box",
+            "album": "R.E.T.R.O",
+            "filename": "M:\\Mp3\\c64\\Albums\\mind.in.a.box - R.E.T.R.O\\11 mind.in.a.box - Whatever Mattered.mp3"
+        },
+        "sid_path": null,
+        "r64_vote": null,
+        "duration": 81,
+        "num_votes": "78",
+        "next_song_expected": -37,
+        "title": "Scumball remix v2",
+        "id": "619",
+        "album": "",
+        "vote_percent": "96.4744",
+        "artist": "JSL",
+        "picture": "",
+        "next_song_date": 1504882637
+    },
+    "error": 0,
+    "message": ""
+}

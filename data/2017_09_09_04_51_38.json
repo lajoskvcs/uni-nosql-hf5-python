@@ -1,0 +1,36 @@
+{
+    "message": "",
+    "data": {
+        "next_song_expected": -55,
+        "next_song_date": 1504925699,
+        "r64_id": "3718",
+        "album": "",
+        "title": "Dulcedo Cogitationis (Nightmare-Mix)",
+        "picture": "",
+        "vote_percent": "94.9248",
+        "filename": "c64\\rko\\Amok - Dulcedo Cogitationis (Nightmare-Mix).mp3",
+        "artist": "Amok",
+        "date_played": 1504925177,
+        "duration": 261,
+        "live": 0,
+        "listeners": "37",
+        "requestID": "0",
+        "albumyear": "2008",
+        "requestedBy": "",
+        "id": "3189",
+        "my_vote": null,
+        "r64_vote": "5",
+        "next_song": {
+            "title": "Sanxion (straightforward remix)",
+            "filename": "M:\\Mp3\\c64\\rko\\Xilukarim - Sanxion (straightforward remix).mp3",
+            "artist": "Xilukarim",
+            "live": 0,
+            "album": ""
+        },
+        "sid_path": "MUSICIANS/H/Huelsbeck_Chris/Dulcedo_Cogitationis.sid",
+        "next_poll": 15,
+        "website": "",
+        "num_votes": "133"
+    },
+    "error": 0
+}

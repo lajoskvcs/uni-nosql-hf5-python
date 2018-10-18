@@ -1,0 +1,36 @@
+{
+    "data": {
+        "r64_id": "4202",
+        "title": "Gem'X (Mantronix Edit)",
+        "album": "",
+        "website": "",
+        "albumyear": "2009",
+        "vote_percent": "82.5000",
+        "num_votes": "120",
+        "listeners": "42",
+        "picture": "",
+        "next_song": {
+            "filename": "M:\\Mp3\\c64\\rko\\Flawless - Batman The Caped Crusader.mp3",
+            "album": "",
+            "artist": "Flawless",
+            "live": 0,
+            "title": "Batman The Caped Crusader"
+        },
+        "artist": "Dr Future",
+        "filename": "c64\\rko\\Dr Future - Gem'X (Mantronix Edit).mp3",
+        "next_song_date": 1504921053,
+        "sid_path": "MUSICIANS/H/Huelsbeck_Chris/Gem_X.sid",
+        "id": "3675",
+        "r64_vote": "5",
+        "next_song_expected": 123,
+        "date_played": 1504920579,
+        "requestID": "0",
+        "live": 0,
+        "next_poll": 123,
+        "duration": 237,
+        "requestedBy": "",
+        "my_vote": null
+    },
+    "error": 0,
+    "message": ""
+}

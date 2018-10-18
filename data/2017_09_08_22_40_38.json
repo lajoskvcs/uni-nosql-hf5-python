@@ -1,0 +1,36 @@
+{
+    "message": "",
+    "error": 0,
+    "data": {
+        "website": "",
+        "requestedBy": "",
+        "next_song_date": 1504903587,
+        "picture": "",
+        "live": 0,
+        "filename": "c64\\rko\\BeeZerk - BeeZerk - Blasphemy (Feat. Pallaso and Kage).mp3",
+        "num_votes": "84",
+        "my_vote": null,
+        "next_song_expected": 60,
+        "requestID": "0",
+        "r64_vote": null,
+        "listeners": "66",
+        "duration": 294,
+        "id": "4461",
+        "albumyear": "2013",
+        "vote_percent": "49.4048",
+        "artist": "BeeZerk",
+        "r64_id": null,
+        "title": "BeeZerk - Blasphemy (Feat. Pallaso & Kage)",
+        "next_poll": 60,
+        "date_played": 1504902999,
+        "sid_path": null,
+        "next_song": {
+            "title": "Dark Star",
+            "album": "",
+            "artist": "Chris Prattini",
+            "filename": "M:\\Mp3\\c64\\rko\\Chris Prattini - Dark Star.mp3",
+            "live": 0
+        },
+        "album": ""
+    }
+}

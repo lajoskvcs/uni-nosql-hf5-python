@@ -1,0 +1,36 @@
+{
+    "data": {
+        "website": "",
+        "live": 0,
+        "filename": "c64\\rko\\Infamous - Auf Wiedersehen Monty (ByeBye Monty mix).mp3",
+        "num_votes": "132",
+        "picture": "",
+        "r64_id": "4562",
+        "r64_vote": "5",
+        "vote_percent": "92.4242",
+        "requestID": "0",
+        "duration": 337,
+        "requestedBy": "",
+        "next_poll": 33,
+        "artist": "Infamous",
+        "albumyear": "2010",
+        "next_song": {
+            "album": "",
+            "live": 0,
+            "filename": "M:\\Mp3\\c64\\rko\\XxDUSTYxX - To be on Top - S2 [RMX2008].mp3",
+            "artist": "XxDUSTYxX",
+            "title": "To be on Top - S2 [RMX2008]"
+        },
+        "listeners": "73",
+        "album": "",
+        "sid_path": "MUSICIANS/H/Hubbard_Rob/Auf_Wiedersehen_Monty.sid",
+        "date_played": 1504901549,
+        "my_vote": null,
+        "next_song_date": 1504902223,
+        "id": "4006",
+        "title": "Auf Wiedersehen Monty (ByeBye Monty mix)",
+        "next_song_expected": 33
+    },
+    "message": "",
+    "error": 0
+}

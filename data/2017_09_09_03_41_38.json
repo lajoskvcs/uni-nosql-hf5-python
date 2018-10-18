@@ -1,0 +1,36 @@
+{
+    "message": "",
+    "data": {
+        "listeners": "42",
+        "requestedBy": "",
+        "r64_vote": "5",
+        "next_poll": 65,
+        "albumyear": "2007",
+        "website": "",
+        "next_song_expected": 65,
+        "album": "",
+        "vote_percent": "97.3485",
+        "live": 0,
+        "r64_id": "3515",
+        "requestID": "0",
+        "next_song": {
+            "filename": "M:\\Mp3\\c64\\rko\\Infamous - Marble Madness.mp3",
+            "live": 0,
+            "artist": "Infamous",
+            "title": "Marble Madness",
+            "album": ""
+        },
+        "artist": "Dafunk",
+        "date_played": 1504921031,
+        "id": "3051",
+        "title": "Secret Games (htr rmx)",
+        "num_votes": "132",
+        "picture": "",
+        "sid_path": "MUSICIANS/S/Signor/Secret_Games.sid",
+        "duration": 327,
+        "my_vote": null,
+        "next_song_date": 1504921685,
+        "filename": "c64\\rko\\Dafunk - Secret Games (htr rmx).mp3"
+    },
+    "error": 0
+}

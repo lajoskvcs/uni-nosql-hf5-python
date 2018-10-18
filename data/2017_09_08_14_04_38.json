@@ -1,0 +1,36 @@
+{
+    "error": 0,
+    "message": "",
+    "data": {
+        "num_votes": "189",
+        "requestID": "0",
+        "listeners": "85",
+        "next_song_date": 1504872647,
+        "requestedBy": "",
+        "duration": 302,
+        "date_played": 1504872043,
+        "r64_id": "3196",
+        "album": "",
+        "sid_path": "MUSICIANS/D/DRAX/Tristesse.sid",
+        "picture": "",
+        "website": "",
+        "next_song": {
+            "live": 0,
+            "title": "Noisy Pillars (Euro-4-Sure Mix)",
+            "filename": "M:\\Mp3\\c64\\rko\\Sonic Wanderer - Noisy Pillars (Euro-4-Sure Mix).mp3",
+            "artist": "Sonic Wanderer",
+            "album": ""
+        },
+        "artist": "moog (Sebastian Bachli\u00f1ski)",
+        "albumyear": "2006",
+        "r64_vote": "6",
+        "live": 0,
+        "my_vote": null,
+        "filename": "c64\\rko\\moog (Sebastian Bachlinski) - Tristess.mp3",
+        "vote_percent": "96.9577",
+        "id": "2745",
+        "next_song_expected": 72,
+        "title": "Tristess",
+        "next_poll": 72
+    }
+}

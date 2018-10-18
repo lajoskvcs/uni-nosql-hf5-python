@@ -1,0 +1,36 @@
+{
+    "data": {
+        "filename": "c64\\rko\\daRK HaLF - Last Ninja 2 Central Park.mp3",
+        "sid_path": "MUSICIANS/G/Gray_Matt/Last_Ninja_2.sid",
+        "artist": "daRK HaLF",
+        "duration": 272,
+        "album": "",
+        "live": 0,
+        "requestedBy": "",
+        "next_song": {
+            "filename": "M:\\Mp3\\c64\\rko\\LPChip - To be on top [s2].mp3",
+            "artist": "LPChip",
+            "title": "To be on top [s2]",
+            "album": "",
+            "live": 0
+        },
+        "my_vote": null,
+        "num_votes": "95",
+        "picture": "",
+        "website": "",
+        "albumyear": "2012",
+        "requestID": "0",
+        "vote_percent": "90.5263",
+        "next_song_date": 1504904110,
+        "listeners": "67",
+        "next_poll": 65,
+        "r64_id": "4947",
+        "id": "4359",
+        "next_song_expected": 65,
+        "r64_vote": "3",
+        "title": "Last Ninja 2 Central Park",
+        "date_played": 1504903566
+    },
+    "error": 0,
+    "message": ""
+}

@@ -1,0 +1,36 @@
+{
+    "error": 0,
+    "message": "",
+    "data": {
+        "listeners": "67",
+        "r64_id": "5035",
+        "sid_path": "MUSICIANS/J/JCH/Training.sid",
+        "my_vote": null,
+        "albumyear": "2013",
+        "next_poll": 15,
+        "requestedBy": "",
+        "requestID": "0",
+        "num_votes": "83",
+        "live": 0,
+        "duration": 335,
+        "album": "",
+        "r64_vote": "5",
+        "date_played": 1504902671,
+        "title": "Training (Kicks with a punch Remix)",
+        "id": "4456",
+        "artist": "AcidBlock",
+        "next_song_date": 1504903341,
+        "next_song": {
+            "live": 0,
+            "album": "",
+            "artist": "BeeZerk",
+            "title": "BeeZerk - Blasphemy (Feat. Pallaso & Kage)",
+            "filename": "M:\\Mp3\\c64\\rko\\BeeZerk - BeeZerk - Blasphemy (Feat. Pallaso and Kage).mp3"
+        },
+        "next_song_expected": -47,
+        "vote_percent": "97.8916",
+        "filename": "c64\\rko\\AcidBlock - Training (Kicks with a punch Remix).mp3",
+        "website": "",
+        "picture": ""
+    }
+}

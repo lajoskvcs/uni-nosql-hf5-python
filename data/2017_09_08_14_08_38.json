@@ -1,0 +1,36 @@
+{
+    "message": "",
+    "error": 0,
+    "data": {
+        "artist": "Sonic Wanderer",
+        "next_poll": 15,
+        "requestID": "462407",
+        "title": "Noisy Pillars (Euro-4-Sure Mix)",
+        "r64_id": "2656",
+        "album": "",
+        "my_vote": null,
+        "duration": 194,
+        "next_song": {
+            "title": "Remark (Noisy Maniacs Remix) [Hazel vs Jeroen Tel]",
+            "artist": "Hazel",
+            "filename": "M:\\Mp3\\c64\\non-RKO\\Lets_Scroll_It\\Hazel vs Jeroen Tel - Remark (Noisy Maniacs Remix).mp3",
+            "album": "",
+            "live": 0
+        },
+        "website": "",
+        "live": 0,
+        "sid_path": "MUSICIANS/T/Tel_Jeroen/Noisy_Pillars_tune_3.sid",
+        "r64_vote": "5",
+        "next_song_date": 1504872722,
+        "next_song_expected": 15,
+        "date_played": 1504872334,
+        "albumyear": "2005",
+        "listeners": "93",
+        "vote_percent": "93.7086",
+        "requestedBy": "raw",
+        "id": "2101",
+        "num_votes": "151",
+        "picture": "",
+        "filename": "c64\\rko\\Sonic Wanderer - Noisy Pillars (Euro-4-Sure Mix).mp3"
+    }
+}

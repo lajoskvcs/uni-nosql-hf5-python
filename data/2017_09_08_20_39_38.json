@@ -1,0 +1,36 @@
+{
+    "data": {
+        "id": "2730",
+        "title": "GliderRider",
+        "num_votes": "116",
+        "vote_percent": "92.0259",
+        "next_song_date": 1504896240,
+        "album": "",
+        "next_poll": 15,
+        "next_song": {
+            "live": 0,
+            "title": "Druid II Remix",
+            "artist": "Red Devil",
+            "album": "",
+            "filename": "M:\\Mp3\\c64\\rko\\Red Devil - Druid II Remix.mp3"
+        },
+        "date_played": 1504895710,
+        "r64_id": "3219",
+        "picture": "",
+        "r64_vote": "4",
+        "live": 0,
+        "website": "",
+        "next_song_expected": 2,
+        "artist": "AmiGamer",
+        "duration": 265,
+        "listeners": "76",
+        "albumyear": "2006",
+        "my_vote": null,
+        "requestedBy": "",
+        "sid_path": "MUSICIANS/W/Whittaker_David/Glider_Rider.sid",
+        "requestID": "0",
+        "filename": "c64\\rko\\AmiGamer - GliderRider.mp3"
+    },
+    "message": "",
+    "error": 0
+}

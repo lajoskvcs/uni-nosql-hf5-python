@@ -1,0 +1,36 @@
+{
+    "message": "",
+    "error": 0,
+    "data": {
+        "picture": "",
+        "next_song": {
+            "filename": "M:\\Mp3\\c64\\rko\\AntiSol - Maniac Mansion (AntiSol Mix).mp3",
+            "live": 0,
+            "title": "Maniac Mansion (AntiSol Mix)",
+            "artist": "AntiSol",
+            "album": ""
+        },
+        "id": "778",
+        "next_poll": 15,
+        "vote_percent": "99.1667",
+        "next_song_date": 1504931089,
+        "num_votes": "30",
+        "filename": "c64\\rko\\Marcel Donn\u00e9 - Watch It!.mp3",
+        "artist": "Marcel Donn\u00e9",
+        "r64_vote": "5",
+        "listeners": "42",
+        "my_vote": null,
+        "requestID": "0",
+        "album": "",
+        "albumyear": "0",
+        "r64_id": "1497",
+        "date_played": 1504930703,
+        "live": 0,
+        "duration": 193,
+        "website": "",
+        "next_song_expected": 3,
+        "requestedBy": "",
+        "title": "Watch It!",
+        "sid_path": "MUSICIANS/R/Red_Kimmel_Jeroen/Watch_It.sid"
+    }
+}

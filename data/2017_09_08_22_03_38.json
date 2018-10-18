@@ -1,0 +1,36 @@
+{
+    "data": {
+        "next_song_date": 1504901216,
+        "next_poll": 15,
+        "artist": "CZ Tunes",
+        "next_song": {
+            "title": "Supremacy",
+            "album": "",
+            "artist": "moog (Sebastian Bachli\u00f1ski)",
+            "filename": "M:\\Mp3\\c64\\rko\\moog (Sebastian Bachlinski) - Supremacy.mp3",
+            "live": 0
+        },
+        "filename": "c64\\rko\\CZ Tunes - Gold Quest IV.mp3",
+        "r64_id": "4143",
+        "album": "",
+        "requestedBy": "",
+        "requestID": "0",
+        "num_votes": "112",
+        "date_played": 1504900768,
+        "albumyear": "2009",
+        "picture": "",
+        "title": "Gold Quest IV",
+        "listeners": "69",
+        "r64_vote": "5",
+        "next_song_expected": -21,
+        "website": "",
+        "duration": 224,
+        "my_vote": null,
+        "live": 0,
+        "vote_percent": "92.1875",
+        "sid_path": "MUSICIANS/B/Bayliss_Richard/Gold_Quest_4.sid",
+        "id": "3610"
+    },
+    "message": "",
+    "error": 0
+}

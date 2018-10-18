@@ -1,0 +1,36 @@
+{
+    "data": {
+        "listeners": "65",
+        "next_song": {
+            "artist": "dr.blitzen",
+            "title": "Ocean Loader 1 (Radio Edit Blitz Mix)",
+            "live": 0,
+            "filename": "M:\\Mp3\\c64\\rko\\dr.blitzen - Ocean Loader 1 (Radio Edit Blitz Mix).mp3",
+            "album": ""
+        },
+        "num_votes": "128",
+        "artist": "Dafunk",
+        "next_song_date": 1504905133,
+        "live": 0,
+        "next_poll": 194,
+        "website": "",
+        "my_vote": null,
+        "requestID": "0",
+        "requestedBy": "",
+        "picture": "",
+        "filename": "c64\\rko\\Dafunk - Toytone Tribe (childhood memories rmx).mp3",
+        "title": "Toytone Tribe (childhood memories rmx)",
+        "albumyear": "2005",
+        "date_played": 1504904601,
+        "r64_id": "2579",
+        "duration": 266,
+        "album": "",
+        "next_song_expected": 194,
+        "r64_vote": "5",
+        "id": "2017",
+        "sid_path": "MUSICIANS/C/Chotaire/Toytone_Tribe.sid",
+        "vote_percent": "97.2656"
+    },
+    "error": 0,
+    "message": ""
+}

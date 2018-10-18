@@ -1,0 +1,36 @@
+{
+    "message": "",
+    "data": {
+        "title": "Deflektor",
+        "sid_path": "MUSICIANS/D/Daglish_Ben/Deflektor.sid",
+        "picture": "",
+        "album": "",
+        "my_vote": null,
+        "r64_id": "5546",
+        "filename": "c64\\rko\\ziona - Deflektor.mp3",
+        "albumyear": "2016",
+        "id": "4904",
+        "requestedBy": "raw",
+        "requestID": "462415",
+        "num_votes": "56",
+        "date_played": 1504874087,
+        "vote_percent": "97.7679",
+        "next_poll": 15,
+        "website": "",
+        "live": 0,
+        "duration": 193,
+        "next_song": {
+            "live": 0,
+            "title": "Metalzoids [Zoids for 6 strings and doublebass]",
+            "album": "",
+            "filename": "M:\\Mp3\\c64\\rko\\XxDUSTYxX - Metalzoids [Zoids for 6 strings and doublebass].mp3",
+            "artist": "XxDUSTYxX"
+        },
+        "listeners": "78",
+        "next_song_expected": -33,
+        "artist": "ziona",
+        "next_song_date": 1504874473,
+        "r64_vote": "5"
+    },
+    "error": 0
+}

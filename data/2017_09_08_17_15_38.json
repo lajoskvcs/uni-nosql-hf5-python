@@ -1,0 +1,30 @@
+{
+    "data": {
+        "picture": "BIT2.jpg",
+        "albumyear": "2003",
+        "date_played": 1504883420,
+        "num_votes": "95",
+        "r64_id": null,
+        "requestedBy": "",
+        "artist": "Jogeir Liljedahl",
+        "r64_vote": null,
+        "requestID": "0",
+        "sid_path": null,
+        "listeners": "66",
+        "live": 0,
+        "next_song_date": 1504883938,
+        "website": "http://www.c64audio.com/productInfo.php?cat=C64CD2",
+        "title": "Terra Cresta",
+        "duration": 259,
+        "vote_percent": "98.9474",
+        "next_poll": 15,
+        "album": "Back in Time II",
+        "my_vote": null,
+        "filename": "c64\\Albums\\Various Artists - Back in Time II\\06. Jogeir Liljedahl - Terra Cresta.mp3",
+        "next_song": null,
+        "id": "2255",
+        "next_song_expected": -54
+    },
+    "message": "",
+    "error": 0
+}

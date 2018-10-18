@@ -1,0 +1,36 @@
+{
+    "message": "",
+    "error": 0,
+    "data": {
+        "artist": "X-formZ",
+        "r64_id": "4134",
+        "requestID": "0",
+        "next_song_date": 1504899226,
+        "picture": "",
+        "vote_percent": "96.4660",
+        "listeners": "70",
+        "next_song_expected": 25,
+        "album": "",
+        "date_played": 1504898770,
+        "duration": 228,
+        "my_vote": null,
+        "sid_path": "MUSICIANS/M/Mitch_and_Dane/Dane/Arctic_Circles.sid",
+        "next_song": {
+            "artist": "sYmBoLs",
+            "filename": "M:\\Mp3\\c64\\rko\\sYmBoLs - Last Ninja 2 - The office (in game).mp3",
+            "live": 0,
+            "album": "",
+            "title": "Last Ninja 2 - The office (in game)"
+        },
+        "albumyear": "2009",
+        "r64_vote": "6",
+        "website": "",
+        "title": "The Arctic Circle (66.56756 edition)",
+        "next_poll": 25,
+        "id": "3605",
+        "filename": "c64\\rko\\X-formZ - The Arctic Circle (66.56756d edition).mp3",
+        "live": 0,
+        "requestedBy": "",
+        "num_votes": "191"
+    }
+}

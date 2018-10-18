@@ -1,0 +1,36 @@
+{
+    "error": 0,
+    "message": "",
+    "data": {
+        "requestedBy": "raw",
+        "next_song_date": 1504894037,
+        "artist": "X-formZ",
+        "sid_path": "MUSICIANS/G/Gilmore_Adam/Trolls.sid",
+        "duration": 189,
+        "live": 0,
+        "my_vote": null,
+        "vote_percent": "98.0349",
+        "website": "",
+        "picture": "",
+        "next_song_expected": 35,
+        "album": "",
+        "r64_id": "2439",
+        "r64_vote": "5",
+        "listeners": "76",
+        "date_played": 1504893659,
+        "filename": "c64\\rko\\X-formZ - The evil trolls from the dark forest.mp3",
+        "requestID": "462425",
+        "num_votes": "229",
+        "next_song": {
+            "artist": "Aki J\u00e4rvinen",
+            "filename": "M:\\Mp3\\c64\\rko\\Aki Jarvinen - Nemesis The Warlock (Metal remake).mp3",
+            "live": 0,
+            "title": "Nemesis The Warlock (Metal remake)",
+            "album": ""
+        },
+        "id": "3180",
+        "title": "Trolls (Evil trolls from the dark forest)",
+        "albumyear": "2004",
+        "next_poll": 35
+    }
+}

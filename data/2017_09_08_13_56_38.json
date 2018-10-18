@@ -1,0 +1,36 @@
+{
+    "error": 0,
+    "message": "",
+    "data": {
+        "r64_id": "2715",
+        "album": "",
+        "albumyear": "2005",
+        "id": "2121",
+        "listeners": "87",
+        "next_song": {
+            "filename": "M:\\Mp3\\c64\\rko\\SIDrip Alliance - Navy Moves.mp3",
+            "artist": "SIDrip Alliance",
+            "album": "",
+            "title": "Navy Moves",
+            "live": 0
+        },
+        "requestID": "0",
+        "vote_percent": "93.8596",
+        "next_poll": 103,
+        "filename": "c64\\rko\\KryogeniK - Deflektor (In Your Face Mix).mp3",
+        "website": "",
+        "my_vote": null,
+        "num_votes": "114",
+        "duration": 165,
+        "sid_path": "MUSICIANS/D/Daglish_Ben/Deflektor.sid",
+        "artist": "KryogeniK",
+        "requestedBy": "",
+        "picture": "",
+        "date_played": 1504871731,
+        "next_song_date": 1504872061,
+        "r64_vote": "4",
+        "next_song_expected": 103,
+        "title": "Deflektor (In Your Face Mix)",
+        "live": 0
+    }
+}

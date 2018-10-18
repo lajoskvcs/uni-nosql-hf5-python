@@ -1,0 +1,36 @@
+{
+    "error": 0,
+    "message": "",
+    "data": {
+        "requestID": "0",
+        "album": "",
+        "next_song_date": 1504899754,
+        "title": "Clarence (short rmx)",
+        "next_poll": 15,
+        "requestedBy": "",
+        "my_vote": null,
+        "sid_path": "MUSICIANS/D/DRAX/Clarence.sid",
+        "picture": "",
+        "albumyear": "2007",
+        "website": "",
+        "id": "3012",
+        "date_played": 1504899250,
+        "next_song_expected": -11,
+        "artist": "Dafunk",
+        "duration": 252,
+        "num_votes": "130",
+        "vote_percent": "97.6923",
+        "live": 0,
+        "listeners": "63",
+        "filename": "c64\\rko\\Dafunk - Clarence (short rmx).mp3",
+        "r64_id": "3568",
+        "next_song": {
+            "filename": "M:\\Mp3\\c64\\rko\\BeeZerk - Floatee.mp3",
+            "album": "",
+            "artist": "BeeZerk",
+            "live": 0,
+            "title": "Floatee"
+        },
+        "r64_vote": "6"
+    }
+}

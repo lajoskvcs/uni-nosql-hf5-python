@@ -1,0 +1,36 @@
+{
+    "data": {
+        "listeners": "37",
+        "album": "",
+        "vote_percent": "92.9558",
+        "r64_vote": "5",
+        "filename": "c64\\rko\\BLOD - Knucklebusters.mp3",
+        "id": "4056",
+        "picture": "",
+        "next_song_expected": -11,
+        "website": "",
+        "date_played": 1504927143,
+        "requestedBy": "",
+        "num_votes": "181",
+        "requestID": "0",
+        "artist": "BLOD!",
+        "next_poll": 15,
+        "next_song_date": 1504927901,
+        "next_song": {
+            "album": "",
+            "live": 0,
+            "filename": "M:\\Mp3\\c64\\rko\\Emre Bulsat - Dream n Trance (Good Love).mp3",
+            "artist": "Emre Bulsat",
+            "title": "Dream n Trance (Good Love)"
+        },
+        "albumyear": "2011",
+        "sid_path": "MUSICIANS/H/Hubbard_Rob/Knucklebusters.sid",
+        "my_vote": null,
+        "title": "Knucklebusters",
+        "duration": 379,
+        "live": 0,
+        "r64_id": "4617"
+    },
+    "message": "",
+    "error": 0
+}

@@ -1,0 +1,36 @@
+{
+    "message": "",
+    "data": {
+        "vote_percent": "97.9167",
+        "date_played": 1504909781,
+        "albumyear": "2017",
+        "my_vote": null,
+        "artist": "Colmarr",
+        "r64_id": "5662",
+        "title": "Batman The Movie (Cathedral Remix)",
+        "duration": 304,
+        "listeners": "60",
+        "requestedBy": "",
+        "sid_path": "MUSICIANS/C/Cannon_Matthew/Batman_the_Movie.sid",
+        "album": "",
+        "next_poll": 192,
+        "filename": "c64\\rko\\Colmarr - Batman The Movie (Cathedral Remix).mp3",
+        "num_votes": "12",
+        "requestID": "0",
+        "website": "",
+        "next_song": {
+            "live": 0,
+            "artist": "The Plough",
+            "filename": "M:\\Mp3\\c64\\rko\\The Plough - Falcon Patrol II.mp3",
+            "title": "Falcon Patrol II",
+            "album": ""
+        },
+        "next_song_expected": 192,
+        "picture": "",
+        "r64_vote": "4",
+        "live": 0,
+        "id": "4919",
+        "next_song_date": 1504910389
+    },
+    "error": 0
+}

@@ -1,0 +1,36 @@
+{
+    "data": {
+        "num_votes": "226",
+        "listeners": "62",
+        "requestedBy": "",
+        "albumyear": "2012",
+        "picture": "",
+        "next_song_expected": 82,
+        "duration": 285,
+        "title": "ThunderCats",
+        "sid_path": "MUSICIANS/H/Hubbard_Rob/Thundercats.sid",
+        "website": "",
+        "r64_vote": "5",
+        "id": "4306",
+        "my_vote": null,
+        "next_song": {
+            "live": 0,
+            "filename": "M:\\Mp3\\c64\\rko\\Alastair 'Boz' Bowness - Detergent.mp3",
+            "artist": "Alistair 'Boz' Bowness",
+            "title": "Detergent",
+            "album": ""
+        },
+        "vote_percent": "94.9115",
+        "artist": "A.Zhukoff",
+        "next_poll": 82,
+        "date_played": 1504905430,
+        "live": 0,
+        "requestID": "0",
+        "album": "",
+        "filename": "c64\\rko\\A.Zhukoff - ThunderCats.mp3",
+        "r64_id": "4870",
+        "next_song_date": 1504906000
+    },
+    "error": 0,
+    "message": ""
+}

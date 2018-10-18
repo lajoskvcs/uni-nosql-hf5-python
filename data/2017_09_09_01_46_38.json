@@ -1,0 +1,36 @@
+{
+    "message": "",
+    "data": {
+        "requestedBy": "",
+        "albumyear": "2004",
+        "my_vote": null,
+        "artist": "Makke",
+        "next_song_date": 1504914513,
+        "sid_path": null,
+        "id": "2426",
+        "vote_percent": "96.7391",
+        "date_played": 1504914153,
+        "live": 0,
+        "picture": "Makke_-_Its_Binary_Baby.jpg",
+        "r64_id": null,
+        "filename": "c64\\Albums\\Makke - It's Binary, Baby!\\11 - Compilations III.mp3",
+        "num_votes": "161",
+        "next_poll": 15,
+        "website": "http://www.c64audio.com/productInfo.php?cat=BINBABE",
+        "listeners": "50",
+        "requestID": "0",
+        "duration": 180,
+        "album": "It's Binary, Baby!",
+        "r64_vote": null,
+        "next_song": {
+            "filename": "M:\\Mp3\\c64\\rko\\Dafunk - Mellow Idea (Just a small mellow rmx).mp3",
+            "album": "",
+            "title": "Mellow Idea (Just a small mellow rmx)",
+            "live": 0,
+            "artist": "Dafunk"
+        },
+        "next_song_expected": -60,
+        "title": "Compilations III"
+    },
+    "error": 0
+}

@@ -1,0 +1,30 @@
+{
+    "message": "",
+    "data": {
+        "r64_id": "2573",
+        "r64_vote": "5",
+        "picture": "",
+        "next_song_date": 1504914508,
+        "live": 0,
+        "next_song": null,
+        "id": "2019",
+        "website": "",
+        "next_song_expected": -56,
+        "date_played": 1504913806,
+        "listeners": "52",
+        "vote_percent": "95.6311",
+        "title": "Parallax (Wanderized)",
+        "next_poll": 15,
+        "albumyear": "2005",
+        "sid_path": "MUSICIANS/G/Galway_Martin/Parallax.sid",
+        "num_votes": "206",
+        "requestID": "0",
+        "requestedBy": "",
+        "artist": "Sonic Wanderer",
+        "my_vote": null,
+        "album": "",
+        "duration": 351,
+        "filename": "c64\\rko\\Sonic Wanderer - Parallax (Wanderized).mp3"
+    },
+    "error": 0
+}

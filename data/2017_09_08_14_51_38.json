@@ -1,0 +1,36 @@
+{
+    "data": {
+        "num_votes": "6",
+        "vote_percent": "100.0000",
+        "next_song": {
+            "live": 0,
+            "artist": "Acamantor",
+            "filename": "M:\\Mp3\\c64\\rko\\Acamantor - Druid (Orchestral).mp3",
+            "title": "Druid (Orchestral)",
+            "album": ""
+        },
+        "sid_path": "MUSICIANS/H/Hanlon_David/Enlightenment_Druid_II.sid",
+        "r64_id": "5577",
+        "website": "",
+        "next_song_date": 1504875491,
+        "date_played": 1504874943,
+        "live": 0,
+        "albumyear": "2016",
+        "filename": "c64\\rko\\Mongo Erectus - Druid II 2.mp3",
+        "next_song_expected": 124,
+        "album": "",
+        "picture": "",
+        "r64_vote": "4",
+        "duration": 274,
+        "title": "Druid II 2",
+        "requestID": "462418",
+        "my_vote": null,
+        "requestedBy": "raw",
+        "listeners": "74",
+        "artist": "Mongo Erectus",
+        "id": "4882",
+        "next_poll": 124
+    },
+    "error": 0,
+    "message": ""
+}

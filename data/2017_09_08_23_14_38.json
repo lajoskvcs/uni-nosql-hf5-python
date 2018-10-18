@@ -1,0 +1,36 @@
+{
+    "error": 0,
+    "data": {
+        "r64_vote": "5",
+        "next_song_date": 1504905478,
+        "requestID": "0",
+        "next_poll": 15,
+        "next_song": {
+            "filename": "M:\\Mp3\\c64\\rko\\LukHash - Bruce Lee [youtube vid].mp3",
+            "album": "",
+            "title": "Bruce Lee [youtube vid]",
+            "live": 0,
+            "artist": "LukHash"
+        },
+        "r64_id": "5403",
+        "my_vote": null,
+        "title": "Last Ninja (Ninja Revenge mix)",
+        "sid_path": "MUSICIANS/D/Daglish_Ben/Last_Ninja.sid",
+        "next_song_expected": -5,
+        "requestedBy": "",
+        "artist": "Pepe Pinapple",
+        "album": "",
+        "id": "4741",
+        "listeners": "62",
+        "filename": "c64\\rko\\Pepe Pinapple - Last Ninja (Ninja Revenge mix).mp3",
+        "vote_percent": "96.3235",
+        "albumyear": "2015",
+        "duration": 210,
+        "picture": "",
+        "live": 0,
+        "date_played": 1504905058,
+        "website": "",
+        "num_votes": "34"
+    },
+    "message": ""
+}

@@ -1,0 +1,36 @@
+{
+    "data": {
+        "num_votes": "153",
+        "r64_vote": "6",
+        "r64_id": "5331",
+        "filename": "c64\\rko\\Aki Jarvinen - Monty On The Run (Metal Remix).mp3",
+        "next_song_date": 1504882163,
+        "requestedBy": "",
+        "website": "",
+        "title": "Monty On The Run (Metal Remix)",
+        "listeners": "70",
+        "albumyear": "2014",
+        "next_poll": 15,
+        "next_song_expected": -21,
+        "requestID": "0",
+        "my_vote": null,
+        "next_song": {
+            "filename": "M:\\Mp3\\c64\\rko\\Peter Clarke - Ocean Loader 3 (Cinematic remix).mp3",
+            "album": "",
+            "live": 0,
+            "title": "Ocean Loader 3 (Cinematic remix)",
+            "artist": "Peter Clarke"
+        },
+        "album": "",
+        "live": 0,
+        "artist": "Aki J\u00e4rvinen",
+        "id": "4698",
+        "picture": "",
+        "duration": 311,
+        "vote_percent": "98.7013",
+        "date_played": 1504881541,
+        "sid_path": "MUSICIANS/H/Hubbard_Rob/Monty_on_the_Run.sid"
+    },
+    "error": 0,
+    "message": ""
+}

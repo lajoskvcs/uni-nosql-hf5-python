@@ -1,0 +1,36 @@
+{
+    "message": "",
+    "data": {
+        "albumyear": "2010",
+        "sid_path": "MUSICIANS/A/Avalon/Tower.sid",
+        "r64_id": "4374",
+        "vote_percent": "83.9912",
+        "picture": "",
+        "date_played": 1504921876,
+        "title": "Tower (Ambient Relaxing II)",
+        "next_song_expected": 217,
+        "my_vote": null,
+        "next_song_date": 1504922344,
+        "listeners": "40",
+        "id": "3830",
+        "website": "",
+        "duration": 234,
+        "filename": "c64\\rko\\C64toBit64 - Tower (Ambient Relaxing II).mp3",
+        "artist": "C64toBit64",
+        "live": 0,
+        "album": "",
+        "requestID": "0",
+        "next_song": {
+            "album": "",
+            "title": "Evelien (Only You)",
+            "filename": "M:\\Mp3\\c64\\rko\\Hazel - Evelien (Only You).mp3",
+            "live": 0,
+            "artist": "Hazel"
+        },
+        "next_poll": 217,
+        "requestedBy": "",
+        "r64_vote": "5",
+        "num_votes": "114"
+    },
+    "error": 0
+}

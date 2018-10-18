@@ -1,0 +1,36 @@
+{
+    "message": "",
+    "data": {
+        "id": "4247",
+        "picture": "",
+        "requestID": "0",
+        "next_poll": 94,
+        "sid_path": "MUSICIANS/D/DaFunk/I_Dont_Need_Love.sid",
+        "album": "",
+        "website": "",
+        "duration": 165,
+        "requestedBy": "",
+        "r64_vote": "5",
+        "num_votes": "145",
+        "next_song_expected": 94,
+        "my_vote": null,
+        "albumyear": "2007",
+        "r64_id": "4806",
+        "title": "I don't need no love",
+        "next_song_date": 1504909612,
+        "vote_percent": "95.5172",
+        "date_played": 1504909282,
+        "artist": "Dafunk",
+        "live": 0,
+        "filename": "c64\\rko\\Dafunk - I don't need no love.mp3",
+        "listeners": "62",
+        "next_song": {
+            "artist": "Sonic Wanderer",
+            "album": "",
+            "live": 0,
+            "filename": "M:\\Mp3\\c64\\rko\\Sonic Wanderer - Druid II - Enlightenment (Turbo Edit).mp3",
+            "title": "Druid II - Enlightenment (Turbo Edit)"
+        }
+    },
+    "error": 0
+}

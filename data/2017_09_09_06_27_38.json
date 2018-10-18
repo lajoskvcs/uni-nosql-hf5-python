@@ -1,0 +1,36 @@
+{
+    "data": {
+        "next_song_date": 1504931796,
+        "sid_path": "MUSICIANS/T/Tel_Jeroen/Outrun_Europa.sid",
+        "artist": "The Phekkis",
+        "r64_id": "5444",
+        "title": "Outrun Europa - Stage 6 Euromix",
+        "requestID": "0",
+        "album": "",
+        "albumyear": "2015",
+        "listeners": "42",
+        "live": 0,
+        "next_song_expected": 212,
+        "picture": "",
+        "vote_percent": "99.3056",
+        "duration": 331,
+        "num_votes": "36",
+        "my_vote": null,
+        "filename": "c64\\rko\\The Phekkis - Outrun Europa - Stage 6 Euromix.mp3",
+        "requestedBy": "",
+        "id": "4794",
+        "website": "",
+        "next_song": {
+            "artist": "Analog-X64",
+            "title": "Legend of Kage (Nostaliga)",
+            "album": "",
+            "live": 0,
+            "filename": "M:\\Mp3\\c64\\rko\\Analog-X64 - Legend of Kage (Nostaliga).mp3"
+        },
+        "r64_vote": "5",
+        "next_poll": 212,
+        "date_played": 1504931134
+    },
+    "message": "",
+    "error": 0
+}

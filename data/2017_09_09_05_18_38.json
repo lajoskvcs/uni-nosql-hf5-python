@@ -1,0 +1,36 @@
+{
+    "message": "",
+    "data": {
+        "title": "Rock'n'Roll level1 ala Shadows",
+        "next_song": {
+            "artist": "BLOD!",
+            "title": "Knucklebusters",
+            "live": 0,
+            "album": "",
+            "filename": "M:\\Mp3\\c64\\rko\\BLOD - Knucklebusters.mp3"
+        },
+        "num_votes": "162",
+        "sid_path": "MUSICIANS/V/Vaca_Ramiro/Rock_n_Roll.sid",
+        "requestID": "0",
+        "picture": "",
+        "r64_id": "4106",
+        "my_vote": null,
+        "next_song_expected": 34,
+        "album": "",
+        "next_poll": 34,
+        "next_song_date": 1504927271,
+        "date_played": 1504927023,
+        "artist": "The SIE",
+        "r64_vote": "4",
+        "albumyear": "2009",
+        "duration": 124,
+        "listeners": "39",
+        "website": "",
+        "requestedBy": "",
+        "filename": "c64\\rko\\The SIE - Rock'n'Roll level1 ala Shadows.mp3",
+        "id": "3578",
+        "vote_percent": "93.8272",
+        "live": 0
+    },
+    "error": 0
+}

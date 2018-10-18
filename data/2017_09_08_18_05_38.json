@@ -1,0 +1,36 @@
+{
+    "data": {
+        "requestID": "0",
+        "requestedBy": "",
+        "r64_vote": "5",
+        "filename": "c64\\non-RKO\\Boz_-_Chimera_Subtune_2.mp3",
+        "picture": "",
+        "next_song_date": 1504887168,
+        "title": "Chimera (subtune 2)",
+        "my_vote": null,
+        "vote_percent": "91.4013",
+        "albumyear": "2004",
+        "r64_id": "179",
+        "live": 0,
+        "id": "2436",
+        "sid_path": "MUSICIANS/H/Hubbard_Rob/Chimera.sid",
+        "artist": "Alistair 'Boz' Bowness",
+        "num_votes": "157",
+        "next_song": {
+            "title": "Trap (Ben Daglish)",
+            "album": "Back in Time III",
+            "filename": "M:\\Mp3\\c64\\Albums\\Various Artists - Back in Time III\\13_1-ben_daglish_chris_abbott-trap_part_1_(ben_daglish)-slaggeedit.mp3",
+            "live": 0,
+            "artist": "Ben Daglish & C.Abbott"
+        },
+        "listeners": "67",
+        "next_song_expected": 156,
+        "date_played": 1504886610,
+        "album": "",
+        "duration": 279,
+        "website": "",
+        "next_poll": 156
+    },
+    "error": 0,
+    "message": ""
+}

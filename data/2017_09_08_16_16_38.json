@@ -1,0 +1,36 @@
+{
+    "error": 0,
+    "data": {
+        "requestedBy": "",
+        "requestID": "0",
+        "title": "Last Ninja 1 - Inner sanctum",
+        "id": "3069",
+        "r64_vote": "4",
+        "next_poll": 15,
+        "my_vote": null,
+        "next_song": {
+            "title": "Turbo Charge (The Local Farthest Mix)",
+            "artist": "lclhstr",
+            "filename": "M:\\Mp3\\c64\\rko\\lclhstr - Turbo Charge (The Local Farthest Mix).mp3",
+            "album": "",
+            "live": 0
+        },
+        "date_played": 1504879991,
+        "listeners": "76",
+        "website": "",
+        "num_votes": "90",
+        "albumyear": "2000",
+        "album": "",
+        "r64_id": "3586",
+        "picture": "",
+        "artist": "Taxim",
+        "next_song_date": 1504880423,
+        "filename": "c64\\rko\\Taxim - Last Ninja 1 - Inner sanctum.mp3",
+        "next_song_expected": 14,
+        "vote_percent": "89.7222",
+        "sid_path": "MUSICIANS/D/Daglish_Ben/Last_Ninja.sid",
+        "duration": 216,
+        "live": 0
+    },
+    "message": ""
+}

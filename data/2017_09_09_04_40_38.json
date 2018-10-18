@@ -1,0 +1,36 @@
+{
+    "message": "",
+    "data": {
+        "my_vote": null,
+        "r64_id": "5212",
+        "artist": "Aural Stimulation",
+        "live": 0,
+        "sid_path": "MUSICIANS/H/Hubbard_Rob/Commando.sid",
+        "filename": "c64\\rko\\Aural Stimulation - Commando C64 Theme Rescore.mp3",
+        "date_played": 1504924608,
+        "id": "4589",
+        "picture": "",
+        "vote_percent": "93.0147",
+        "album": "",
+        "title": "Commando C64 Theme Rescore",
+        "website": "",
+        "requestedBy": "",
+        "num_votes": "67",
+        "next_song": {
+            "title": "Frogger",
+            "filename": "M:\\Mp3\\c64\\Albums\\Reyn Ouwehand - Blithe Blend Bizarre\\17 Frogger.mp3",
+            "artist": "Reyn Ouwehand",
+            "live": 0,
+            "album": "The Blithe, The Blend & The Bizarre"
+        },
+        "listeners": "36",
+        "requestID": "0",
+        "duration": 311,
+        "next_song_date": 1504925230,
+        "next_song_expected": 86,
+        "r64_vote": "4",
+        "next_poll": 86,
+        "albumyear": "2014"
+    },
+    "error": 0
+}

@@ -1,0 +1,36 @@
+{
+    "message": "",
+    "data": {
+        "next_song": {
+            "live": 0,
+            "title": "Street Cred Boxing",
+            "artist": "Gorm Jensen",
+            "album": "",
+            "filename": "M:\\Mp3\\c64\\rko\\Gorm Jensen - Street Cred Boxing .mp3"
+        },
+        "num_votes": "187",
+        "website": "",
+        "vote_percent": "95.0535",
+        "title": "Stormlord - Seneca's Marble Pack (feat. Simona)",
+        "duration": 261,
+        "picture": "",
+        "sid_path": "MUSICIANS/B/Bjerregaard_Johannes/Stormlord.sid",
+        "my_vote": null,
+        "requestedBy": "",
+        "requestID": "0",
+        "next_song_expected": 106,
+        "filename": "c64\\rko\\N-Joy of TSW featuring Simona - Stormlord (Senecas Marble Pack Edit).mp3",
+        "next_poll": 106,
+        "r64_vote": "6",
+        "artist": "N-Joy of The Soundwavers",
+        "r64_id": "2289",
+        "album": "",
+        "next_song_date": 1504912660,
+        "listeners": "56",
+        "albumyear": "2004",
+        "live": 0,
+        "id": "1914",
+        "date_played": 1504912138
+    },
+    "error": 0
+}

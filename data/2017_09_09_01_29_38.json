@@ -1,0 +1,36 @@
+{
+    "error": 0,
+    "data": {
+        "live": 0,
+        "next_song": {
+            "live": 0,
+            "artist": "J Krafft",
+            "album": "",
+            "title": "Terramex Schizo RMX v0.8",
+            "filename": "M:\\Mp3\\c64\\rko\\J Krafft - Terramex Schizo RMX v0.8.mp3"
+        },
+        "picture": "",
+        "filename": "c64\\rko\\Yoko - Target Renegade (Re-Mix).mp3",
+        "duration": 201,
+        "artist": "Yoko",
+        "next_song_date": 1504913575,
+        "id": "2537",
+        "r64_id": "3020",
+        "my_vote": null,
+        "vote_percent": "96.6667",
+        "website": "",
+        "next_song_expected": 1,
+        "albumyear": "2001",
+        "album": "",
+        "date_played": 1504913173,
+        "sid_path": "MUSICIANS/B/Biasillo_Gary/Target_Renegade.sid",
+        "title": "Target Renegade (Re-Mix)",
+        "requestedBy": "",
+        "requestID": "0",
+        "num_votes": "30",
+        "next_poll": 15,
+        "listeners": "53",
+        "r64_vote": "4"
+    },
+    "message": ""
+}

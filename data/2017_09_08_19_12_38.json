@@ -1,0 +1,36 @@
+{
+    "error": 0,
+    "message": "",
+    "data": {
+        "listeners": "83",
+        "artist": "Zyron",
+        "r64_id": null,
+        "next_poll": 387,
+        "r64_vote": null,
+        "next_song": {
+            "album": "",
+            "filename": "M:\\Mp3\\c64\\rko\\Puffy - The Last Ninja - Mansion (intro).mp3",
+            "live": 0,
+            "artist": "Puffy64",
+            "title": "Maniac Mansion (intro)"
+        },
+        "filename": "c64\\rko\\Zyron - Whittaker-medley.mp3",
+        "albumyear": "1998",
+        "album": "",
+        "title": "Whittaker-medley",
+        "next_song_expected": 387,
+        "num_votes": "221",
+        "sid_path": null,
+        "duration": 599,
+        "vote_percent": "92.7602",
+        "picture": "",
+        "next_song_date": 1504891739,
+        "date_played": 1504890541,
+        "website": "",
+        "requestedBy": "",
+        "live": 0,
+        "requestID": "0",
+        "id": "1486",
+        "my_vote": null
+    }
+}

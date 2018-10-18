@@ -1,0 +1,36 @@
+{
+    "error": 0,
+    "message": "",
+    "data": {
+        "listeners": "43",
+        "id": "3825",
+        "requestID": "0",
+        "vote_percent": "96.2766",
+        "artist": "CZ Tunes",
+        "num_votes": "141",
+        "next_song": {
+            "title": "Secret Games (htr rmx)",
+            "filename": "M:\\Mp3\\c64\\rko\\Dafunk - Secret Games (htr rmx).mp3",
+            "album": "",
+            "live": 0,
+            "artist": "Dafunk"
+        },
+        "sid_path": "MUSICIANS/B/Bayliss_Richard/Vice_from_Miami.sid",
+        "r64_id": "4350",
+        "next_poll": 118,
+        "filename": "c64\\rko\\CZ Tunes - Vice From Miami (Jan Hammer Edit).mp3",
+        "requestedBy": "",
+        "next_song_date": 1504921284,
+        "picture": "",
+        "title": "Vice From Miami (Jan Hammer Edit)",
+        "date_played": 1504920818,
+        "next_song_expected": 118,
+        "r64_vote": "5",
+        "website": "",
+        "my_vote": null,
+        "duration": 233,
+        "albumyear": "2010",
+        "live": 0,
+        "album": ""
+    }
+}

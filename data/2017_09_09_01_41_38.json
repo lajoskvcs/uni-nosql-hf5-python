@@ -1,0 +1,36 @@
+{
+    "message": "",
+    "error": 0,
+    "data": {
+        "filename": "c64\\rko\\Sonic Wanderer - Parallax (Wanderized).mp3",
+        "next_song_date": 1504914508,
+        "date_played": 1504913806,
+        "artist": "Sonic Wanderer",
+        "live": 0,
+        "requestedBy": "",
+        "album": "",
+        "my_vote": null,
+        "requestID": "0",
+        "duration": 351,
+        "num_votes": "206",
+        "listeners": "52",
+        "sid_path": "MUSICIANS/G/Galway_Martin/Parallax.sid",
+        "next_poll": 64,
+        "id": "2019",
+        "next_song_expected": 64,
+        "r64_id": "2573",
+        "website": "",
+        "albumyear": "2005",
+        "vote_percent": "95.6311",
+        "next_song": {
+            "filename": "M:\\Mp3\\c64\\Albums\\Makke - It's Binary, Baby!\\11 - Compilations III.mp3",
+            "album": "It's Binary, Baby!",
+            "live": 0,
+            "artist": "Makke",
+            "title": "Compilations III"
+        },
+        "r64_vote": "5",
+        "picture": "",
+        "title": "Parallax (Wanderized)"
+    }
+}

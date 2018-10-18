@@ -1,0 +1,36 @@
+{
+    "message": "",
+    "error": 0,
+    "data": {
+        "r64_vote": "5",
+        "vote_percent": "95.0704",
+        "sid_path": "MUSICIANS/H/Hanlon_David/Enlightenment_Druid_II.sid",
+        "id": "1102",
+        "next_song": {
+            "live": 0,
+            "title": "Megasweet",
+            "album": "",
+            "artist": "DJ Skitz",
+            "filename": "M:\\Mp3\\c64\\rko\\DJ Skitz - Megasweet.mp3"
+        },
+        "next_poll": 89,
+        "requestedBy": "",
+        "my_vote": null,
+        "album": "",
+        "picture": "",
+        "r64_id": "407",
+        "albumyear": "1997",
+        "duration": 513,
+        "filename": "c64\\rko\\Red Devil - Druid II Remix.mp3",
+        "title": "Druid II Remix",
+        "next_song_expected": 89,
+        "live": 0,
+        "date_played": 1504895969,
+        "num_votes": "142",
+        "artist": "Red Devil",
+        "website": "",
+        "next_song_date": 1504896995,
+        "listeners": "72",
+        "requestID": "0"
+    }
+}

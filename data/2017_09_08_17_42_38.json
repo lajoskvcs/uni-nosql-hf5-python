@@ -1,0 +1,36 @@
+{
+    "data": {
+        "duration": 235,
+        "albumyear": "2001",
+        "my_vote": null,
+        "sid_path": "MUSICIANS/G/Gangstar/Smilin_Reggae.sid",
+        "live": 0,
+        "date_played": 1504885192,
+        "picture": "",
+        "requestedBy": "",
+        "r64_id": "712",
+        "filename": "c64\\rko\\Slumgud of Depth - Smilng Reggae (Gangstars In The Jungle Mix).mp3",
+        "r64_vote": "5",
+        "next_song_expected": 74,
+        "title": "Smiling Reggae (Gangstars In The Jungle Mix)",
+        "album": "",
+        "next_song": {
+            "album": "",
+            "live": 0,
+            "artist": "Thomas Detert",
+            "filename": "M:\\Mp3\\c64\\rko\\Thomas Detert - The Switch.mp3",
+            "title": "The Switch"
+        },
+        "next_song_date": 1504885662,
+        "website": "",
+        "vote_percent": "93.1122",
+        "requestID": "0",
+        "id": "1199",
+        "artist": "Slumgud of Depth",
+        "num_votes": "98",
+        "next_poll": 74,
+        "listeners": "65"
+    },
+    "error": 0,
+    "message": ""
+}

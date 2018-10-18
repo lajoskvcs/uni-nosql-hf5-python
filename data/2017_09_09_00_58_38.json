@@ -1,0 +1,36 @@
+{
+    "data": {
+        "num_votes": "27",
+        "artist": "Kent 'Trace' Walld\u00e9n",
+        "picture": "Remix641.jpg",
+        "next_song": {
+            "live": 0,
+            "filename": "M:\\Mp3\\c64\\rko\\Chris Prattini - Bards Tale II (Subtune 3).mp3",
+            "title": "Bard's Tale II (Subtune 3)",
+            "artist": "Chris Prattini",
+            "album": ""
+        },
+        "duration": 251,
+        "website": "http://www.c64audio.com/productInfo.php?cat=R64",
+        "album": "Remix64 - Volume 1",
+        "id": "2287",
+        "my_vote": null,
+        "next_song_expected": 145,
+        "title": "Platoon",
+        "r64_vote": null,
+        "filename": "c64\\Albums\\Various Artists - Remix64 vol 1\\08-trace_-_platoon-cmg.mp3",
+        "live": 0,
+        "albumyear": "2002",
+        "listeners": "56",
+        "next_song_date": 1504911909,
+        "r64_id": null,
+        "sid_path": null,
+        "requestedBy": "",
+        "next_poll": 145,
+        "vote_percent": null,
+        "requestID": "0",
+        "date_played": 1504911407
+    },
+    "error": 0,
+    "message": ""
+}

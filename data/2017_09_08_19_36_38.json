@@ -1,0 +1,36 @@
+{
+    "message": "",
+    "data": {
+        "albumyear": "2001",
+        "next_poll": 97,
+        "filename": "c64\\rko\\Wobbler - Turbo Outrun (E20 remix).mp3",
+        "requestID": "0",
+        "album": "",
+        "vote_percent": "93.0743",
+        "next_song": {
+            "title": "Flimbos Quest",
+            "album": "",
+            "live": 0,
+            "artist": "Sid Peasley",
+            "filename": "M:\\Mp3\\c64\\rko\\Sid Peasley - Flimbos Quest.mp3"
+        },
+        "next_song_date": 1504892555,
+        "artist": "Wobbler",
+        "title": "Turbo Outrun (E20 remix)",
+        "listeners": "79",
+        "duration": 265,
+        "requestedBy": "",
+        "r64_vote": "5",
+        "next_song_expected": 97,
+        "my_vote": null,
+        "r64_id": "540",
+        "sid_path": "MUSICIANS/T/Tel_Jeroen/Turbo_Outrun.sid",
+        "id": "1443",
+        "live": 0,
+        "date_played": 1504892025,
+        "website": "",
+        "picture": "",
+        "num_votes": "148"
+    },
+    "error": 0
+}

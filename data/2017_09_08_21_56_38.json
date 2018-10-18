@@ -1,0 +1,36 @@
+{
+    "data": {
+        "title": "Fairlight",
+        "picture": "",
+        "id": "3795",
+        "r64_vote": "4",
+        "requestedBy": "",
+        "num_votes": "19",
+        "next_song_expected": 15,
+        "artist": "Doctorrus Petrixuss",
+        "albumyear": "2001",
+        "r64_id": "4332",
+        "album": "",
+        "next_song": {
+            "album": "",
+            "artist": "AcidBlock",
+            "filename": "M:\\Mp3\\c64\\rko\\AcidBlock - Beginning (Energized).mp3",
+            "live": 0,
+            "title": "Beginning (Energized)"
+        },
+        "duration": 135,
+        "date_played": 1504900473,
+        "vote_percent": "98.6842",
+        "filename": "c64\\rko\\Doctorrus Petrixuss - Fairlight.mp3",
+        "live": 0,
+        "listeners": "69",
+        "website": "",
+        "my_vote": null,
+        "next_poll": 15,
+        "requestID": "0",
+        "next_song_date": 1504900743,
+        "sid_path": "MUSICIANS/C/Clever_Music/Fairlight.sid"
+    },
+    "message": "",
+    "error": 0
+}

@@ -1,0 +1,36 @@
+{
+    "message": "",
+    "data": {
+        "album": "",
+        "next_song_date": 1504928968,
+        "vote_percent": "100.0000",
+        "title": "Slow Slower (Place in the Space mix)",
+        "requestID": "0",
+        "duration": 170,
+        "next_poll": 15,
+        "listeners": "39",
+        "requestedBy": "",
+        "r64_vote": "6",
+        "num_votes": "10",
+        "filename": "c64\\rko\\Xandra - Slow Slower (Place in the Space mix).mp3",
+        "website": "",
+        "date_played": 1504928628,
+        "albumyear": "2017",
+        "sid_path": "MUSICIANS/T/Tichelmann_Kay/Slow_Slower.sid",
+        "next_song": {
+            "title": "ProBMX (80's Synth Rockmix)",
+            "album": "",
+            "artist": "FeekZoid",
+            "filename": "M:\\Mp3\\c64\\rko\\FeekZoid - ProBMX (80's Synth Rockmix).mp3",
+            "live": 0
+        },
+        "artist": "Xandra",
+        "r64_id": "5605",
+        "picture": "",
+        "live": 0,
+        "next_song_expected": -55,
+        "my_vote": null,
+        "id": "4963"
+    },
+    "error": 0
+}

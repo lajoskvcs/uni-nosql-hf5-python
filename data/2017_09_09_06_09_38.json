@@ -1,0 +1,36 @@
+{
+    "message": "",
+    "data": {
+        "next_song_date": 1504930554,
+        "r64_vote": "5",
+        "id": "1955",
+        "requestedBy": "",
+        "next_song_expected": 80,
+        "picture": "",
+        "duration": 301,
+        "album": "",
+        "website": "",
+        "num_votes": "519",
+        "sid_path": "MUSICIANS/H/Hubbard_Rob/Delta.sid",
+        "albumyear": "0",
+        "artist": "weebl",
+        "live": 0,
+        "date_played": 1504929952,
+        "vote_percent": "96.7245",
+        "filename": "c64\\rko\\weebl - deltaplus.mp3",
+        "title": "Deltaplus",
+        "my_vote": null,
+        "listeners": "46",
+        "requestID": "0",
+        "r64_id": "2379",
+        "next_poll": 80,
+        "next_song": {
+            "filename": "M:\\Mp3\\c64\\rko\\Martin Dodd - Total Eclipse (Main Theme Remix).mp3",
+            "artist": "Martin Dodd",
+            "live": 0,
+            "album": "",
+            "title": "Total Eclipse (Main Theme Remix)"
+        }
+    },
+    "error": 0
+}

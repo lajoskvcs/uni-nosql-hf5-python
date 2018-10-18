@@ -1,0 +1,36 @@
+{
+    "error": 0,
+    "data": {
+        "date_played": 1504902540,
+        "album": "",
+        "num_votes": "39",
+        "next_song_expected": -10,
+        "r64_id": "5135",
+        "picture": "",
+        "my_vote": null,
+        "next_song_date": 1504902826,
+        "listeners": "65",
+        "website": "",
+        "live": 0,
+        "filename": "c64\\rko\\Luke McQueen - R-Type - Main Theme (YM2151 Arrange).mp3",
+        "duration": 143,
+        "id": "4472",
+        "requestedBy": "",
+        "r64_vote": "5",
+        "title": "R-Type - Main Theme (YM2151 Arrange)",
+        "next_song": {
+            "live": 0,
+            "title": "Training (Kicks with a punch Remix)",
+            "album": "",
+            "filename": "M:\\Mp3\\c64\\rko\\AcidBlock - Training (Kicks with a punch Remix).mp3",
+            "artist": "AcidBlock"
+        },
+        "next_poll": 15,
+        "sid_path": "MUSICIANS/H/Huelsbeck_Chris/R-Type.sid",
+        "vote_percent": "97.4359",
+        "requestID": "0",
+        "artist": "Luke McQueen",
+        "albumyear": "2013"
+    },
+    "message": ""
+}

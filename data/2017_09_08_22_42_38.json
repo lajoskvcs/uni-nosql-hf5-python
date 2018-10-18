@@ -1,0 +1,36 @@
+{
+    "error": 0,
+    "message": "",
+    "data": {
+        "duration": 294,
+        "album": "",
+        "num_votes": "84",
+        "requestID": "0",
+        "r64_id": null,
+        "filename": "c64\\rko\\BeeZerk - BeeZerk - Blasphemy (Feat. Pallaso and Kage).mp3",
+        "next_poll": 15,
+        "r64_vote": null,
+        "title": "BeeZerk - Blasphemy (Feat. Pallaso & Kage)",
+        "my_vote": null,
+        "id": "4461",
+        "next_song_date": 1504903587,
+        "next_song_expected": -60,
+        "requestedBy": "",
+        "albumyear": "2013",
+        "sid_path": null,
+        "vote_percent": "49.4048",
+        "artist": "BeeZerk",
+        "live": 0,
+        "website": "",
+        "next_song": {
+            "artist": "daRK HaLF",
+            "album": "",
+            "filename": "M:\\Mp3\\c64\\rko\\daRK HaLF - Last Ninja 2 Central Park.mp3",
+            "title": "Last Ninja 2 Central Park",
+            "live": 0
+        },
+        "picture": "",
+        "date_played": 1504902999,
+        "listeners": "67"
+    }
+}

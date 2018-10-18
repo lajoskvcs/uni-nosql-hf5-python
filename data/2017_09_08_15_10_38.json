@@ -1,0 +1,36 @@
+{
+    "message": "",
+    "error": 0,
+    "data": {
+        "title": "Eliminator (Sexy & Saxy Smooth Party remix)",
+        "num_votes": "113",
+        "r64_id": "4428",
+        "album": "",
+        "vote_percent": "82.3009",
+        "r64_vote": "6",
+        "id": "3883",
+        "requestID": "0",
+        "live": 0,
+        "my_vote": null,
+        "date_played": 1504876053,
+        "requestedBy": "",
+        "listeners": "77",
+        "picture": "",
+        "website": "",
+        "next_song_expected": 7,
+        "next_poll": 15,
+        "duration": 187,
+        "next_song": {
+            "title": "Depressed (Renoise 2.5 Beta Mix)",
+            "filename": "M:\\Mp3\\c64\\rko\\Amok - Depressed (Renoise 2.5 Beta Mix).mp3",
+            "live": 0,
+            "album": "",
+            "artist": "Amok"
+        },
+        "artist": "N-JOY",
+        "sid_path": "MUSICIANS/T/Tel_Jeroen/Eliminator.sid",
+        "filename": "c64\\rko\\N-JOY - Eliminator (Sexy and Saxy Smooth Party remix).mp3",
+        "albumyear": "2010",
+        "next_song_date": 1504876427
+    }
+}

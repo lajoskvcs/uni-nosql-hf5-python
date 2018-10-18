@@ -1,0 +1,36 @@
+{
+    "error": 0,
+    "data": {
+        "listeners": "69",
+        "requestID": "0",
+        "filename": "c64\\rko\\Obscuresounds - Delta.mp3",
+        "artist": "Obscuresounds",
+        "live": 0,
+        "picture": "",
+        "r64_vote": "6",
+        "albumyear": "2010",
+        "next_song_date": 1504890074,
+        "next_song_expected": 113,
+        "vote_percent": "95.7677",
+        "next_poll": 113,
+        "requestedBy": "",
+        "my_vote": null,
+        "album": "",
+        "date_played": 1504889618,
+        "id": "3914",
+        "duration": 228,
+        "next_song": {
+            "filename": "M:\\Mp3\\c64\\rko\\Rob Steptoe - Driller - Part 1.mp3",
+            "artist": "Rob Steptoe",
+            "live": 0,
+            "album": "",
+            "title": "Driller - Part 1"
+        },
+        "title": "Delta",
+        "r64_id": "4461",
+        "num_votes": "254",
+        "sid_path": "MUSICIANS/H/Hubbard_Rob/Delta.sid",
+        "website": ""
+    },
+    "message": ""
+}

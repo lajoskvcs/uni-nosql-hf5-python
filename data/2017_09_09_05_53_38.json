@@ -1,0 +1,36 @@
+{
+    "message": "",
+    "error": 0,
+    "data": {
+        "id": "396",
+        "listeners": "40",
+        "album": "",
+        "num_votes": "30",
+        "next_song_expected": 14,
+        "my_vote": null,
+        "requestID": "0",
+        "next_poll": 15,
+        "next_song": {
+            "title": "Crimson Blessing",
+            "live": 0,
+            "filename": "M:\\Mp3\\c64\\rko\\MRT - Crimson Blessing.mp3",
+            "album": "",
+            "artist": "MRT"
+        },
+        "requestedBy": "",
+        "live": 0,
+        "next_song_date": 1504929404,
+        "artist": "FeekZoid",
+        "title": "ProBMX (80's Synth Rockmix)",
+        "website": "",
+        "picture": "",
+        "sid_path": "MUSICIANS/G/Gray_Matt/Professional_BMX_Simulator.sid",
+        "vote_percent": null,
+        "filename": "c64\\rko\\FeekZoid - ProBMX (80's Synth Rockmix).mp3",
+        "r64_id": "1468",
+        "duration": 177,
+        "albumyear": "2002",
+        "date_played": 1504929050,
+        "r64_vote": "5"
+    }
+}

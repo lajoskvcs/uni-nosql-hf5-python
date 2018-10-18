@@ -1,0 +1,36 @@
+{
+    "message": "",
+    "data": {
+        "album": "",
+        "next_song": {
+            "album": "",
+            "filename": "M:\\Mp3\\c64\\rko\\DeeS - Chopper (Arctic Circle Remix).mp3",
+            "live": 0,
+            "artist": "Dees",
+            "title": "Chopper (Arctic Circle Remix)"
+        },
+        "vote_percent": "93.2886",
+        "next_song_expected": 37,
+        "requestedBy": "",
+        "artist": "Sonic Wanderer",
+        "filename": "c64\\rko\\Sonic Wanderer - Flimbo's Quest (For The Ultimate Beat).mp3",
+        "next_song_date": 1504912165,
+        "id": "2460",
+        "num_votes": "149",
+        "requestID": "0",
+        "listeners": "58",
+        "r64_id": "2896",
+        "duration": 195,
+        "title": "Flimbo's Quest (For The Ultimate Beat)",
+        "picture": "",
+        "albumyear": "2005",
+        "website": "",
+        "date_played": 1504911775,
+        "r64_vote": "5",
+        "sid_path": "MUSICIANS/O/Ouwehand_Reyn/Flimbos_Quest.sid",
+        "my_vote": null,
+        "live": 0,
+        "next_poll": 37
+    },
+    "error": 0
+}

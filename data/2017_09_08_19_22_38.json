@@ -1,0 +1,36 @@
+{
+    "message": "",
+    "error": 0,
+    "data": {
+        "live": 0,
+        "my_vote": null,
+        "duration": 266,
+        "date_played": 1504891136,
+        "r64_id": "113",
+        "albumyear": "0",
+        "next_song_expected": 49,
+        "artist": "Puffy64",
+        "requestedBy": "zdooder",
+        "requestID": "462422",
+        "title": "Maniac Mansion (intro)",
+        "picture": "",
+        "website": "",
+        "r64_vote": "5",
+        "next_song_date": 1504891668,
+        "sid_path": "MUSICIANS/G/Grigg_Chris/Maniac_Mansion.sid",
+        "filename": "c64\\rko\\Puffy - The Last Ninja - Mansion (intro).mp3",
+        "id": "1031",
+        "num_votes": "157",
+        "next_song": {
+            "live": 0,
+            "filename": "M:\\Mp3\\c64\\rko\\DJ Skitz - R1D1 (Funky Gibbon Mix).mp3",
+            "artist": "DJ Skitz",
+            "title": "R1D1 (Funky Gibbon Mix)",
+            "album": ""
+        },
+        "listeners": "81",
+        "next_poll": 49,
+        "album": "",
+        "vote_percent": "94.1083"
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "error": 0,
+    "message": "",
+    "data": {
+        "next_song_expected": 110,
+        "vote_percent": "93.9815",
+        "listeners": "68",
+        "num_votes": "108",
+        "next_song": {
+            "live": 0,
+            "filename": "M:\\Mp3\\c64\\rko\\Apple  Paradise Dreams - Painterboy.mp3",
+            "album": "",
+            "artist": "Apple / Paradise Dreams",
+            "title": "Painterboy"
+        },
+        "r64_vote": "5",
+        "requestedBy": "",
+        "id": "255",
+        "website": "",
+        "album": "",
+        "next_song_date": 1504907679,
+        "title": "The Last Ninja 2 - The Basement",
+        "albumyear": "2002",
+        "requestID": "0",
+        "picture": "",
+        "date_played": 1504907167,
+        "r64_id": "1826",
+        "live": 0,
+        "duration": 256,
+        "filename": "c64\\rko\\Dave Brybe - The Last Ninja 2 - The Basement.mp3",
+        "artist": "Dave Brybe",
+        "next_poll": 110,
+        "sid_path": "MUSICIANS/G/Gray_Matt/Last_Ninja_2.sid",
+        "my_vote": null
+    }
+}

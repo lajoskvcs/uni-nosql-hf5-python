@@ -1,0 +1,36 @@
+{
+    "error": 0,
+    "message": "",
+    "data": {
+        "title": "Into the Past (feat. Mordi)",
+        "albumyear": "0",
+        "listeners": "39",
+        "num_votes": "207",
+        "picture": "",
+        "requestedBy": "",
+        "requestID": "0",
+        "sid_path": "MUSICIANS/D/Danko_Tomas/Into_the_Past.sid",
+        "vote_percent": "98.0676",
+        "filename": "c64\\rko\\Slaygon - Into the Past (feat. Mordi).mp3",
+        "website": "",
+        "artist": "Slaygon",
+        "next_song": {
+            "title": "Rock'n'Roll level1 ala Shadows",
+            "filename": "M:\\Mp3\\c64\\rko\\The SIE - Rock'n'Roll level1 ala Shadows.mp3",
+            "artist": "The SIE",
+            "album": "",
+            "live": 0
+        },
+        "date_played": 1504926864,
+        "album": "",
+        "id": "4515",
+        "my_vote": null,
+        "r64_vote": "5",
+        "duration": 166,
+        "next_poll": 15,
+        "next_song_date": 1504927196,
+        "next_song_expected": -23,
+        "r64_id": "5188",
+        "live": 0
+    }
+}

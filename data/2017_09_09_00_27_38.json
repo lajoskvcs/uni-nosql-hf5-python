@@ -1,0 +1,36 @@
+{
+    "message": "",
+    "error": 0,
+    "data": {
+        "date_played": 1504909436,
+        "requestedBy": "",
+        "my_vote": null,
+        "album": "",
+        "website": "",
+        "duration": 228,
+        "listeners": "61",
+        "next_song_expected": 11,
+        "vote_percent": "93.4211",
+        "next_poll": 15,
+        "title": "Druid II - Enlightenment (Turbo Edit)",
+        "id": "1224",
+        "r64_vote": "5",
+        "r64_id": "1986",
+        "requestID": "0",
+        "picture": "",
+        "filename": "c64\\rko\\Sonic Wanderer - Druid II - Enlightenment (Turbo Edit).mp3",
+        "next_song_date": 1504909892,
+        "next_song": {
+            "filename": "M:\\Mp3\\c64\\rko\\FTC - Rolands Ratrace - Tune 4.mp3",
+            "title": "Rolands Ratrace - Tune 4",
+            "artist": "FTC",
+            "live": 0,
+            "album": ""
+        },
+        "artist": "Sonic Wanderer",
+        "albumyear": "2003",
+        "sid_path": "MUSICIANS/H/Hanlon_David/Enlightenment_Druid_II.sid",
+        "live": 0,
+        "num_votes": "114"
+    }
+}

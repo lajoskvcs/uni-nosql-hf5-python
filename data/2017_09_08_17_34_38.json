@@ -1,0 +1,36 @@
+{
+    "error": 0,
+    "message": "",
+    "data": {
+        "filename": "c64\\rko\\Pex Mahoney Tufvesson - Boulder Dash (Commodore 69 mix).mp3",
+        "num_votes": "180",
+        "vote_percent": "86.5278",
+        "sid_path": "GAMES/A-F/Boulder_Dash.sid",
+        "live": 0,
+        "picture": "",
+        "id": "975",
+        "next_song_expected": -54,
+        "r64_id": "1023",
+        "date_played": 1504884699,
+        "album": "",
+        "my_vote": null,
+        "requestID": "0",
+        "requestedBy": "",
+        "next_song": {
+            "artist": "Nicklas Schmidt",
+            "album": "",
+            "live": 0,
+            "title": "Bump Set Spike (Schizo Classical Remix)",
+            "filename": "M:\\Mp3\\c64\\rko\\Nicklas Schmidt - Bump Set Spike (Schizo Classical Remix).mp3"
+        },
+        "title": "Boulder Dash (Commodore 69 mix)",
+        "albumyear": "0",
+        "website": "",
+        "next_poll": 15,
+        "next_song_date": 1504884939,
+        "artist": "Pex \"Mahoney\" Tufvesson",
+        "listeners": "67",
+        "duration": 120,
+        "r64_vote": "6"
+    }
+}

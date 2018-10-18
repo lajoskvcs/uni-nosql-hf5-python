@@ -1,0 +1,36 @@
+{
+    "data": {
+        "next_song_expected": -12,
+        "filename": "c64\\rko\\Binster - Xout (LiquidX mix).mp3",
+        "albumyear": "2004",
+        "website": "",
+        "r64_vote": "5",
+        "listeners": "80",
+        "num_votes": "111",
+        "next_song": {
+            "album": "",
+            "artist": "Branko Balsic",
+            "filename": "M:\\Mp3\\c64\\rko\\Branko Balsic - Robocop 2 tune 9 (Sessions divided Mix).mp3",
+            "live": 0,
+            "title": "Robocop 2 tune 9 (Sessions divided Mix)"
+        },
+        "title": "Xout (LiquidX mix)",
+        "my_vote": null,
+        "id": "2112",
+        "next_song_date": 1504892915,
+        "r64_id": "2730",
+        "sid_path": "MUSICIANS/E/Ed/Xout.sid",
+        "live": 0,
+        "vote_percent": "93.2432",
+        "artist": "Binster",
+        "requestedBy": "",
+        "album": "",
+        "date_played": 1504892407,
+        "picture": "",
+        "next_poll": 15,
+        "requestID": "0",
+        "duration": 254
+    },
+    "message": "",
+    "error": 0
+}

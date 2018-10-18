@@ -1,0 +1,36 @@
+{
+    "message": "",
+    "data": {
+        "albumyear": "2006",
+        "listeners": "50",
+        "duration": 407,
+        "r64_vote": "4",
+        "next_poll": 166,
+        "requestID": "0",
+        "artist": "DJ cK",
+        "website": "",
+        "id": "2720",
+        "num_votes": "234",
+        "vote_percent": "88.3547",
+        "requestedBy": "",
+        "date_played": 1504914332,
+        "next_song_date": 1504915146,
+        "r64_id": "3166",
+        "sid_path": "MUSICIANS/T/Thiel_David/Winter_Games.sid",
+        "next_song": {
+            "artist": "Dafunk",
+            "album": "",
+            "live": 0,
+            "title": "Mellow Idea (Just a small mellow rmx)",
+            "filename": "M:\\Mp3\\c64\\rko\\Dafunk - Mellow Idea (Just a small mellow rmx).mp3"
+        },
+        "my_vote": null,
+        "live": 0,
+        "filename": "c64\\rko\\DJ cK - Epyx Winter Games - The Remix.mp3",
+        "album": "",
+        "title": "Epyx' Winter Games - The Remix",
+        "next_song_expected": 166,
+        "picture": ""
+    },
+    "error": 0
+}

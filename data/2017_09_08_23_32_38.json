@@ -1,0 +1,36 @@
+{
+    "message": "",
+    "error": 0,
+    "data": {
+        "live": 0,
+        "r64_id": "5534",
+        "next_song_date": 1504906676,
+        "my_vote": null,
+        "title": "Stationary Ark (Piano Version)",
+        "requestedBy": "",
+        "id": "4916",
+        "website": "",
+        "next_song_expected": 123,
+        "num_votes": "15",
+        "listeners": "65",
+        "sid_path": "MUSICIANS/F/Feil_Georg/Synth_Sample.sid",
+        "albumyear": "2016",
+        "duration": 200,
+        "next_song": {
+            "live": 0,
+            "filename": "M:\\Mp3\\c64\\rko\\LPChip - Alien (Korg DS-10 Mix).mp3",
+            "album": "",
+            "artist": "LPChip",
+            "title": "Alien (Korg DS-10 Mix)"
+        },
+        "date_played": 1504906276,
+        "artist": "omoroca",
+        "r64_vote": "5",
+        "requestID": "0",
+        "vote_percent": "93.3333",
+        "next_poll": 123,
+        "filename": "c64\\rko\\omoroca - Stationary Ark (Piano Version).mp3",
+        "picture": "",
+        "album": ""
+    }
+}

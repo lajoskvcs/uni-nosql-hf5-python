@@ -1,0 +1,36 @@
+{
+    "message": "",
+    "error": 0,
+    "data": {
+        "next_song": {
+            "live": 0,
+            "artist": "FeekZoid",
+            "filename": "M:\\Mp3\\c64\\rko\\FeekZoid - ProBMX (80's Synth Rockmix).mp3",
+            "album": "",
+            "title": "ProBMX (80's Synth Rockmix)"
+        },
+        "my_vote": null,
+        "listeners": "40",
+        "live": 0,
+        "picture": "",
+        "artist": "Alistair 'Boz' Bowness",
+        "duration": 203,
+        "next_song_date": 1504929195,
+        "title": "The Human Race",
+        "id": "32",
+        "r64_id": "216",
+        "albumyear": "0",
+        "vote_percent": "90.9091",
+        "requestedBy": "",
+        "r64_vote": "4",
+        "next_song_expected": 19,
+        "requestID": "0",
+        "num_votes": "132",
+        "filename": "c64\\rko\\Alastair 'Boz' Bowness - The Human Race.mp3",
+        "date_played": 1504928789,
+        "website": "",
+        "sid_path": "MUSICIANS/H/Hubbard_Rob/Human_Race.sid",
+        "next_poll": 19,
+        "album": ""
+    }
+}

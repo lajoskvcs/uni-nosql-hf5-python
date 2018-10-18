@@ -1,0 +1,36 @@
+{
+    "data": {
+        "sid_path": "MUSICIANS/T/Trident/Acrise.sid",
+        "requestedBy": "",
+        "next_song_expected": 4,
+        "live": 0,
+        "vote_percent": "93.2377",
+        "albumyear": "2001",
+        "filename": "c64\\rko\\Cirdan - Acrise.mp3",
+        "duration": 260,
+        "next_song_date": 1504907217,
+        "website": "",
+        "next_poll": 15,
+        "r64_vote": "5",
+        "date_played": 1504906697,
+        "num_votes": "122",
+        "my_vote": null,
+        "album": "",
+        "r64_id": "4828",
+        "artist": "Cirdan",
+        "id": "4227",
+        "picture": "",
+        "title": "Acrise",
+        "listeners": "66",
+        "next_song": {
+            "album": "",
+            "filename": "M:\\Mp3\\c64\\rko\\Dan Tootill - Scumball (Cheat Mode).mp3",
+            "artist": "Dan Tootill",
+            "live": 0,
+            "title": "Scumball (Cheat Mode)"
+        },
+        "requestID": "0"
+    },
+    "message": "",
+    "error": 0
+}

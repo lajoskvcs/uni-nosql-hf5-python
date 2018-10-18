@@ -1,0 +1,36 @@
+{
+    "error": 0,
+    "message": "",
+    "data": {
+        "live": 0,
+        "r64_vote": "4",
+        "id": "2537",
+        "artist": "Yoko",
+        "next_poll": 15,
+        "website": "",
+        "listeners": "54",
+        "requestedBy": "",
+        "title": "Target Renegade (Re-Mix)",
+        "picture": "",
+        "duration": 201,
+        "next_song_expected": -59,
+        "requestID": "0",
+        "num_votes": "30",
+        "r64_id": "3020",
+        "albumyear": "2001",
+        "my_vote": null,
+        "next_song": {
+            "album": "",
+            "live": 0,
+            "title": "2000 A.D.",
+            "artist": "Juha Kaunisto",
+            "filename": "M:\\Mp3\\c64\\rko\\Juha Kaunisto - 2000 A.D..mp3"
+        },
+        "vote_percent": "96.6667",
+        "sid_path": "MUSICIANS/B/Biasillo_Gary/Target_Renegade.sid",
+        "album": "",
+        "next_song_date": 1504913575,
+        "filename": "c64\\rko\\Yoko - Target Renegade (Re-Mix).mp3",
+        "date_played": 1504913173
+    }
+}

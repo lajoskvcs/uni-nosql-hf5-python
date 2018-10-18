@@ -1,0 +1,36 @@
+{
+    "error": 0,
+    "message": "",
+    "data": {
+        "artist": "Branko Balsic",
+        "r64_id": "3098",
+        "my_vote": null,
+        "picture": "",
+        "listeners": "74",
+        "date_played": 1504892645,
+        "requestedBy": "",
+        "filename": "c64\\rko\\Branko Balsic - Robocop 2 tune 9 (Sessions divided Mix).mp3",
+        "next_poll": 41,
+        "title": "Robocop 2 tune 9 (Sessions divided Mix)",
+        "id": "2650",
+        "duration": 309,
+        "next_song_date": 1504893263,
+        "r64_vote": "5",
+        "albumyear": "2006",
+        "vote_percent": "95.7090",
+        "album": "",
+        "num_votes": "134",
+        "next_song_expected": 41,
+        "next_song": {
+            "album": "",
+            "artist": "Fby",
+            "live": 0,
+            "title": "The Last Ninja (palace garden concerto)",
+            "filename": "M:\\Mp3\\c64\\rko\\Fby - The Last Ninja (palace garden concerto).mp3"
+        },
+        "live": 0,
+        "requestID": "0",
+        "sid_path": "MUSICIANS/D/Dunn_Jonathan/RoboCop_2.sid",
+        "website": ""
+    }
+}

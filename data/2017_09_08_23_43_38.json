@@ -1,0 +1,30 @@
+{
+    "message": "",
+    "data": {
+        "next_song_date": 1504907217,
+        "id": "4227",
+        "album": "",
+        "num_votes": "122",
+        "albumyear": "2001",
+        "vote_percent": "93.2377",
+        "requestedBy": "",
+        "date_played": 1504906697,
+        "artist": "Cirdan",
+        "sid_path": "MUSICIANS/T/Trident/Acrise.sid",
+        "website": "",
+        "r64_vote": "5",
+        "listeners": "66",
+        "next_poll": 15,
+        "picture": "",
+        "requestID": "0",
+        "next_song": null,
+        "my_vote": null,
+        "next_song_expected": -56,
+        "live": 0,
+        "filename": "c64\\rko\\Cirdan - Acrise.mp3",
+        "duration": 260,
+        "title": "Acrise",
+        "r64_id": "4828"
+    },
+    "error": 0
+}

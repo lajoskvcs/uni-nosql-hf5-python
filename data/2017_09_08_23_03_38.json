@@ -1,0 +1,36 @@
+{
+    "error": 0,
+    "data": {
+        "picture": "",
+        "my_vote": null,
+        "r64_id": "3399",
+        "next_song_date": 1504904934,
+        "requestID": "0",
+        "date_played": 1504904310,
+        "r64_vote": "5",
+        "vote_percent": "91.9231",
+        "albumyear": "2007",
+        "filename": "c64\\rko\\TmX - Last Ninja Inner Sanctum - Death Before Dishonour.mp3",
+        "album": "",
+        "next_song_expected": 9,
+        "website": "",
+        "duration": 312,
+        "id": "2909",
+        "num_votes": "130",
+        "requestedBy": "",
+        "title": "Last Ninja Inner Sanctum - Death Before Dishonour",
+        "artist": "TmX",
+        "next_poll": 15,
+        "listeners": "68",
+        "next_song": {
+            "title": "Toytone Tribe (childhood memories rmx)",
+            "live": 0,
+            "artist": "Dafunk",
+            "filename": "M:\\Mp3\\c64\\rko\\Dafunk - Toytone Tribe (childhood memories rmx).mp3",
+            "album": ""
+        },
+        "live": 0,
+        "sid_path": "MUSICIANS/D/Daglish_Ben/Last_Ninja.sid"
+    },
+    "message": ""
+}

@@ -1,0 +1,36 @@
+{
+    "error": 0,
+    "data": {
+        "listeners": "41",
+        "my_vote": null,
+        "duration": 327,
+        "next_song_expected": -55,
+        "live": 0,
+        "requestID": "0",
+        "r64_id": "3515",
+        "next_song": {
+            "live": 0,
+            "artist": "BeeZerk",
+            "filename": "M:\\Mp3\\c64\\rko\\BeeZerk - Mega Starforce.mp3",
+            "title": "Mega Starforce",
+            "album": ""
+        },
+        "artist": "Dafunk",
+        "next_song_date": 1504921685,
+        "album": "",
+        "requestedBy": "",
+        "date_played": 1504921031,
+        "title": "Secret Games (htr rmx)",
+        "albumyear": "2007",
+        "website": "",
+        "num_votes": "132",
+        "sid_path": "MUSICIANS/S/Signor/Secret_Games.sid",
+        "picture": "",
+        "vote_percent": "97.3485",
+        "r64_vote": "5",
+        "filename": "c64\\rko\\Dafunk - Secret Games (htr rmx).mp3",
+        "id": "3051",
+        "next_poll": 15
+    },
+    "message": ""
+}

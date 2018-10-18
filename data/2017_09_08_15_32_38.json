@@ -1,0 +1,36 @@
+{
+    "error": 0,
+    "message": "",
+    "data": {
+        "r64_vote": "4",
+        "next_song_date": 1504877729,
+        "next_song": {
+            "artist": "Andreas Schommer",
+            "album": "",
+            "title": "Commando Highscore",
+            "live": 0,
+            "filename": "M:\\Mp3\\c64\\rko\\Andreas Schommer - Commando Highscore.mp3"
+        },
+        "duration": 122,
+        "albumyear": "2014",
+        "num_votes": "27",
+        "vote_percent": "95.5357",
+        "r64_id": "5318",
+        "website": "",
+        "next_poll": 54,
+        "artist": "DJB",
+        "next_song_expected": 54,
+        "requestedBy": "",
+        "date_played": 1504877485,
+        "title": "Pool Party",
+        "requestID": "0",
+        "album": "",
+        "listeners": "74",
+        "live": 0,
+        "id": "4670",
+        "my_vote": null,
+        "picture": "",
+        "filename": "c64\\rko\\DJB - Pool Party.mp3",
+        "sid_path": "MUSICIANS/P/PRI/Pool_Party.sid"
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "data": {
+        "num_votes": "126",
+        "id": "900",
+        "album": "",
+        "next_song_date": 1504931401,
+        "r64_id": "259",
+        "requestID": "0",
+        "website": "",
+        "artist": "o2",
+        "title": "Shades",
+        "vote_percent": "94.6429",
+        "live": 0,
+        "r64_vote": "6",
+        "filename": "c64\\rko\\o2 - Shades.mp3",
+        "next_poll": 69,
+        "next_song_expected": 69,
+        "picture": "",
+        "duration": 259,
+        "date_played": 1504930883,
+        "listeners": "39",
+        "my_vote": null,
+        "sid_path": "MUSICIANS/H/Huelsbeck_Chris/Shades.sid",
+        "albumyear": "2000",
+        "requestedBy": "",
+        "next_song": {
+            "live": 0,
+            "artist": "The Phekkis",
+            "title": "Outrun Europa - Stage 6 Euromix",
+            "filename": "M:\\Mp3\\c64\\rko\\The Phekkis - Outrun Europa - Stage 6 Euromix.mp3",
+            "album": ""
+        }
+    },
+    "error": 0,
+    "message": ""
+}

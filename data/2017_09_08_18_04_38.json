@@ -1,0 +1,36 @@
+{
+    "message": "",
+    "data": {
+        "sid_path": "MUSICIANS/T/Tel_Jeroen/Iron_Lord.sid",
+        "next_song_date": 1504886739,
+        "listeners": "64",
+        "my_vote": null,
+        "date_played": 1504886487,
+        "next_song": {
+            "title": "Trap (Ben Daglish)",
+            "album": "Back in Time III",
+            "filename": "M:\\Mp3\\c64\\Albums\\Various Artists - Back in Time III\\13_1-ben_daglish_chris_abbott-trap_part_1_(ben_daglish)-slaggeedit.mp3",
+            "artist": "Ben Daglish & C.Abbott",
+            "live": 0
+        },
+        "live": 0,
+        "albumyear": "1996",
+        "vote_percent": "90.4255",
+        "duration": 126,
+        "title": "IronLord",
+        "picture": "",
+        "num_votes": "47",
+        "r64_vote": "4",
+        "artist": "Red Devil",
+        "album": "",
+        "r64_id": "405",
+        "requestID": "0",
+        "next_poll": 15,
+        "requestedBy": "",
+        "id": "1103",
+        "website": "",
+        "filename": "c64\\rko\\Red Devil - IronLord.mp3",
+        "next_song_expected": -60
+    },
+    "error": 0
+}

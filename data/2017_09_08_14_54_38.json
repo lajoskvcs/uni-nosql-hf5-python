@@ -1,0 +1,36 @@
+{
+    "data": {
+        "picture": "",
+        "next_song_expected": -56,
+        "r64_id": "5577",
+        "website": "",
+        "album": "",
+        "requestID": "462418",
+        "r64_vote": "4",
+        "next_poll": 15,
+        "date_played": 1504874943,
+        "live": 0,
+        "num_votes": "6",
+        "title": "Druid II 2",
+        "albumyear": "2016",
+        "sid_path": "MUSICIANS/H/Hanlon_David/Enlightenment_Druid_II.sid",
+        "next_song_date": 1504875491,
+        "listeners": "75",
+        "duration": 274,
+        "requestedBy": "raw",
+        "id": "4882",
+        "vote_percent": "100.0000",
+        "artist": "Mongo Erectus",
+        "filename": "c64\\rko\\Mongo Erectus - Druid II 2.mp3",
+        "my_vote": null,
+        "next_song": {
+            "filename": "M:\\Mp3\\c64\\rko\\Glyn R. Brown - Firelord (Symphonic).mp3",
+            "album": "",
+            "live": 0,
+            "title": "Firelord (Symphonic)",
+            "artist": "Glyn R. Brown"
+        }
+    },
+    "error": 0,
+    "message": ""
+}

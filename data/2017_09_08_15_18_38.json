@@ -1,0 +1,36 @@
+{
+    "data": {
+        "r64_vote": "5",
+        "r64_id": "5011",
+        "title": "Arkanoid (2013)",
+        "listeners": "78",
+        "next_song": {
+            "artist": "Johan Andersson",
+            "title": "Auf Wiedersehen Monty (short rmx)",
+            "filename": "M:\\Mp3\\c64\\rko\\Johan Andersson - Auf Wiedersehen Monty (short rmx) .mp3",
+            "live": 0,
+            "album": ""
+        },
+        "artist": "Analog-X64",
+        "next_song_date": 1504877050,
+        "requestID": "0",
+        "picture": "",
+        "sid_path": "MUSICIANS/G/Galway_Martin/Arkanoid.sid",
+        "date_played": 1504876622,
+        "albumyear": "2013",
+        "vote_percent": "93.0147",
+        "live": 0,
+        "id": "4383",
+        "my_vote": null,
+        "duration": 214,
+        "album": "",
+        "num_votes": "68",
+        "website": "",
+        "next_poll": 123,
+        "requestedBy": "",
+        "next_song_expected": 123,
+        "filename": "c64\\rko\\Analog-X64 - Arkanoid (2013).mp3"
+    },
+    "message": "",
+    "error": 0
+}

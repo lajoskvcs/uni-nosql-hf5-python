@@ -1,0 +1,36 @@
+{
+    "message": "",
+    "error": 0,
+    "data": {
+        "next_song_expected": -6,
+        "albumyear": "2010",
+        "album": "",
+        "vote_percent": "96.9262",
+        "title": "Amaurote (Ready For Action 2010 remix)",
+        "num_votes": "122",
+        "website": "",
+        "live": 0,
+        "filename": "c64\\rko\\Martin Dodd - Amaurote (Ready For Action 2010 remix).mp3",
+        "next_poll": 15,
+        "id": "4001",
+        "artist": "Martin Dodd",
+        "r64_id": "4550",
+        "sid_path": "MUSICIANS/W/Whittaker_David/Amaurote.sid",
+        "requestedBy": "",
+        "picture": "",
+        "listeners": "37",
+        "r64_vote": "6",
+        "next_song": {
+            "title": "Shadowfire (first attempt)",
+            "filename": "M:\\Mp3\\c64\\rko\\Canvas - Shadowfire (first attempt).mp3",
+            "artist": "Canvas",
+            "live": 0,
+            "album": ""
+        },
+        "my_vote": null,
+        "date_played": 1504926017,
+        "next_song_date": 1504926397,
+        "requestID": "0",
+        "duration": 190
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "error": 0,
+    "message": "",
+    "data": {
+        "num_votes": "102",
+        "next_poll": 15,
+        "live": 0,
+        "picture": "",
+        "listeners": "49",
+        "requestID": "0",
+        "requestedBy": "",
+        "r64_id": "2299",
+        "title": "Mellow Idea (Just a small mellow rmx)",
+        "album": "",
+        "r64_vote": "4",
+        "next_song_date": 1504915003,
+        "albumyear": "0",
+        "artist": "Dafunk",
+        "sid_path": "MUSICIANS/D/DaFunk/Mellow_Idea.sid",
+        "vote_percent": "96.0784",
+        "id": "1928",
+        "website": "",
+        "duration": 134,
+        "filename": "c64\\rko\\Dafunk - Mellow Idea (Just a small mellow rmx).mp3",
+        "next_song_expected": -4,
+        "next_song": {
+            "album": "",
+            "filename": "M:\\Mp3\\c64\\rko\\Red Devil - Shavitt No.7.mp3",
+            "live": 0,
+            "title": "Shavitt No.7",
+            "artist": "Red Devil"
+        },
+        "my_vote": null,
+        "date_played": 1504914735
+    }
+}

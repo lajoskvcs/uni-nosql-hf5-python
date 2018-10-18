@@ -1,0 +1,36 @@
+{
+    "data": {
+        "listeners": "39",
+        "website": "",
+        "live": 0,
+        "next_song_expected": 62,
+        "next_poll": 62,
+        "next_song_date": 1504927914,
+        "artist": "Emre Bulsat",
+        "picture": "",
+        "num_votes": "156",
+        "requestedBy": "",
+        "sid_path": "MUSICIANS/O/Odysseus/Dream_n_Trance.sid",
+        "requestID": "0",
+        "filename": "c64\\rko\\Emre Bulsat - Dream n Trance (Good Love).mp3",
+        "albumyear": "2009",
+        "my_vote": null,
+        "album": "",
+        "date_played": 1504927516,
+        "r64_vote": "5",
+        "duration": 199,
+        "id": "3478",
+        "r64_id": "4013",
+        "vote_percent": "96.6346",
+        "title": "Dream n Trance (Good Love)",
+        "next_song": {
+            "live": 0,
+            "artist": "Paradroid",
+            "filename": "M:\\Mp3\\c64\\rko\\Paradroid - MindControl - part 1.mp3",
+            "title": "MindControl - part 1",
+            "album": ""
+        }
+    },
+    "message": "",
+    "error": 0
+}

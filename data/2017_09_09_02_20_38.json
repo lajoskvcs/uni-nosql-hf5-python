@@ -1,0 +1,36 @@
+{
+    "error": 0,
+    "message": "",
+    "data": {
+        "requestedBy": "",
+        "listeners": "48",
+        "title": "Remark",
+        "next_song": {
+            "live": 0,
+            "title": "Gryzor (Garage remake)",
+            "filename": "M:\\Mp3\\c64\\rko\\Black Bozze - Gryzor (Garage remake).mp3",
+            "artist": "Black Bozze",
+            "album": ""
+        },
+        "live": 0,
+        "next_song_date": 1504916817,
+        "r64_id": "3304",
+        "next_song_expected": 126,
+        "sid_path": "MUSICIANS/T/Tel_Jeroen/Remark_Music.sid",
+        "num_votes": "126",
+        "album": "",
+        "albumyear": "2006",
+        "next_poll": 126,
+        "artist": "Hazel",
+        "duration": 258,
+        "requestID": "0",
+        "id": "2854",
+        "picture": "",
+        "my_vote": null,
+        "date_played": 1504916301,
+        "r64_vote": "6",
+        "vote_percent": "94.2460",
+        "website": "",
+        "filename": "c64\\rko\\Hazel - Remark.mp3"
+    }
+}

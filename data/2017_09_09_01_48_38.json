@@ -1,0 +1,36 @@
+{
+    "message": "",
+    "error": 0,
+    "data": {
+        "filename": "c64\\rko\\DJ cK - Epyx Winter Games - The Remix.mp3",
+        "sid_path": "MUSICIANS/T/Thiel_David/Winter_Games.sid",
+        "duration": 407,
+        "next_song_date": 1504915146,
+        "id": "2720",
+        "r64_vote": "4",
+        "albumyear": "2006",
+        "requestID": "0",
+        "my_vote": null,
+        "num_votes": "234",
+        "next_song_expected": 226,
+        "r64_id": "3166",
+        "date_played": 1504914332,
+        "vote_percent": "88.3547",
+        "next_poll": 226,
+        "listeners": "49",
+        "requestedBy": "",
+        "website": "",
+        "picture": "",
+        "title": "Epyx' Winter Games - The Remix",
+        "live": 0,
+        "album": "",
+        "next_song": {
+            "filename": "M:\\Mp3\\c64\\rko\\Dafunk - Mellow Idea (Just a small mellow rmx).mp3",
+            "artist": "Dafunk",
+            "title": "Mellow Idea (Just a small mellow rmx)",
+            "album": "",
+            "live": 0
+        },
+        "artist": "DJ cK"
+    }
+}

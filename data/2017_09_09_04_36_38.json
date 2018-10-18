@@ -1,0 +1,36 @@
+{
+    "data": {
+        "num_votes": "126",
+        "duration": 272,
+        "next_poll": 20,
+        "listeners": "37",
+        "requestedBy": "",
+        "album": "",
+        "requestID": "0",
+        "next_song": {
+            "artist": "Aural Stimulation",
+            "live": 0,
+            "album": "",
+            "title": "Commando C64 Theme Rescore",
+            "filename": "M:\\Mp3\\c64\\rko\\Aural Stimulation - Commando C64 Theme Rescore.mp3"
+        },
+        "next_song_expected": 20,
+        "sid_path": "MUSICIANS/D/DRAX/Fungus.sid",
+        "r64_id": "3340",
+        "r64_vote": "6",
+        "filename": "c64\\rko\\Dafunk - FunKus.mp3",
+        "albumyear": "2007",
+        "website": "",
+        "artist": "Dafunk",
+        "live": 0,
+        "picture": "",
+        "id": "2838",
+        "title": "FunKus",
+        "my_vote": null,
+        "next_song_date": 1504924885,
+        "vote_percent": "96.2302",
+        "date_played": 1504924341
+    },
+    "message": "",
+    "error": 0
+}

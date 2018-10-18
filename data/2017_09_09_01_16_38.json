@@ -1,0 +1,36 @@
+{
+    "message": "",
+    "error": 0,
+    "data": {
+        "my_vote": null,
+        "r64_vote": "4",
+        "next_song": {
+            "album": "",
+            "title": "CJ's Elephant Antics",
+            "artist": "Gammasutra",
+            "filename": "M:\\Mp3\\c64\\rko\\Gammasutra - CJ's Elephant Antics.mp3",
+            "live": 0
+        },
+        "album": "",
+        "live": 0,
+        "r64_id": "2644",
+        "next_song_expected": -8,
+        "albumyear": "1989",
+        "filename": "c64\\rko\\Gorm Jensen - Street Cred Boxing .mp3",
+        "duration": 191,
+        "sid_path": "MUSICIANS/B/Bjerregaard_Johannes/Street_Cred_Boxing.sid",
+        "artist": "Gorm Jensen",
+        "picture": "",
+        "next_song_date": 1504912776,
+        "requestID": "0",
+        "listeners": "57",
+        "id": "2080",
+        "website": "",
+        "requestedBy": "",
+        "num_votes": "93",
+        "next_poll": 15,
+        "date_played": 1504912394,
+        "title": "Street Cred Boxing",
+        "vote_percent": "95.4301"
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "data": {
+        "requestID": "0",
+        "duration": 300,
+        "sid_path": "MUSICIANS/W/Whittaker_David/Armageddon_Man.sid",
+        "artist": "Kent 'Trace' Walld\u00e9n",
+        "listeners": "67",
+        "r64_vote": "6",
+        "website": "",
+        "next_poll": 15,
+        "vote_percent": "93.3790",
+        "next_song": {
+            "filename": "M:\\Mp3\\c64\\rko\\Markus Siebold - Turrican II (Summer Remix).mp3",
+            "title": "Turrican II (Summer Remix)",
+            "album": "",
+            "live": 0,
+            "artist": "Markus Siebold"
+        },
+        "filename": "c64\\rko\\Kent 'Trace' Walld\u00e9n - Armageddon man (Re-Remixed).mp3",
+        "albumyear": "2002",
+        "my_vote": null,
+        "id": "643",
+        "live": 0,
+        "next_song_expected": -5,
+        "picture": "",
+        "album": "",
+        "num_votes": "219",
+        "r64_id": "1489",
+        "title": "Armageddon man (Re-Remixed)",
+        "date_played": 1504883668,
+        "next_song_date": 1504884268,
+        "requestedBy": ""
+    },
+    "error": 0,
+    "message": ""
+}

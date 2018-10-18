@@ -1,0 +1,36 @@
+{
+    "data": {
+        "vote_percent": "94.1011",
+        "next_song_expected": 73,
+        "next_song": {
+            "filename": "M:\\Mp3\\c64\\rko\\Slumgud of Depth - Hairy Toes.mp3",
+            "album": "",
+            "title": "Hairy Toes",
+            "live": 0,
+            "artist": "Slumgud of Depth"
+        },
+        "requestedBy": "",
+        "requestID": "0",
+        "next_song_date": 1504889435,
+        "albumyear": "2005",
+        "listeners": "69",
+        "r64_vote": "5",
+        "next_poll": 73,
+        "artist": "Vincenzo",
+        "album": "",
+        "live": 0,
+        "filename": "c64\\rko\\Vincenzo - Blowing or Bowling.mp3",
+        "title": "Blowing or Bowling",
+        "r64_id": "2617",
+        "website": "",
+        "sid_path": "MUSICIANS/J/Jeff/Blowing.sid",
+        "num_votes": "89",
+        "my_vote": null,
+        "id": "1999",
+        "picture": "",
+        "duration": 169,
+        "date_played": 1504889097
+    },
+    "message": "",
+    "error": 0
+}

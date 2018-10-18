@@ -1,0 +1,36 @@
+{
+    "message": "",
+    "error": 0,
+    "data": {
+        "artist": "Andr\u00e9 M\u00fcller (Crefelder)",
+        "r64_id": "4182",
+        "filename": "c64\\rko\\Andre Muller (Crefelder) - Bomb Jack (Summer Radio Edit).mp3",
+        "live": 0,
+        "next_song_expected": 131,
+        "my_vote": null,
+        "duration": 208,
+        "website": "",
+        "next_poll": 131,
+        "title": "Bomb Jack (Summer Radio Edit)",
+        "picture": "",
+        "next_song": {
+            "artist": "Dr Future",
+            "title": "Gem'X (Mantronix Edit)",
+            "album": "",
+            "filename": "M:\\Mp3\\c64\\rko\\Dr Future - Gem'X (Mantronix Edit).mp3",
+            "live": 0
+        },
+        "requestID": "0",
+        "num_votes": "86",
+        "r64_vote": "4",
+        "date_played": 1504920376,
+        "listeners": "43",
+        "album": "",
+        "next_song_date": 1504920792,
+        "id": "3655",
+        "albumyear": "2009",
+        "requestedBy": "",
+        "vote_percent": "88.3721",
+        "sid_path": "MUSICIANS/C/Cooksey_Mark/Bomb_Jack.sid"
+    }
+}

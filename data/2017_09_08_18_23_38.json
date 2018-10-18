@@ -1,0 +1,36 @@
+{
+    "data": {
+        "live": 0,
+        "my_vote": null,
+        "vote_percent": "91.7373",
+        "album": "",
+        "sid_path": "MUSICIANS/H/Hubbard_Rob/Auf_Wiedersehen_Monty.sid",
+        "picture": "",
+        "requestedBy": "",
+        "artist": "XOR",
+        "albumyear": "0",
+        "id": "1462",
+        "next_poll": 38,
+        "next_song_date": 1504888250,
+        "duration": 399,
+        "num_votes": "118",
+        "next_song": {
+            "filename": "M:\\Mp3\\c64\\Albums\\Various Artists - Remix64 - Into Eternity\\02-thomas_detert-spellbound_(rob_hubbard)-byter.mp3",
+            "album": "Remix64 - Into Eternity",
+            "live": 0,
+            "artist": "Thomas Detert",
+            "title": "Spellbound (Rob Hubbard)"
+        },
+        "website": "",
+        "filename": "c64\\rko\\XOR - Auf Wiedersehen Monty (Fruity mix).mp3",
+        "r64_id": "1230",
+        "requestID": "0",
+        "listeners": "67",
+        "title": "Auf Wiedersehen Monty (Fruity mix)",
+        "next_song_expected": 38,
+        "date_played": 1504887452,
+        "r64_vote": "5"
+    },
+    "message": "",
+    "error": 0
+}

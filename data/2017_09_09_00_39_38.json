@@ -1,0 +1,36 @@
+{
+    "message": "",
+    "error": 0,
+    "data": {
+        "albumyear": "1999",
+        "album": "",
+        "id": "1157",
+        "requestedBy": "",
+        "my_vote": null,
+        "next_poll": 97,
+        "next_song": {
+            "artist": "X-formZ",
+            "filename": "M:\\Mp3\\c64\\non-RKO\\x-formz_-_lightforcev2.mp3",
+            "live": 0,
+            "title": "Lightforce",
+            "album": ""
+        },
+        "live": 0,
+        "r64_id": null,
+        "artist": "Scorpion",
+        "picture": "",
+        "next_song_date": 1504910783,
+        "next_song_expected": 97,
+        "r64_vote": null,
+        "date_played": 1504910157,
+        "num_votes": "116",
+        "listeners": "59",
+        "vote_percent": "89.8707",
+        "filename": "c64\\rko\\Scorpion - Last Ninja '96 medley.mp3",
+        "sid_path": null,
+        "title": "Last Ninja '96 medley",
+        "duration": 313,
+        "requestID": "0",
+        "website": ""
+    }
+}

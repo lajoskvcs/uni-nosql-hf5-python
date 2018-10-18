@@ -1,0 +1,36 @@
+{
+    "message": "",
+    "error": 0,
+    "data": {
+        "requestID": "0",
+        "date_played": 1504885934,
+        "next_song_expected": 115,
+        "artist": "Gustav Tax\u00e9n",
+        "id": "483",
+        "vote_percent": "96.8447",
+        "next_song_date": 1504886202,
+        "requestedBy": "",
+        "filename": "c64\\rko\\Gustav Tax\u00e9n - Human Race 4 (2002 mix).mp3",
+        "title": "Human Race 4 (2002 mix)",
+        "album": "",
+        "my_vote": null,
+        "next_poll": 115,
+        "duration": 134,
+        "picture": "",
+        "r64_id": "1096",
+        "albumyear": "0",
+        "num_votes": "103",
+        "r64_vote": "5",
+        "listeners": "63",
+        "live": 0,
+        "next_song": {
+            "title": "Game Over V.2",
+            "album": "",
+            "filename": "M:\\Mp3\\c64\\rko\\Kenz - Game Over V.2.mp3",
+            "live": 0,
+            "artist": "Kenz"
+        },
+        "website": "",
+        "sid_path": "MUSICIANS/H/Hubbard_Rob/Human_Race.sid"
+    }
+}

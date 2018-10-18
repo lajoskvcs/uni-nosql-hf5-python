@@ -1,0 +1,36 @@
+{
+    "data": {
+        "next_poll": 151,
+        "duration": 365,
+        "title": "Sanxion (straightforward remix)",
+        "sid_path": "MUSICIANS/H/Hubbard_Rob/Sanxion.sid",
+        "live": 0,
+        "website": "",
+        "r64_id": "5327",
+        "id": "4702",
+        "next_song_expected": 151,
+        "filename": "c64\\rko\\Xilukarim - Sanxion (straightforward remix).mp3",
+        "listeners": "36",
+        "albumyear": "2014",
+        "vote_percent": "96.3235",
+        "picture": "",
+        "num_votes": "33",
+        "next_song_date": 1504926429,
+        "r64_vote": "4",
+        "requestedBy": "",
+        "album": "",
+        "next_song": {
+            "title": "Amaurote (Ready For Action 2010 remix)",
+            "filename": "M:\\Mp3\\c64\\rko\\Martin Dodd - Amaurote (Ready For Action 2010 remix).mp3",
+            "live": 0,
+            "album": "",
+            "artist": "Martin Dodd"
+        },
+        "requestID": "0",
+        "my_vote": null,
+        "date_played": 1504925699,
+        "artist": "Xilukarim"
+    },
+    "message": "",
+    "error": 0
+}

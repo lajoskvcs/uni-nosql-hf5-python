@@ -1,0 +1,36 @@
+{
+    "data": {
+        "r64_id": "5605",
+        "next_poll": 65,
+        "picture": "",
+        "r64_vote": "6",
+        "next_song_expected": 65,
+        "num_votes": "10",
+        "live": 0,
+        "next_song": {
+            "artist": "Alistair 'Boz' Bowness",
+            "album": "",
+            "filename": "M:\\Mp3\\c64\\rko\\Alastair 'Boz' Bowness - The Human Race.mp3",
+            "title": "The Human Race",
+            "live": 0
+        },
+        "requestID": "0",
+        "next_song_date": 1504928968,
+        "duration": 170,
+        "title": "Slow Slower (Place in the Space mix)",
+        "album": "",
+        "vote_percent": "100.0000",
+        "requestedBy": "",
+        "id": "4963",
+        "filename": "c64\\rko\\Xandra - Slow Slower (Place in the Space mix).mp3",
+        "artist": "Xandra",
+        "my_vote": null,
+        "listeners": "40",
+        "date_played": 1504928628,
+        "sid_path": "MUSICIANS/T/Tichelmann_Kay/Slow_Slower.sid",
+        "albumyear": "2017",
+        "website": ""
+    },
+    "error": 0,
+    "message": ""
+}

@@ -1,0 +1,36 @@
+{
+    "data": {
+        "next_song": {
+            "filename": "M:\\Mp3\\c64\\rko\\Fby - Black lamp (symphony).mp3",
+            "live": 0,
+            "artist": "Fby",
+            "title": "Black lamp (symphony)",
+            "album": ""
+        },
+        "title": "Gryzor (Garage remake)",
+        "duration": 160,
+        "num_votes": "101",
+        "live": 0,
+        "r64_vote": "5",
+        "website": "",
+        "picture": "",
+        "next_poll": 44,
+        "artist": "Black Bozze",
+        "my_vote": null,
+        "listeners": "48",
+        "albumyear": "2007",
+        "album": "",
+        "filename": "c64\\rko\\Black Bozze - Gryzor (Garage remake).mp3",
+        "id": "2983",
+        "r64_id": "3455",
+        "sid_path": "MUSICIANS/B/Brooke_Jason/Gryzor.sid",
+        "requestedBy": "",
+        "date_played": 1504916557,
+        "vote_percent": "93.8119",
+        "next_song_expected": 44,
+        "next_song_date": 1504916877,
+        "requestID": "0"
+    },
+    "error": 0,
+    "message": ""
+}

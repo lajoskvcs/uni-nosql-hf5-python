@@ -1,0 +1,36 @@
+{
+    "error": 0,
+    "message": "",
+    "data": {
+        "id": "4138",
+        "next_song_expected": 28,
+        "picture": "",
+        "r64_id": "4709",
+        "vote_percent": "88.9151",
+        "next_poll": 28,
+        "listeners": "38",
+        "next_song_date": 1504926649,
+        "my_vote": null,
+        "r64_vote": "5",
+        "album": "",
+        "next_song": {
+            "live": 0,
+            "filename": "M:\\Mp3\\c64\\rko\\BeeZerk - Tintin On The Moon.mp3",
+            "artist": "BeeZerk",
+            "album": "",
+            "title": "Tintin On The Moon"
+        },
+        "date_played": 1504926193,
+        "live": 0,
+        "duration": 228,
+        "requestedBy": "",
+        "requestID": "0",
+        "num_votes": "106",
+        "artist": "Canvas",
+        "sid_path": "MUSICIANS/G/Gray_Fred/ShadowFire.sid",
+        "title": "Shadowfire (first attempt)",
+        "website": "",
+        "albumyear": "2011",
+        "filename": "c64\\rko\\Canvas - Shadowfire (first attempt).mp3"
+    }
+}

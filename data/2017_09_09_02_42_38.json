@@ -1,0 +1,36 @@
+{
+    "message": "",
+    "error": 0,
+    "data": {
+        "sid_path": "MUSICIANS/B/Bjerregaard_Johannes/Stormlord.sid",
+        "requestID": "0",
+        "my_vote": null,
+        "website": "",
+        "artist": "Cirdan",
+        "r64_vote": "5",
+        "picture": "",
+        "duration": 412,
+        "vote_percent": "96.4286",
+        "next_song_expected": 254,
+        "listeners": "43",
+        "next_poll": 254,
+        "next_song_date": 1504918419,
+        "num_votes": "175",
+        "album": "",
+        "filename": "c64\\rko\\Cirdan - Stormlord title (spacemix).mp3",
+        "date_played": 1504917595,
+        "live": 0,
+        "next_song": {
+            "album": "",
+            "filename": "M:\\Mp3\\c64\\rko\\age2.1 - Meanstreak (Silverpearl Mix).mp3",
+            "live": 0,
+            "title": "Meanstreak (Silverpearl Mix)",
+            "artist": "age2.1"
+        },
+        "r64_id": "462",
+        "id": "197",
+        "title": "Stormlord title (spacemix)",
+        "requestedBy": "",
+        "albumyear": "2001"
+    }
+}

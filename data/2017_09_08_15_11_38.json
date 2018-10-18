@@ -1,0 +1,36 @@
+{
+    "message": "",
+    "error": 0,
+    "data": {
+        "artist": "Amok",
+        "albumyear": "2009",
+        "album": "",
+        "live": 0,
+        "picture": "",
+        "sid_path": "MUSICIANS/L/Laxity/Depressed.sid",
+        "website": "",
+        "date_played": 1504876224,
+        "title": "Depressed (Renoise 2.5 Beta Mix)",
+        "next_song_expected": 138,
+        "next_song_date": 1504876638,
+        "next_poll": 138,
+        "requestID": "0",
+        "r64_id": "4291",
+        "my_vote": null,
+        "duration": 207,
+        "num_votes": "120",
+        "requestedBy": "",
+        "vote_percent": "93.3333",
+        "filename": "c64\\rko\\Amok - Depressed (Renoise 2.5 Beta Mix).mp3",
+        "r64_vote": "5",
+        "listeners": "76",
+        "id": "3758",
+        "next_song": {
+            "album": "",
+            "artist": "Cactus",
+            "title": "Comic Bakery (Raggamuffin)",
+            "live": 0,
+            "filename": "M:\\Mp3\\c64\\rko\\Cactus - Comic Bakery (Raggamuffin).mp3"
+        }
+    }
+}

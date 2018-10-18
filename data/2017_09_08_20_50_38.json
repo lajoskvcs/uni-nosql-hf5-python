@@ -1,0 +1,36 @@
+{
+    "message": "",
+    "data": {
+        "albumyear": "2005",
+        "picture": "",
+        "duration": 312,
+        "website": "",
+        "live": 0,
+        "num_votes": "174",
+        "next_song": {
+            "filename": "M:\\Mp3\\c64\\rko\\Infamous - Wizball 2007.mp3",
+            "live": 0,
+            "album": "",
+            "title": "Wizball 2007",
+            "artist": "Infamous"
+        },
+        "sid_path": "MUSICIANS/P/PVCF/Megasweet_6581.sid",
+        "next_song_date": 1504897102,
+        "listeners": "75",
+        "next_song_expected": 157,
+        "artist": "DJ Skitz",
+        "requestID": "0",
+        "r64_vote": "5",
+        "album": "",
+        "requestedBy": "",
+        "next_poll": 157,
+        "title": "Megasweet",
+        "vote_percent": "87.9310",
+        "r64_id": "2728",
+        "filename": "c64\\rko\\DJ Skitz - Megasweet.mp3",
+        "date_played": 1504896478,
+        "my_vote": null,
+        "id": "2114"
+    },
+    "error": 0
+}

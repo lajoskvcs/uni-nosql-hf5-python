@@ -1,0 +1,36 @@
+{
+    "error": 0,
+    "data": {
+        "num_votes": "137",
+        "id": "2298",
+        "next_poll": 42,
+        "r64_id": null,
+        "next_song_expected": 42,
+        "picture": "Remix64_-_Into_Eternity.jpg",
+        "filename": "c64\\Albums\\Various Artists - Remix64 - Into Eternity\\02-thomas_detert-spellbound_(rob_hubbard)-byter.mp3",
+        "live": 0,
+        "sid_path": null,
+        "next_song": {
+            "filename": "M:\\Mp3\\c64\\Albums\\Reyn Ouwehand - Galway Remixed\\01 - Parallax [title].mp3",
+            "artist": "Reyn Ouwehand",
+            "album": "Galway [Remixed]",
+            "live": 0,
+            "title": "Parallax [title]"
+        },
+        "requestedBy": "",
+        "website": "http://www.c64audio.com/productInfo.php?cat=R64IE",
+        "my_vote": null,
+        "date_played": 1504887845,
+        "artist": "Thomas Detert",
+        "album": "Remix64 - Into Eternity",
+        "albumyear": "2003",
+        "duration": 310,
+        "listeners": "62",
+        "r64_vote": null,
+        "next_song_date": 1504888465,
+        "requestID": "0",
+        "vote_percent": "91.0584",
+        "title": "Spellbound (Rob Hubbard)"
+    },
+    "message": ""
+}

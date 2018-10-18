@@ -1,0 +1,36 @@
+{
+    "error": 0,
+    "message": "",
+    "data": {
+        "album": "",
+        "next_song_expected": 138,
+        "my_vote": null,
+        "artist": "age2.1",
+        "live": 0,
+        "albumyear": "2007",
+        "duration": 255,
+        "num_votes": "163",
+        "filename": "c64\\rko\\age2.1 - Meanstreak (Silverpearl Mix).mp3",
+        "next_song": {
+            "album": "",
+            "live": 0,
+            "filename": "M:\\Mp3\\c64\\rko\\DJ Skitz - Draconus Main Title (Speeds of Three Remix).mp3",
+            "artist": "DJ Skitz",
+            "title": "Draconus Main Title (Speeds of Three Remix)"
+        },
+        "picture": "",
+        "r64_id": "3572",
+        "requestID": "0",
+        "id": "3009",
+        "sid_path": "MUSICIANS/G/Gray_Matt/Mean_Streak.sid",
+        "next_poll": 138,
+        "r64_vote": "5",
+        "title": "Meanstreak (Silverpearl Mix)",
+        "next_song_date": 1504918506,
+        "date_played": 1504917996,
+        "website": "",
+        "requestedBy": "",
+        "listeners": "41",
+        "vote_percent": "93.2515"
+    }
+}

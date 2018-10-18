@@ -1,0 +1,36 @@
+{
+    "data": {
+        "num_votes": "97",
+        "listeners": "37",
+        "date_played": 1504924938,
+        "picture": "",
+        "duration": 240,
+        "artist": "vurtX",
+        "next_song": {
+            "filename": "M:\\Mp3\\c64\\rko\\Amok - Dulcedo Cogitationis (Nightmare-Mix).mp3",
+            "live": 0,
+            "album": "",
+            "artist": "Amok",
+            "title": "Dulcedo Cogitationis (Nightmare-Mix)"
+        },
+        "vote_percent": "92.0103",
+        "albumyear": "2011",
+        "r64_vote": "5",
+        "r64_id": "4718",
+        "next_song_date": 1504925418,
+        "my_vote": null,
+        "next_poll": 45,
+        "next_song_expected": 45,
+        "website": "",
+        "filename": "c64\\rko\\vurtX - Terra Cognita (Into The Storm).mp3",
+        "sid_path": "MUSICIANS/W/Whittaker_David/Terra_Cognita.sid",
+        "title": "Terra Cognita (Into The Storm)",
+        "album": "",
+        "id": "4142",
+        "requestedBy": "",
+        "live": 0,
+        "requestID": "0"
+    },
+    "message": "",
+    "error": 0
+}

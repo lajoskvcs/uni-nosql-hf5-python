@@ -1,0 +1,36 @@
+{
+    "message": "",
+    "error": 0,
+    "data": {
+        "picture": "",
+        "next_song_date": 1504894608,
+        "next_song": {
+            "artist": "o2",
+            "filename": "M:\\Mp3\\c64\\rko\\o2 - Nemesis The Warlock.mp3",
+            "album": "",
+            "title": "Nemesis The Warlock",
+            "live": 0
+        },
+        "requestID": "462427",
+        "artist": "Aki J\u00e4rvinen",
+        "date_played": 1504893844,
+        "next_song_expected": 233,
+        "duration": 382,
+        "num_votes": "89",
+        "requestedBy": "raw",
+        "my_vote": null,
+        "albumyear": "2016",
+        "website": "",
+        "r64_id": "5524",
+        "sid_path": "MUSICIANS/H/Hubbard_Rob/Nemesis_the_Warlock.sid",
+        "live": 0,
+        "album": "",
+        "listeners": "75",
+        "filename": "c64\\rko\\Aki Jarvinen - Nemesis The Warlock (Metal remake).mp3",
+        "vote_percent": "100.0000",
+        "id": "4845",
+        "r64_vote": "5",
+        "next_poll": 233,
+        "title": "Nemesis The Warlock (Metal remake)"
+    }
+}

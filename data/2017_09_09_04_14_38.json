@@ -1,0 +1,36 @@
+{
+    "data": {
+        "live": 0,
+        "requestID": "0",
+        "next_song": {
+            "live": 0,
+            "artist": "Vred",
+            "title": "Blue Angel 69 (easy listening lounge mix)",
+            "album": "",
+            "filename": "M:\\Mp3\\c64\\rko\\Vred - Blue Angel 69 (easy listening lounge mix).mp3"
+        },
+        "requestedBy": "",
+        "num_votes": "85",
+        "website": "",
+        "date_played": 1504923024,
+        "id": "4399",
+        "sid_path": "MUSICIANS/G/Galway_Martin/Parallax.sid",
+        "next_song_expected": 191,
+        "listeners": "41",
+        "albumyear": "2013",
+        "artist": "prof_ethan",
+        "r64_id": "5014",
+        "next_poll": 191,
+        "title": "Parallax (Galways shot mix)",
+        "album": "",
+        "duration": 440,
+        "picture": "",
+        "my_vote": null,
+        "vote_percent": "93.5294",
+        "next_song_date": 1504923904,
+        "filename": "c64\\rko\\prof ethan - Parallax (Galways shot mix).mp3",
+        "r64_vote": "5"
+    },
+    "error": 0,
+    "message": ""
+}

@@ -1,0 +1,36 @@
+{
+    "error": 0,
+    "data": {
+        "albumyear": "2001",
+        "vote_percent": "89.4161",
+        "requestedBy": "",
+        "next_song_date": 1504886655,
+        "my_vote": null,
+        "r64_id": "984",
+        "title": "Game Over V.2",
+        "picture": "",
+        "requestID": "0",
+        "live": 0,
+        "next_poll": 97,
+        "filename": "c64\\rko\\Kenz - Game Over V.2.mp3",
+        "date_played": 1504886045,
+        "id": "673",
+        "r64_vote": "5",
+        "duration": 305,
+        "next_song_expected": 97,
+        "artist": "Kenz",
+        "album": "",
+        "next_song": {
+            "album": "",
+            "live": 0,
+            "filename": "M:\\Mp3\\c64\\rko\\Kent 'Trace' Walld\u00e9n - Death wish 3.mp3",
+            "title": "Death wish 3",
+            "artist": "Kent 'Trace' Walld\u00e9n"
+        },
+        "num_votes": "137",
+        "website": "",
+        "listeners": "58",
+        "sid_path": "MUSICIANS/G/Galway_Martin/Game_Over.sid"
+    },
+    "message": ""
+}

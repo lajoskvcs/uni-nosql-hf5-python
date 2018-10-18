@@ -1,0 +1,36 @@
+{
+    "message": "",
+    "error": 0,
+    "data": {
+        "next_song_date": 1504920000,
+        "sid_path": "MUSICIANS/B/Baldwin_Neil/Shadow_Skimmer.sid",
+        "num_votes": "169",
+        "title": "Shadow Skimmer",
+        "r64_id": "3507",
+        "filename": "c64\\rko\\Hazel - Shadow Skimmer.mp3",
+        "album": "",
+        "artist": "Hazel",
+        "next_song_expected": 158,
+        "website": "",
+        "my_vote": null,
+        "next_song": {
+            "live": 0,
+            "artist": "Obscuresounds",
+            "filename": "M:\\Mp3\\c64\\rko\\Obscuresounds - Arkanoid (nostalgique remake).mp3",
+            "title": "Arkanoid (nostalgique remake)",
+            "album": ""
+        },
+        "vote_percent": "94.2308",
+        "requestID": "0",
+        "picture": "",
+        "id": "3056",
+        "listeners": "42",
+        "live": 0,
+        "albumyear": "2007",
+        "r64_vote": "6",
+        "duration": 289,
+        "date_played": 1504919422,
+        "next_poll": 158,
+        "requestedBy": ""
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "message": "",
+    "data": {
+        "r64_vote": "6",
+        "next_poll": 169,
+        "filename": "c64\\rko\\Firestorm - Commando (Sound of SceneSat Edit).mp3",
+        "requestedBy": "",
+        "title": "Commando (Sound of SceneSat Edit)",
+        "my_vote": null,
+        "duration": 392,
+        "website": "",
+        "picture": "",
+        "albumyear": "2009",
+        "requestID": "0",
+        "next_song": {
+            "filename": "M:\\Mp3\\c64\\rko\\Saul Cross - Sigma Seven - Absolutely Analog Mix.mp3",
+            "artist": "Saul Cross",
+            "live": 0,
+            "title": "Sigma Seven - Absolutely Analog Mix",
+            "album": ""
+        },
+        "artist": "Firestorm",
+        "live": 0,
+        "r64_id": "4289",
+        "vote_percent": "91.6667",
+        "listeners": "78",
+        "album": "",
+        "num_votes": "171",
+        "date_played": 1504880450,
+        "sid_path": "MUSICIANS/H/Hubbard_Rob/Commando.sid",
+        "id": "3755",
+        "next_song_expected": 169,
+        "next_song_date": 1504881234
+    },
+    "error": 0
+}

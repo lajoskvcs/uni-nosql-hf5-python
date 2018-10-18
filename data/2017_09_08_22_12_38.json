@@ -1,0 +1,36 @@
+{
+    "data": {
+        "live": 0,
+        "id": "4312",
+        "my_vote": null,
+        "website": "",
+        "num_votes": "130",
+        "requestedBy": "",
+        "vote_percent": "95.1923",
+        "filename": "c64\\rko\\Klemen Verdnik - Castle Master (Tribute).mp3",
+        "listeners": "67",
+        "r64_id": "4864",
+        "next_poll": 15,
+        "artist": "Klemen Verdnik",
+        "duration": 348,
+        "next_song": {
+            "filename": "M:\\Mp3\\c64\\rko\\Infamous - Auf Wiedersehen Monty (ByeBye Monty mix).mp3",
+            "title": "Auf Wiedersehen Monty (ByeBye Monty mix)",
+            "live": 0,
+            "artist": "Infamous",
+            "album": ""
+        },
+        "sid_path": "MUSICIANS/F/Furniss_Matt/Castle_Master.sid",
+        "requestID": "0",
+        "album": "",
+        "next_song_date": 1504901908,
+        "title": "Castle Master (Tribute)",
+        "r64_vote": "6",
+        "date_played": 1504901212,
+        "next_song_expected": 7,
+        "picture": "",
+        "albumyear": "2010"
+    },
+    "message": "",
+    "error": 0
+}

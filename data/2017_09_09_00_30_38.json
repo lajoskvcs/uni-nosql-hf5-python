@@ -1,0 +1,36 @@
+{
+    "error": 0,
+    "data": {
+        "my_vote": null,
+        "website": "",
+        "next_song_date": 1504909912,
+        "albumyear": "2001",
+        "next_song": {
+            "live": 0,
+            "title": "Batman The Movie (Cathedral Remix)",
+            "artist": "Colmarr",
+            "filename": "M:\\Mp3\\c64\\rko\\Colmarr - Batman The Movie (Cathedral Remix).mp3",
+            "album": ""
+        },
+        "sid_path": "MUSICIANS/G/Galway_Martin/Rolands_Ratrace.sid",
+        "num_votes": "24",
+        "next_song_expected": -47,
+        "date_played": 1504909660,
+        "requestID": "0",
+        "title": "Rolands Ratrace - Tune 4",
+        "artist": "FTC",
+        "live": 0,
+        "duration": 126,
+        "picture": "",
+        "requestedBy": "",
+        "filename": "c64\\rko\\FTC - Rolands Ratrace - Tune 4.mp3",
+        "id": "434",
+        "album": "",
+        "r64_id": "765",
+        "next_poll": 15,
+        "listeners": "61",
+        "r64_vote": "4",
+        "vote_percent": "92.7083"
+    },
+    "message": ""
+}

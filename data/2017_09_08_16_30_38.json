@@ -1,0 +1,36 @@
+{
+    "data": {
+        "next_poll": 22,
+        "live": 0,
+        "requestID": "0",
+        "vote_percent": "91.4583",
+        "next_song_date": 1504881339,
+        "sid_path": null,
+        "albumyear": "2001",
+        "date_played": 1504880771,
+        "duration": 284,
+        "filename": "c64\\rko\\d0d0 - Wizball (Catelite Lives).mp3",
+        "requestedBy": "",
+        "album": "",
+        "my_vote": null,
+        "r64_id": null,
+        "artist": "d0d0",
+        "r64_vote": null,
+        "next_song_expected": 22,
+        "id": "225",
+        "title": "Wizball (Catelite Lives)",
+        "picture": "",
+        "next_song": {
+            "artist": "Eric Delos",
+            "live": 0,
+            "title": "Beroot Olejuuri (Minimal Washburn mix preview)",
+            "filename": "M:\\Mp3\\c64\\rko\\Eric Delos - Beroot Olejuuri (Minimal Washburn mix preview).mp3",
+            "album": ""
+        },
+        "website": "",
+        "listeners": "77",
+        "num_votes": "120"
+    },
+    "error": 0,
+    "message": ""
+}

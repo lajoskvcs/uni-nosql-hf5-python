@@ -1,0 +1,36 @@
+{
+    "message": "",
+    "error": 0,
+    "data": {
+        "picture": "",
+        "filename": "c64\\rko\\Martin Dodd - 180 (Happy Hour Mix Remastered).mp3",
+        "next_song_expected": 70,
+        "album": "",
+        "my_vote": null,
+        "r64_id": "4561",
+        "r64_vote": "5",
+        "sid_path": "MUSICIANS/W/Whittaker_David/180.sid",
+        "date_played": 1504877001,
+        "id": "4007",
+        "next_poll": 70,
+        "vote_percent": "91.6667",
+        "website": "",
+        "albumyear": "2010",
+        "next_song_date": 1504877285,
+        "listeners": "75",
+        "num_votes": "87",
+        "live": 0,
+        "title": "180 (Happy Hour Mix Remastered)",
+        "duration": 142,
+        "next_song": {
+            "live": 0,
+            "artist": "dr.blitzen",
+            "filename": "M:\\Mp3\\c64\\rko\\dr.blitzen - Parallax (Classic Acid House Remix).mp3",
+            "title": "Parallax (Classic Acid House Remix)",
+            "album": ""
+        },
+        "artist": "Martin Dodd",
+        "requestID": "0",
+        "requestedBy": ""
+    }
+}

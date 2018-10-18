@@ -1,0 +1,30 @@
+{
+    "message": "",
+    "error": 0,
+    "data": {
+        "album": "Back in Time III",
+        "next_song_expected": -52,
+        "my_vote": null,
+        "vote_percent": "89.0173",
+        "filename": "c64\\Albums\\Various Artists - Back in Time III\\13_1-ben_daglish_chris_abbott-trap_part_1_(ben_daglish)-slaggeedit.mp3",
+        "duration": 576,
+        "listeners": "64",
+        "date_played": 1504886885,
+        "num_votes": "173",
+        "r64_id": null,
+        "id": "2277",
+        "next_song_date": 1504888037,
+        "title": "Trap (Ben Daglish)",
+        "requestID": "0",
+        "website": "http://www.c64audio.com/productInfo.php?cat=C64CD3",
+        "next_poll": 15,
+        "next_song": null,
+        "artist": "Ben Daglish & C.Abbott",
+        "requestedBy": "",
+        "r64_vote": null,
+        "albumyear": "2001",
+        "picture": "BIT3.jpg",
+        "live": 0,
+        "sid_path": null
+    }
+}

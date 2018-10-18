@@ -1,0 +1,36 @@
+{
+    "data": {
+        "website": "",
+        "requestedBy": "",
+        "album": "",
+        "r64_vote": "5",
+        "filename": "c64\\rko\\Wobbler - Future Shock (Analogue addicts mix).mp3",
+        "sid_path": "MUSICIANS/B/Baldwin_Neil/Future_Shock.sid",
+        "listeners": "73",
+        "title": "Future Shock (Analogue addicts mix)",
+        "r64_id": "1032",
+        "artist": "Wobbler",
+        "duration": 233,
+        "vote_percent": "93.7050",
+        "live": 0,
+        "requestID": "0",
+        "albumyear": "2001",
+        "id": "1433",
+        "my_vote": null,
+        "picture": "",
+        "next_song": {
+            "album": "",
+            "live": 0,
+            "filename": "M:\\Mp3\\c64\\rko\\deVilhoOD - Spellbound (Remiximus).mp3",
+            "title": "Spellbound (Remiximus)",
+            "artist": "Pawel Osmolski (deVilhoOD)"
+        },
+        "next_song_expected": 165,
+        "next_song_date": 1504895351,
+        "date_played": 1504894885,
+        "num_votes": "139",
+        "next_poll": 165
+    },
+    "error": 0,
+    "message": ""
+}

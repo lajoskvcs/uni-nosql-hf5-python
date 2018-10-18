@@ -1,0 +1,36 @@
+{
+    "error": 0,
+    "message": "",
+    "data": {
+        "num_votes": "111",
+        "r64_vote": "5",
+        "album": "",
+        "requestedBy": "",
+        "artist": "Amok",
+        "albumyear": "2008",
+        "live": 0,
+        "filename": "c64\\rko\\Amok - Grand Prix Circuit (Piano-Edit).mp3",
+        "picture": "",
+        "r64_id": "3889",
+        "listeners": "41",
+        "id": "3350",
+        "sid_path": "MUSICIANS/H/Hatlelid_Kris/Grand_Prix_Circuit.sid",
+        "next_song_date": 1504919591,
+        "duration": 164,
+        "date_played": 1504919263,
+        "website": "",
+        "next_song_expected": 54,
+        "my_vote": null,
+        "next_song": {
+            "title": "Shadow Skimmer",
+            "artist": "Hazel",
+            "live": 0,
+            "filename": "M:\\Mp3\\c64\\rko\\Hazel - Shadow Skimmer.mp3",
+            "album": ""
+        },
+        "title": "Grand Prix Circuit (Piano-Edit)",
+        "requestID": "0",
+        "vote_percent": "94.8198",
+        "next_poll": 54
+    }
+}

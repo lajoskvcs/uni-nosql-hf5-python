@@ -1,0 +1,36 @@
+{
+    "data": {
+        "picture": "",
+        "title": "Bump Set Spike (Schizo Classical Remix)",
+        "duration": 220,
+        "my_vote": null,
+        "vote_percent": "95.0820",
+        "id": "4448",
+        "num_votes": "61",
+        "next_song": {
+            "filename": "M:\\Mp3\\c64\\rko\\Slumgud of Depth - Smilng Reggae (Gangstars In The Jungle Mix).mp3",
+            "artist": "Slumgud of Depth",
+            "album": "",
+            "live": 0,
+            "title": "Smiling Reggae (Gangstars In The Jungle Mix)"
+        },
+        "r64_vote": "6",
+        "next_song_expected": 99,
+        "albumyear": "2013",
+        "requestID": "0",
+        "artist": "Nicklas Schmidt",
+        "date_played": 1504884992,
+        "r64_id": "5046",
+        "filename": "c64\\rko\\Nicklas Schmidt - Bump Set Spike (Schizo Classical Remix).mp3",
+        "requestedBy": "",
+        "live": 0,
+        "sid_path": "MUSICIANS/H/Hubbard_Rob/Bump_Set_Spike.sid",
+        "next_poll": 99,
+        "album": "",
+        "website": "",
+        "next_song_date": 1504885432,
+        "listeners": "66"
+    },
+    "message": "",
+    "error": 0
+}

@@ -1,0 +1,36 @@
+{
+    "error": 0,
+    "data": {
+        "albumyear": "2008",
+        "num_votes": "330",
+        "r64_id": "3732",
+        "requestedBy": "raw",
+        "album": "",
+        "next_poll": 57,
+        "id": "3196",
+        "r64_vote": "5",
+        "website": "",
+        "filename": "c64\\rko\\Asterion (Rafal Kazimierski) - Barbarian (Anvil of Death).mp3",
+        "live": 0,
+        "picture": "",
+        "sid_path": "MUSICIANS/J/Joseph_Richard/Barbarian.sid",
+        "vote_percent": "93.7121",
+        "date_played": 1504873184,
+        "next_song_expected": 57,
+        "artist": "Asterion (Rafal Kazimierski)",
+        "my_vote": null,
+        "listeners": "86",
+        "requestID": "462411",
+        "duration": 466,
+        "next_song": {
+            "artist": "Westerling",
+            "album": "",
+            "filename": "M:\\Mp3\\c64\\rko\\Westerling - Bazooka Bill (Subtune 1).mp3",
+            "live": 0,
+            "title": "Bazooka Bill (Subtune 1)"
+        },
+        "next_song_date": 1504874116,
+        "title": "Barbarian (Anvil of Death)"
+    },
+    "message": ""
+}

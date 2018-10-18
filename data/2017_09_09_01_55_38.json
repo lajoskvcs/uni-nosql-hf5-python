@@ -1,0 +1,36 @@
+{
+    "error": 0,
+    "data": {
+        "album": "",
+        "live": 0,
+        "id": "1928",
+        "requestID": "0",
+        "r64_id": "2299",
+        "next_song": {
+            "filename": "M:\\Mp3\\c64\\Albums\\Various Artists - Remix64 - Into Eternity\\10-markus_schneider-butcher_hill_(ben_daglish)-byter.mp3",
+            "album": "Remix64 - Into Eternity",
+            "title": "Butcher Hill (Ben Daglish)",
+            "live": 0,
+            "artist": "Markus Schneider"
+        },
+        "next_poll": 15,
+        "date_played": 1504914735,
+        "next_song_date": 1504915003,
+        "albumyear": "0",
+        "my_vote": null,
+        "r64_vote": "4",
+        "artist": "Dafunk",
+        "duration": 134,
+        "title": "Mellow Idea (Just a small mellow rmx)",
+        "requestedBy": "",
+        "website": "",
+        "picture": "",
+        "filename": "c64\\rko\\Dafunk - Mellow Idea (Just a small mellow rmx).mp3",
+        "next_song_expected": -64,
+        "sid_path": "MUSICIANS/D/DaFunk/Mellow_Idea.sid",
+        "listeners": "48",
+        "vote_percent": "96.0784",
+        "num_votes": "102"
+    },
+    "message": ""
+}

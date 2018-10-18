@@ -1,0 +1,36 @@
+{
+    "data": {
+        "live": 0,
+        "requestedBy": "",
+        "albumyear": "1999",
+        "requestID": "0",
+        "artist": "Peppy",
+        "sid_path": "MUSICIANS/H/Hubbard_Rob/Sanxion.sid",
+        "website": "",
+        "r64_id": "152",
+        "picture": "",
+        "my_vote": null,
+        "next_song_date": 1504909212,
+        "next_song": {
+            "album": "Crystal Dreamscapes",
+            "title": "Liquid Crystal",
+            "live": 0,
+            "filename": "M:\\Mp3\\c64\\Albums\\Chris Abbott - Crystal Dreamscapes\\Liquid Crystal (Chimera).mp3",
+            "artist": "C.Abbott"
+        },
+        "next_song_expected": 29,
+        "duration": 490,
+        "r64_vote": "5",
+        "num_votes": "174",
+        "date_played": 1504908232,
+        "listeners": "66",
+        "album": "",
+        "id": "956",
+        "vote_percent": "90.3736",
+        "title": "Sanxion (extended remix)",
+        "filename": "c64\\rko\\Peppy - Sanxion (extended remix).mp3",
+        "next_poll": 29
+    },
+    "error": 0,
+    "message": ""
+}

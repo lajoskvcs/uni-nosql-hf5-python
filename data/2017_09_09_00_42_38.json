@@ -1,0 +1,36 @@
+{
+    "data": {
+        "r64_id": "1936",
+        "duration": 214,
+        "artist": "X-formZ",
+        "filename": "c64\\non-RKO\\x-formz_-_lightforcev2.mp3",
+        "requestedBy": "",
+        "next_poll": 114,
+        "website": "",
+        "vote_percent": "96.1735",
+        "live": 0,
+        "albumyear": "2003",
+        "r64_vote": "5",
+        "title": "Lightforce",
+        "next_song_date": 1504910881,
+        "id": "1461",
+        "requestID": "0",
+        "sid_path": "MUSICIANS/H/Hubbard_Rob/Lightforce.sid",
+        "listeners": "60",
+        "next_song_expected": 114,
+        "next_song": {
+            "live": 0,
+            "artist": "Cirdan",
+            "album": "",
+            "title": "Last Ninja III (qso-mix)",
+            "filename": "M:\\Mp3\\c64\\rko\\Cirdan - Last Ninja III (qso-mix).mp3"
+        },
+        "picture": "",
+        "date_played": 1504910453,
+        "num_votes": "98",
+        "my_vote": null,
+        "album": ""
+    },
+    "message": "",
+    "error": 0
+}

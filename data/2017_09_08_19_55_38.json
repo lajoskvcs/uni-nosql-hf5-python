@@ -1,0 +1,36 @@
+{
+    "data": {
+        "sid_path": null,
+        "website": "http://www.c64audio.com/productInfo.php?cat=R64",
+        "artist": "Thomas Detert",
+        "live": 0,
+        "id": "2282",
+        "requestID": "0",
+        "listeners": "80",
+        "picture": "Remix641.jpg",
+        "next_poll": 202,
+        "r64_vote": null,
+        "filename": "c64\\Albums\\Various Artists - Remix64 vol 1\\03-thomas_detert_-_green_beret-cmg.mp3",
+        "next_song": {
+            "album": "Instant Remedy",
+            "artist": "Instant Remedy",
+            "live": 0,
+            "filename": "M:\\Mp3\\c64\\Albums\\Instant Remedy - Instant Remedy\\09 - Trolls.mp3",
+            "title": "Trolls"
+        },
+        "next_song_date": 1504893876,
+        "vote_percent": "93.8333",
+        "albumyear": "2020",
+        "num_votes": "150",
+        "date_played": 1504893194,
+        "requestedBy": "",
+        "duration": 341,
+        "next_song_expected": 202,
+        "r64_id": null,
+        "my_vote": null,
+        "album": "Remix64 - Volume 1",
+        "title": "Green Beret"
+    },
+    "error": 0,
+    "message": ""
+}

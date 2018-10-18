@@ -1,0 +1,36 @@
+{
+    "error": 0,
+    "data": {
+        "next_poll": 193,
+        "title": "Violator (Melodic Trance Mix)",
+        "date_played": 1504877939,
+        "sid_path": "GAMES/S-Z/Violator.sid",
+        "album": "",
+        "requestID": "0",
+        "r64_id": "4545",
+        "vote_percent": "91.8919",
+        "num_votes": "185",
+        "filename": "c64\\rko\\AcidBlock - Violator (Melodic Trance Mix).mp3",
+        "live": 0,
+        "next_song": {
+            "album": "",
+            "live": 0,
+            "artist": "Vred",
+            "filename": "M:\\Mp3\\c64\\rko\\Vred - Polished Plastic Piano (Modified Music Mix).mp3",
+            "title": "Polished Plastic Piano (Modified Music Mix)"
+        },
+        "duration": 287,
+        "requestedBy": "",
+        "listeners": "74",
+        "r64_vote": "4",
+        "next_song_expected": 193,
+        "next_song_date": 1504878513,
+        "id": "3969",
+        "my_vote": null,
+        "albumyear": "2010",
+        "artist": "AcidBlock",
+        "picture": "",
+        "website": ""
+    },
+    "message": ""
+}

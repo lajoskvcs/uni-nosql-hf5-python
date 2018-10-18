@@ -1,0 +1,36 @@
+{
+    "message": "",
+    "data": {
+        "filename": "c64\\rko\\Dr Future - Fist II - The Legend Continues.mp3",
+        "listeners": "78",
+        "duration": 206,
+        "date_played": 1504875678,
+        "num_votes": "44",
+        "vote_percent": "98.8636",
+        "artist": "Dr Future",
+        "sid_path": "MUSICIANS/B/Brennan_Neil/Fist_II-The_Legend_Continues.sid",
+        "r64_vote": "6",
+        "website": "",
+        "next_song_date": 1504876090,
+        "title": "Fist II - The Legend Continues",
+        "requestID": "462421",
+        "live": 0,
+        "id": "4835",
+        "albumyear": "2014",
+        "my_vote": null,
+        "next_song": {
+            "filename": "M:\\Mp3\\c64\\rko\\N-JOY - Eliminator (Sexy and Saxy Smooth Party remix).mp3",
+            "title": "Eliminator (Sexy & Saxy Smooth Party remix)",
+            "album": "",
+            "artist": "N-JOY",
+            "live": 0
+        },
+        "picture": "",
+        "album": "",
+        "requestedBy": "raw",
+        "next_poll": 15,
+        "r64_id": "5468",
+        "next_song_expected": -49
+    },
+    "error": 0
+}

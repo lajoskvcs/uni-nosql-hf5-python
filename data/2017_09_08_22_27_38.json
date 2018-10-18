@@ -1,0 +1,36 @@
+{
+    "data": {
+        "next_song": {
+            "filename": "M:\\Mp3\\c64\\rko\\Luke McQueen - R-Type - Main Theme (YM2151 Arrange).mp3",
+            "title": "R-Type - Main Theme (YM2151 Arrange)",
+            "artist": "Luke McQueen",
+            "album": "",
+            "live": 0
+        },
+        "next_song_date": 1504902765,
+        "num_votes": "141",
+        "r64_vote": "5",
+        "title": "Rambo - First Blood",
+        "live": 0,
+        "picture": "",
+        "my_vote": null,
+        "filename": "c64\\rko\\Amok - Rambo - First Blood.mp3",
+        "date_played": 1504902335,
+        "next_song_expected": 97,
+        "vote_percent": "92.3759",
+        "artist": "Amok",
+        "next_poll": 97,
+        "listeners": "69",
+        "requestedBy": "",
+        "r64_id": "4151",
+        "albumyear": "2009",
+        "album": "",
+        "id": "3632",
+        "duration": 215,
+        "requestID": "0",
+        "sid_path": "MUSICIANS/G/Galway_Martin/Rambo_First_Blood_Part_II.sid",
+        "website": ""
+    },
+    "error": 0,
+    "message": ""
+}

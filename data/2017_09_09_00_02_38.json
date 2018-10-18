@@ -1,0 +1,36 @@
+{
+    "message": "",
+    "error": 0,
+    "data": {
+        "r64_id": "4841",
+        "picture": "",
+        "album": "",
+        "requestID": "0",
+        "next_song_expected": 97,
+        "my_vote": null,
+        "live": 0,
+        "title": "Jeroen (Free to Love)",
+        "date_played": 1504908055,
+        "website": "",
+        "next_song": {
+            "filename": "M:\\Mp3\\c64\\rko\\Peppy - Sanxion (extended remix).mp3",
+            "live": 0,
+            "album": "",
+            "title": "Sanxion (extended remix)",
+            "artist": "Peppy"
+        },
+        "sid_path": "MUSICIANS/T/Tel_Jeroen/Jeroen.sid",
+        "albumyear": "2012",
+        "artist": "Mordi",
+        "duration": 195,
+        "filename": "c64\\rko\\Mordi - Jeroen (Free to Love).mp3",
+        "num_votes": "108",
+        "listeners": "60",
+        "vote_percent": "94.6759",
+        "id": "4273",
+        "r64_vote": "5",
+        "next_song_date": 1504908445,
+        "requestedBy": "",
+        "next_poll": 97
+    }
+}

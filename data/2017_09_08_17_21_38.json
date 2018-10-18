@@ -1,0 +1,36 @@
+{
+    "data": {
+        "date_played": 1504883959,
+        "filename": "c64\\rko\\Markus Siebold - Turrican II (Summer Remix).mp3",
+        "next_song": {
+            "live": 0,
+            "title": "Auf Wiedersehen Monty (metalmix)",
+            "album": "",
+            "filename": "M:\\Mp3\\c64\\rko\\RBT - Auf Wiedersehen Monty (metalmix).mp3",
+            "artist": "RBT"
+        },
+        "live": 0,
+        "album": "",
+        "title": "Turrican II (Summer Remix)",
+        "r64_id": "1739",
+        "requestID": "0",
+        "vote_percent": "92.9825",
+        "website": "",
+        "my_vote": null,
+        "id": "802",
+        "duration": 261,
+        "picture": "",
+        "num_votes": "114",
+        "next_song_date": 1504884481,
+        "next_song_expected": 127,
+        "sid_path": "MUSICIANS/S/Siebold_Markus/Turrican_2-The_Final_Fight.sid",
+        "listeners": "61",
+        "artist": "Markus Siebold",
+        "albumyear": "2001",
+        "next_poll": 127,
+        "requestedBy": "",
+        "r64_vote": "5"
+    },
+    "error": 0,
+    "message": ""
+}

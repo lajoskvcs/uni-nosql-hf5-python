@@ -1,0 +1,36 @@
+{
+    "message": "",
+    "data": {
+        "next_poll": 15,
+        "artist": "Reyn Ouwehand",
+        "filename": "c64\\Albums\\Reyn Ouwehand - Galway Remixed\\06 - Insects In Space [title].mp3",
+        "website": "http://www.c64audio.com/productInfo.php?cat=PP002",
+        "id": "2317",
+        "requestID": "0",
+        "my_vote": null,
+        "next_song_expected": -30,
+        "live": 0,
+        "num_votes": "169",
+        "picture": "Reyn_-_Galway_remixed.jpg",
+        "vote_percent": "95.1183",
+        "title": "Insects In Space [title]",
+        "sid_path": null,
+        "listeners": "79",
+        "r64_id": null,
+        "next_song": {
+            "artist": "Wobbler",
+            "live": 0,
+            "filename": "M:\\Mp3\\c64\\rko\\Wobbler - Turbo Outrun (E20 remix).mp3",
+            "album": "",
+            "title": "Turbo Outrun (E20 remix)"
+        },
+        "date_played": 1504891743,
+        "r64_vote": null,
+        "next_song_date": 1504892343,
+        "requestedBy": "",
+        "albumyear": "2002",
+        "duration": 300,
+        "album": "Galway [Remixed]"
+    },
+    "error": 0
+}

@@ -1,0 +1,36 @@
+{
+    "data": {
+        "next_poll": 131,
+        "live": 0,
+        "r64_vote": "5",
+        "artist": "Sonic Wanderer",
+        "sid_path": "MUSICIANS/H/Hanlon_David/Enlightenment_Druid_II.sid",
+        "website": "",
+        "listeners": "59",
+        "filename": "c64\\rko\\Sonic Wanderer - Druid II - Enlightenment (Turbo Edit).mp3",
+        "r64_id": "1986",
+        "albumyear": "2003",
+        "next_song_expected": 131,
+        "requestedBy": "",
+        "title": "Druid II - Enlightenment (Turbo Edit)",
+        "vote_percent": "93.4211",
+        "next_song": {
+            "filename": "M:\\Mp3\\c64\\rko\\FTC - Rolands Ratrace - Tune 4.mp3",
+            "album": "",
+            "live": 0,
+            "title": "Rolands Ratrace - Tune 4",
+            "artist": "FTC"
+        },
+        "requestID": "0",
+        "num_votes": "114",
+        "album": "",
+        "date_played": 1504909436,
+        "id": "1224",
+        "next_song_date": 1504909892,
+        "duration": 228,
+        "my_vote": null,
+        "picture": ""
+    },
+    "message": "",
+    "error": 0
+}

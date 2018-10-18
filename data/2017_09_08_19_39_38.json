@@ -1,0 +1,36 @@
+{
+    "error": 0,
+    "data": {
+        "date_played": 1504892287,
+        "live": 0,
+        "id": "2508",
+        "next_song_date": 1504892539,
+        "artist": "Sid Peasley",
+        "listeners": "81",
+        "my_vote": null,
+        "title": "Flimbos Quest",
+        "next_song": {
+            "title": "Xout (LiquidX mix)",
+            "album": "",
+            "artist": "Binster",
+            "live": 0,
+            "filename": "M:\\Mp3\\c64\\rko\\Binster - Xout (LiquidX mix).mp3"
+        },
+        "album": "",
+        "filename": "c64\\rko\\Sid Peasley - Flimbos Quest.mp3",
+        "next_poll": 40,
+        "next_song_expected": 40,
+        "requestedBy": "",
+        "duration": 126,
+        "r64_id": "2959",
+        "sid_path": "MUSICIANS/O/Ouwehand_Reyn/Flimbos_Quest.sid",
+        "r64_vote": "5",
+        "num_votes": "83",
+        "requestID": "0",
+        "vote_percent": "96.9880",
+        "albumyear": "2004",
+        "picture": "",
+        "website": ""
+    },
+    "message": ""
+}

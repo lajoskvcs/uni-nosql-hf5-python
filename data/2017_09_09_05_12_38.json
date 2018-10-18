@@ -1,0 +1,36 @@
+{
+    "message": "",
+    "error": 0,
+    "data": {
+        "date_played": 1504926646,
+        "requestedBy": "",
+        "next_poll": 123,
+        "picture": "",
+        "next_song": {
+            "title": "Into the Past (feat. Mordi)",
+            "filename": "M:\\Mp3\\c64\\rko\\Slaygon - Into the Past (feat. Mordi).mp3",
+            "artist": "Slaygon",
+            "live": 0,
+            "album": ""
+        },
+        "listeners": "37",
+        "id": "4654",
+        "vote_percent": "95.9302",
+        "r64_id": "5246",
+        "live": 0,
+        "next_song_expected": 123,
+        "title": "Thrust Electro Remix",
+        "my_vote": null,
+        "album": "",
+        "filename": "c64\\rko\\Mortalshock - Thrust Electro Remix.mp3",
+        "r64_vote": "5",
+        "sid_path": "MUSICIANS/H/Hubbard_Rob/Thrust.sid",
+        "next_song_date": 1504927106,
+        "albumyear": "2014",
+        "num_votes": "42",
+        "requestID": "0",
+        "duration": 230,
+        "website": "",
+        "artist": "Mortalshock"
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "data": {
+        "album": "",
+        "live": 0,
+        "listeners": "86",
+        "id": "3890",
+        "sid_path": "MUSICIANS/T/Tel_Jeroen/Navy_Moves.sid",
+        "title": "Navy Moves",
+        "vote_percent": "93.8559",
+        "requestID": "0",
+        "filename": "c64\\rko\\SIDrip Alliance - Navy Moves.mp3",
+        "website": "",
+        "my_vote": null,
+        "albumyear": "2010",
+        "r64_id": "4436",
+        "requestedBy": "",
+        "duration": 190,
+        "artist": "SIDrip Alliance",
+        "r64_vote": "6",
+        "date_played": 1504871874,
+        "picture": "",
+        "next_song_date": 1504872254,
+        "num_votes": "118",
+        "next_poll": 31,
+        "next_song": {
+            "album": "",
+            "filename": "M:\\Mp3\\c64\\rko\\moog (Sebastian Bachlinski) - Tristess.mp3",
+            "live": 0,
+            "title": "Tristess",
+            "artist": "moog (Sebastian Bachli\u00f1ski)"
+        },
+        "next_song_expected": 31
+    },
+    "message": "",
+    "error": 0
+}

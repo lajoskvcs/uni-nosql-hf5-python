@@ -1,0 +1,36 @@
+{
+    "message": "",
+    "error": 0,
+    "data": {
+        "picture": "",
+        "website": "",
+        "listeners": "40",
+        "r64_vote": "5",
+        "requestedBy": "",
+        "id": "3511",
+        "albumyear": "2008",
+        "album": "",
+        "requestID": "0",
+        "num_votes": "127",
+        "next_song": {
+            "filename": "M:\\Mp3\\c64\\rko\\Amok - Grand Prix Circuit (Piano-Edit).mp3",
+            "album": "",
+            "artist": "Amok",
+            "live": 0,
+            "title": "Grand Prix Circuit (Piano-Edit)"
+        },
+        "live": 0,
+        "my_vote": null,
+        "sid_path": "MUSICIANS/F/Follin_Tim/Agent_X_II_The_Mad_Profs_Back.sid",
+        "next_poll": 15,
+        "r64_id": "4045",
+        "next_song_expected": -33,
+        "vote_percent": "91.3386",
+        "title": "Agent X 2",
+        "filename": "c64\\rko\\Mordi - Agent X 2.mp3",
+        "next_song_date": 1504919437,
+        "artist": "Mordi",
+        "date_played": 1504919123,
+        "duration": 157
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "data": {
+        "website": "",
+        "vote_percent": "98.4578",
+        "duration": 334,
+        "albumyear": "2003",
+        "title": "Thrust (The Magnificent Worlds of Commodore!)",
+        "next_song": {
+            "album": "",
+            "live": 0,
+            "filename": "M:\\Mp3\\c64\\rko\\JSL - Scumball remix v2.mp3",
+            "artist": "JSL",
+            "title": "Scumball remix v2"
+        },
+        "date_played": 1504882153,
+        "requestID": "0",
+        "listeners": "70",
+        "live": 0,
+        "requestedBy": "",
+        "r64_vote": "6",
+        "my_vote": null,
+        "album": "",
+        "num_votes": "308",
+        "id": "402",
+        "picture": "",
+        "next_song_date": 1504882821,
+        "sid_path": "MUSICIANS/H/Hubbard_Rob/Thrust.sid",
+        "filename": "c64\\rko\\FeekZoid - Thrust (The Magnificent Worlds of Commodore!).mp3",
+        "artist": "FeekZoid",
+        "next_poll": 15,
+        "r64_id": "1798",
+        "next_song_expected": 14
+    },
+    "message": "",
+    "error": 0
+}

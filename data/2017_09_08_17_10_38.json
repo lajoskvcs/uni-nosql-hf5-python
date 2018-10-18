@@ -1,0 +1,36 @@
+{
+    "error": 0,
+    "message": "",
+    "data": {
+        "filename": "c64\\rko\\Johan Andersson - Yie Ar Kung Fu II.mp3",
+        "albumyear": "2013",
+        "next_poll": 15,
+        "next_song_expected": -6,
+        "requestID": "0",
+        "picture": "",
+        "next_song": {
+            "title": "Terra Cresta",
+            "live": 0,
+            "filename": "M:\\Mp3\\c64\\Albums\\Various Artists - Back in Time II\\06. Jogeir Liljedahl - Terra Cresta.mp3",
+            "album": "Back in Time II",
+            "artist": "Jogeir Liljedahl"
+        },
+        "listeners": "66",
+        "duration": 222,
+        "album": "",
+        "sid_path": "MUSICIANS/G/Galway_Martin/Yie_Ar_Kung_Fu_II.sid",
+        "date_played": 1504883205,
+        "next_song_date": 1504883649,
+        "website": "",
+        "vote_percent": "96.7391",
+        "requestedBy": "",
+        "live": 0,
+        "title": "Yie Ar Kung Fu II",
+        "num_votes": "46",
+        "my_vote": null,
+        "id": "4551",
+        "artist": "Johan Andersson",
+        "r64_vote": "5",
+        "r64_id": "5150"
+    }
+}

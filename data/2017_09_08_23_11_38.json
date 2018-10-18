@@ -1,0 +1,36 @@
+{
+    "error": 0,
+    "message": "",
+    "data": {
+        "filename": "c64\\rko\\dr.blitzen - Ocean Loader 1 (Radio Edit Blitz Mix).mp3",
+        "id": "4292",
+        "date_played": 1504904860,
+        "sid_path": "MUSICIANS/G/Galway_Martin/Ocean_Loader_1.sid",
+        "live": 0,
+        "r64_id": "4886",
+        "albumyear": "2012",
+        "artist": "dr.blitzen",
+        "website": "",
+        "my_vote": null,
+        "requestedBy": "",
+        "listeners": "63",
+        "title": "Ocean Loader 1 (Radio Edit Blitz Mix)",
+        "num_votes": "88",
+        "next_poll": 15,
+        "duration": 206,
+        "next_song_expected": -27,
+        "r64_vote": "5",
+        "next_song": {
+            "title": "Last Ninja (Ninja Revenge mix)",
+            "live": 0,
+            "artist": "Pepe Pinapple",
+            "filename": "M:\\Mp3\\c64\\rko\\Pepe Pinapple - Last Ninja (Ninja Revenge mix).mp3",
+            "album": ""
+        },
+        "requestID": "0",
+        "picture": "",
+        "next_song_date": 1504905272,
+        "vote_percent": "94.6023",
+        "album": ""
+    }
+}

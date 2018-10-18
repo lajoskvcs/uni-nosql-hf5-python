@@ -1,0 +1,36 @@
+{
+    "error": 0,
+    "message": "",
+    "data": {
+        "vote_percent": "90.8571",
+        "artist": "Kent 'Trace' Walld\u00e9n",
+        "next_song_expected": 350,
+        "my_vote": null,
+        "next_poll": 350,
+        "num_votes": "175",
+        "albumyear": "2001",
+        "listeners": "41",
+        "date_played": 1504929475,
+        "website": "",
+        "live": 0,
+        "duration": 508,
+        "r64_vote": "5",
+        "picture": "",
+        "next_song": {
+            "title": "Deltaplus",
+            "filename": "M:\\Mp3\\c64\\rko\\weebl - deltaplus.mp3",
+            "artist": "weebl",
+            "live": 0,
+            "album": ""
+        },
+        "requestedBy": "",
+        "id": "659",
+        "filename": "c64\\rko\\Kent 'Trace' Walld\u00e9n - OMAHD (Clubby house-trance mix).mp3",
+        "r64_id": "565",
+        "title": "OMAHD (Clubby house-trance mix)",
+        "requestID": "0",
+        "album": "",
+        "sid_path": "MUSICIANS/H/Hubbard_Rob/One_Man_and_His_Droid.sid",
+        "next_song_date": 1504930491
+    }
+}

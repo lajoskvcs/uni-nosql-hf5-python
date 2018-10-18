@@ -1,0 +1,36 @@
+{
+    "data": {
+        "num_votes": "358",
+        "website": "http://www.mindinabox.com/",
+        "next_song_expected": 229,
+        "title": "Whatever Mattered",
+        "albumyear": "2010",
+        "picture": "miab_retrocover.jpg",
+        "next_poll": 229,
+        "date_played": 1504882554,
+        "id": "3812",
+        "live": 0,
+        "next_song": {
+            "title": "Maniacs of Noise Megamix",
+            "filename": "M:\\Mp3\\c64\\rko\\Escape - Maniacs of Noise - Megamix.mp3",
+            "live": 0,
+            "artist": "Gerd Bahl",
+            "album": ""
+        },
+        "r64_vote": null,
+        "my_vote": null,
+        "listeners": "68",
+        "requestID": "0",
+        "album": "R.E.T.R.O",
+        "vote_percent": "71.7179",
+        "r64_id": null,
+        "sid_path": null,
+        "next_song_date": 1504883210,
+        "filename": "c64\\Albums\\mind.in.a.box - R.E.T.R.O\\11 mind.in.a.box - Whatever Mattered.mp3",
+        "duration": 328,
+        "artist": "mind.in.a.box",
+        "requestedBy": ""
+    },
+    "error": 0,
+    "message": ""
+}

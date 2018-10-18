@@ -1,0 +1,36 @@
+{
+    "data": {
+        "duration": 171,
+        "next_song": {
+            "live": 0,
+            "album": "Galway [Remixed]",
+            "title": "Insects In Space [title]",
+            "artist": "Reyn Ouwehand",
+            "filename": "M:\\Mp3\\c64\\Albums\\Reyn Ouwehand - Galway Remixed\\06 - Insects In Space [title].mp3"
+        },
+        "requestID": "0",
+        "listeners": "76",
+        "next_poll": 15,
+        "picture": "",
+        "live": 0,
+        "next_song_date": 1504891919,
+        "id": "758",
+        "sid_path": null,
+        "album": "",
+        "requestedBy": "",
+        "website": "",
+        "my_vote": null,
+        "filename": "c64\\rko\\Makke - Hatlelid's Grand Prix Circuit (Medley Mix).mp3",
+        "albumyear": "2004",
+        "title": "Hatlelid's Grand Prix Circuit (Medley Mix)",
+        "artist": "Makke",
+        "r64_id": null,
+        "vote_percent": "95.5508",
+        "date_played": 1504891577,
+        "next_song_expected": -25,
+        "num_votes": "118",
+        "r64_vote": null
+    },
+    "error": 0,
+    "message": ""
+}

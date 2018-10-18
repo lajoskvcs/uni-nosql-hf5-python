@@ -1,0 +1,36 @@
+{
+    "error": 0,
+    "message": "",
+    "data": {
+        "id": "4409",
+        "next_poll": 62,
+        "my_vote": null,
+        "artist": "Vred",
+        "albumyear": "2013",
+        "vote_percent": "97.9452",
+        "next_song": {
+            "artist": "Jogeir Liljedahl",
+            "title": "God = Martin Galway (XM)",
+            "album": "",
+            "filename": "M:\\Mp3\\c64\\non-RKO\\Jogeir Liljedahl - God = Martin Galway.mp3",
+            "live": 0
+        },
+        "date_played": 1504878218,
+        "duration": 177,
+        "sid_path": "MUSICIANS/D/Danko_Tomas/Plastic_Pop.sid",
+        "num_votes": "73",
+        "listeners": "72",
+        "r64_id": "5023",
+        "requestID": "0",
+        "next_song_expected": 62,
+        "filename": "c64\\rko\\Vred - Polished Plastic Piano (Modified Music Mix).mp3",
+        "website": "",
+        "title": "Polished Plastic Piano (Modified Music Mix)",
+        "next_song_date": 1504878572,
+        "r64_vote": "5",
+        "picture": "",
+        "requestedBy": "",
+        "album": "",
+        "live": 0
+    }
+}

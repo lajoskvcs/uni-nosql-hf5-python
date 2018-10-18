@@ -1,0 +1,36 @@
+{
+    "data": {
+        "next_song": {
+            "live": 0,
+            "artist": "BeeZerk",
+            "filename": "M:\\Mp3\\c64\\rko\\BeeZerk - Lets Fly (Skyhigh).mp3",
+            "album": "",
+            "title": "Lets Fly (Skyhigh)"
+        },
+        "live": 0,
+        "next_poll": 140,
+        "listeners": "73",
+        "num_votes": "148",
+        "title": "Wizball 2007",
+        "sid_path": "MUSICIANS/G/Galway_Martin/Wizball.sid",
+        "r64_vote": "5",
+        "r64_id": "3602",
+        "album": "",
+        "picture": "",
+        "requestID": "0",
+        "filename": "c64\\rko\\Infamous - Wizball 2007.mp3",
+        "id": "3106",
+        "my_vote": null,
+        "duration": 305,
+        "website": "",
+        "albumyear": "2007",
+        "next_song_date": 1504897438,
+        "next_song_expected": 140,
+        "requestedBy": "",
+        "artist": "Infamous",
+        "date_played": 1504896828,
+        "vote_percent": "95.4392"
+    },
+    "error": 0,
+    "message": ""
+}

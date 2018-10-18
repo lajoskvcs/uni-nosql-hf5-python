@@ -1,0 +1,36 @@
+{
+    "message": "",
+    "data": {
+        "next_poll": 272,
+        "requestedBy": "",
+        "picture": "",
+        "sid_path": null,
+        "date_played": 1504879338,
+        "my_vote": null,
+        "next_song_expected": 272,
+        "live": 0,
+        "filename": "c64\\rko\\Dr Future - Ice Age (.com -- Unity).mp3",
+        "listeners": "71",
+        "r64_id": null,
+        "website": "",
+        "vote_percent": "92.6471",
+        "id": "4672",
+        "num_votes": "50",
+        "artist": "Dr Future",
+        "next_song": {
+            "live": 0,
+            "filename": "M:\\Mp3\\c64\\rko\\Johan Andersson - Myth.mp3",
+            "title": "Myth",
+            "album": "",
+            "artist": "Johan Andersson"
+        },
+        "next_song_date": 1504880032,
+        "title": "Ice Age (.com Unity)",
+        "requestID": "0",
+        "albumyear": "2014",
+        "duration": 347,
+        "album": "",
+        "r64_vote": null
+    },
+    "error": 0
+}

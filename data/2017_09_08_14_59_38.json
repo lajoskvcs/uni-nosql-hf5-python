@@ -1,0 +1,36 @@
+{
+    "error": 0,
+    "message": "",
+    "data": {
+        "id": "460",
+        "artist": "Glyn R. Brown",
+        "num_votes": "258",
+        "requestID": "462420",
+        "next_song_expected": 140,
+        "my_vote": null,
+        "next_song_date": 1504876021,
+        "next_song": {
+            "live": 0,
+            "title": "Fist II - The Legend Continues",
+            "album": "",
+            "artist": "Dr Future",
+            "filename": "M:\\Mp3\\c64\\rko\\Dr Future - Fist II - The Legend Continues.mp3"
+        },
+        "listeners": "78",
+        "vote_percent": "97.1899",
+        "picture": "",
+        "albumyear": "0",
+        "live": 0,
+        "sid_path": "MUSICIANS/D/Daglish_Ben/Firelord.sid",
+        "duration": 308,
+        "date_played": 1504875405,
+        "title": "Firelord (Symphonic)",
+        "next_poll": 140,
+        "album": "",
+        "requestedBy": "raw",
+        "website": "",
+        "filename": "c64\\rko\\Glyn R. Brown - Firelord (Symphonic).mp3",
+        "r64_id": "1356",
+        "r64_vote": "6"
+    }
+}

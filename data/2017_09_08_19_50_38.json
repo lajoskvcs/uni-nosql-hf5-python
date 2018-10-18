@@ -1,0 +1,36 @@
+{
+    "message": "",
+    "error": 0,
+    "data": {
+        "next_poll": 186,
+        "date_played": 1504893020,
+        "filename": "c64\\rko\\Fby - The Last Ninja (palace garden concerto).mp3",
+        "website": "",
+        "title": "The Last Ninja (palace garden concerto)",
+        "live": 0,
+        "listeners": "77",
+        "sid_path": "MUSICIANS/D/Daglish_Ben/Last_Ninja.sid",
+        "artist": "Fby",
+        "requestID": "0",
+        "num_votes": "116",
+        "id": "2702",
+        "vote_percent": "85.5603",
+        "picture": "",
+        "albumyear": "2006",
+        "my_vote": null,
+        "next_song_date": 1504893418,
+        "next_song": {
+            "live": 0,
+            "album": "Remix64 - Volume 1",
+            "title": "Green Beret",
+            "filename": "M:\\Mp3\\c64\\Albums\\Various Artists - Remix64 vol 1\\03-thomas_detert_-_green_beret-cmg.mp3",
+            "artist": "Thomas Detert"
+        },
+        "r64_vote": "6",
+        "album": "",
+        "requestedBy": "",
+        "duration": 199,
+        "r64_id": "3194",
+        "next_song_expected": 186
+    }
+}

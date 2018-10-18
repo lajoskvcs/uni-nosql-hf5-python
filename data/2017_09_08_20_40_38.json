@@ -1,0 +1,36 @@
+{
+    "error": 0,
+    "message": "",
+    "data": {
+        "filename": "c64\\rko\\AmiGamer - GliderRider.mp3",
+        "album": "",
+        "duration": 265,
+        "artist": "AmiGamer",
+        "my_vote": null,
+        "id": "2730",
+        "next_song_expected": -58,
+        "date_played": 1504895710,
+        "next_song_date": 1504896240,
+        "r64_vote": "4",
+        "website": "",
+        "next_poll": 15,
+        "title": "GliderRider",
+        "next_song": {
+            "live": 0,
+            "artist": "DJ Skitz",
+            "album": "",
+            "filename": "M:\\Mp3\\c64\\rko\\DJ Skitz - Megasweet.mp3",
+            "title": "Megasweet"
+        },
+        "r64_id": "3219",
+        "picture": "",
+        "live": 0,
+        "vote_percent": "92.0259",
+        "listeners": "77",
+        "requestID": "0",
+        "num_votes": "116",
+        "requestedBy": "",
+        "sid_path": "MUSICIANS/W/Whittaker_David/Glider_Rider.sid",
+        "albumyear": "2006"
+    }
+}

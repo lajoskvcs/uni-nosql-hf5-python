@@ -1,0 +1,36 @@
+{
+    "data": {
+        "requestedBy": "",
+        "date_played": 1504886315,
+        "requestID": "0",
+        "listeners": "59",
+        "artist": "Kent 'Trace' Walld\u00e9n",
+        "id": "647",
+        "sid_path": "MUSICIANS/D/Daglish_Ben/DeathWish_III.sid",
+        "albumyear": "2001",
+        "title": "Death wish 3",
+        "r64_vote": "5",
+        "next_song_expected": 132,
+        "album": "",
+        "num_votes": "87",
+        "website": "",
+        "r64_id": "856",
+        "my_vote": null,
+        "next_poll": 132,
+        "live": 0,
+        "vote_percent": "91.9540",
+        "next_song_date": 1504886695,
+        "picture": "",
+        "duration": 190,
+        "filename": "c64\\rko\\Kent 'Trace' Walld\u00e9n - Death wish 3.mp3",
+        "next_song": {
+            "title": "IronLord",
+            "album": "",
+            "artist": "Red Devil",
+            "live": 0,
+            "filename": "M:\\Mp3\\c64\\rko\\Red Devil - IronLord.mp3"
+        }
+    },
+    "error": 0,
+    "message": ""
+}

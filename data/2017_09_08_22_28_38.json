@@ -1,0 +1,36 @@
+{
+    "message": "",
+    "error": 0,
+    "data": {
+        "next_poll": 37,
+        "album": "",
+        "next_song_expected": 37,
+        "live": 0,
+        "vote_percent": "92.3759",
+        "filename": "c64\\rko\\Amok - Rambo - First Blood.mp3",
+        "picture": "",
+        "artist": "Amok",
+        "website": "",
+        "next_song_date": 1504902765,
+        "r64_id": "4151",
+        "requestedBy": "",
+        "listeners": "67",
+        "duration": 215,
+        "id": "3632",
+        "num_votes": "141",
+        "sid_path": "MUSICIANS/G/Galway_Martin/Rambo_First_Blood_Part_II.sid",
+        "next_song": {
+            "filename": "M:\\Mp3\\c64\\rko\\Luke McQueen - R-Type - Main Theme (YM2151 Arrange).mp3",
+            "album": "",
+            "live": 0,
+            "artist": "Luke McQueen",
+            "title": "R-Type - Main Theme (YM2151 Arrange)"
+        },
+        "title": "Rambo - First Blood",
+        "requestID": "0",
+        "my_vote": null,
+        "albumyear": "2009",
+        "r64_vote": "5",
+        "date_played": 1504902335
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "message": "",
+    "data": {
+        "id": "3960",
+        "duration": 236,
+        "num_votes": "100",
+        "requestID": "0",
+        "r64_id": "4485",
+        "albumyear": "2010",
+        "next_poll": 99,
+        "date_played": 1504899976,
+        "album": "",
+        "title": "ATF Remix",
+        "listeners": "65",
+        "next_song_date": 1504900448,
+        "filename": "c64\\rko\\Teo - ATF Remix.mp3",
+        "r64_vote": "4",
+        "artist": "Teo",
+        "requestedBy": "",
+        "next_song_expected": 99,
+        "website": "",
+        "my_vote": null,
+        "sid_path": "GAMES/A-F/Advanced_Tactical_Fighter.sid",
+        "vote_percent": "94.0000",
+        "picture": "",
+        "live": 0,
+        "next_song": {
+            "artist": "Instant Remedy",
+            "filename": "M:\\Mp3\\c64\\Albums\\Instant Remedy - Instant Remedy\\04 - International Karate.mp3",
+            "album": "Instant Remedy",
+            "live": 0,
+            "title": "International Karate"
+        }
+    },
+    "error": 0
+}

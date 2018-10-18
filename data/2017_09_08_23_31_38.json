@@ -1,0 +1,36 @@
+{
+    "data": {
+        "requestID": "0",
+        "r64_vote": "5",
+        "next_song_date": 1504906558,
+        "picture": "",
+        "next_song": {
+            "filename": "M:\\Mp3\\c64\\rko\\omoroca - Stationary Ark (Piano Version).mp3",
+            "title": "Stationary Ark (Piano Version)",
+            "live": 0,
+            "album": "",
+            "artist": "omoroca"
+        },
+        "artist": "Slaygon",
+        "my_vote": null,
+        "vote_percent": "95.1136",
+        "num_votes": "220",
+        "title": "Boredom (livingroom edit)",
+        "next_song_expected": -5,
+        "album": "",
+        "live": 0,
+        "date_played": 1504906018,
+        "requestedBy": "",
+        "sid_path": "MUSICIANS/A/Audial_Arts/Pasch_Ronny/Boredom.sid",
+        "duration": 270,
+        "next_poll": 15,
+        "listeners": "65",
+        "filename": "c64\\rko\\Slaygon - Boredom (livingroom edit).mp3",
+        "albumyear": "2008",
+        "id": "3310",
+        "r64_id": "3870",
+        "website": ""
+    },
+    "message": "",
+    "error": 0
+}

@@ -1,0 +1,36 @@
+{
+    "data": {
+        "my_vote": null,
+        "listeners": "40",
+        "picture": "",
+        "sid_path": "MUSICIANS/H/Huelsbeck_Chris/Dulcedo_Cogitationis.sid",
+        "website": "",
+        "next_poll": 62,
+        "num_votes": "181",
+        "r64_vote": "5",
+        "title": "Dulcedo Cogitationis (Sad n Soft Mix)",
+        "vote_percent": "94.3370",
+        "requestedBy": "",
+        "filename": "c64\\rko\\Amok - Dulcedo Cogitationis (Sad n Soft Mix).mp3",
+        "album": "",
+        "live": 0,
+        "id": "3565",
+        "date_played": 1504922743,
+        "r64_id": "4101",
+        "requestID": "0",
+        "albumyear": "2009",
+        "next_song_expected": 62,
+        "next_song_date": 1504923327,
+        "duration": 292,
+        "artist": "Amok",
+        "next_song": {
+            "album": "",
+            "artist": "prof_ethan",
+            "title": "Parallax (Galways shot mix)",
+            "live": 0,
+            "filename": "M:\\Mp3\\c64\\rko\\prof ethan - Parallax (Galways shot mix).mp3"
+        }
+    },
+    "error": 0,
+    "message": ""
+}

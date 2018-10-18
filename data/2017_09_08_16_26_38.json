@@ -1,0 +1,36 @@
+{
+    "message": "",
+    "data": {
+        "albumyear": "2016",
+        "filename": "c64\\rko\\Saul Cross - Sigma Seven - Absolutely Analog Mix.mp3",
+        "listeners": "79",
+        "live": 0,
+        "id": "4870",
+        "sid_path": "MUSICIANS/H/Hubbard_Rob/Sigma_Seven.sid",
+        "artist": "Saul Cross",
+        "num_votes": "7",
+        "requestID": "0",
+        "duration": 70,
+        "my_vote": null,
+        "next_poll": 15,
+        "picture": "",
+        "r64_id": "5593",
+        "next_song": {
+            "title": "Wizball (Catelite Lives)",
+            "filename": "M:\\Mp3\\c64\\rko\\d0d0 - Wizball (Catelite Lives).mp3",
+            "album": "",
+            "artist": "d0d0",
+            "live": 0
+        },
+        "website": "",
+        "title": "Sigma Seven - Absolutely Analog Mix",
+        "next_song_date": 1504880845,
+        "next_song_expected": -18,
+        "date_played": 1504880705,
+        "requestedBy": "",
+        "album": "",
+        "r64_vote": "4",
+        "vote_percent": "100.0000"
+    },
+    "error": 0
+}

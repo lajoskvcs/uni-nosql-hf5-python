@@ -1,0 +1,36 @@
+{
+    "data": {
+        "next_poll": 83,
+        "website": "",
+        "listeners": "73",
+        "sid_path": "MUSICIANS/F/FAME/Hendriks_Michael/A_Little_Sample.sid",
+        "vote_percent": "93.1548",
+        "id": "3461",
+        "filename": "c64\\rko\\Emre Bulsat - Strike Force (noise progress mix).mp3",
+        "num_votes": "168",
+        "my_vote": null,
+        "picture": "",
+        "album": "",
+        "r64_id": "4010",
+        "albumyear": "2008",
+        "requestedBy": "",
+        "next_song_date": 1504898703,
+        "date_played": 1504898209,
+        "live": 0,
+        "next_song": {
+            "title": "Trip to Pluto 2006",
+            "artist": "squaresaw",
+            "album": "",
+            "filename": "M:\\Mp3\\c64\\rko\\squaresaw - Trip to Pluto 2006.mp3",
+            "live": 0
+        },
+        "r64_vote": "5",
+        "requestID": "0",
+        "duration": 247,
+        "artist": "Emre Bulsat",
+        "title": "Strike Force (noise progress mix)",
+        "next_song_expected": 83
+    },
+    "message": "",
+    "error": 0
+}

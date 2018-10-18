@@ -1,0 +1,36 @@
+{
+    "message": "",
+    "data": {
+        "website": "",
+        "duration": 291,
+        "live": 0,
+        "r64_vote": "4",
+        "album": "",
+        "next_song_expected": 284,
+        "albumyear": "2007",
+        "title": "To be on top [s2]",
+        "artist": "LPChip",
+        "next_poll": 284,
+        "my_vote": null,
+        "sid_path": "MUSICIANS/H/Huelsbeck_Chris/To_be_on_Top.sid",
+        "next_song": {
+            "live": 0,
+            "filename": "M:\\Mp3\\c64\\rko\\Lello Caliendo - Aztec challenge Evolution.mp3",
+            "album": "",
+            "title": "Aztec Challenge Evolution",
+            "artist": "Lello Caliendo"
+        },
+        "listeners": "63",
+        "date_played": 1504903886,
+        "filename": "c64\\rko\\LPChip - To be on top [s2].mp3",
+        "num_votes": "247",
+        "picture": "",
+        "next_song_date": 1504904468,
+        "id": "3061",
+        "vote_percent": "91.9028",
+        "requestedBy": "",
+        "r64_id": "3503",
+        "requestID": "0"
+    },
+    "error": 0
+}

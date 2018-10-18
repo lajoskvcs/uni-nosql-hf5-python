@@ -1,0 +1,36 @@
+{
+    "data": {
+        "picture": "",
+        "sid_path": "MUSICIANS/T/Tel_Jeroen/Beginning.sid",
+        "live": 0,
+        "title": "Beginning (Energized)",
+        "requestID": "0",
+        "num_votes": "115",
+        "requestedBy": "",
+        "my_vote": null,
+        "next_poll": 157,
+        "id": "4023",
+        "next_song_expected": 157,
+        "artist": "AcidBlock",
+        "listeners": "68",
+        "filename": "c64\\rko\\AcidBlock - Beginning (Energized).mp3",
+        "albumyear": "2010",
+        "date_played": 1504900573,
+        "next_song_date": 1504901047,
+        "next_song": {
+            "filename": "M:\\Mp3\\c64\\rko\\CZ Tunes - Gold Quest IV.mp3",
+            "album": "",
+            "live": 0,
+            "artist": "CZ Tunes",
+            "title": "Gold Quest IV"
+        },
+        "album": "",
+        "duration": 237,
+        "r64_vote": "5",
+        "r64_id": "4594",
+        "vote_percent": "95.0000",
+        "website": ""
+    },
+    "message": "",
+    "error": 0
+}

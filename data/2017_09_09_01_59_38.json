@@ -1,0 +1,36 @@
+{
+    "error": 0,
+    "message": "",
+    "data": {
+        "title": "Butcher Hill (Ben Daglish)",
+        "my_vote": null,
+        "num_votes": "34",
+        "requestedBy": "",
+        "date_played": 1504915043,
+        "artist": "Markus Schneider",
+        "id": "2306",
+        "album": "Remix64 - Into Eternity",
+        "albumyear": "2003",
+        "filename": "c64\\Albums\\Various Artists - Remix64 - Into Eternity\\10-markus_schneider-butcher_hill_(ben_daglish)-byter.mp3",
+        "r64_vote": null,
+        "next_song_date": 1504915581,
+        "next_song": {
+            "album": "Galway [Remixed]",
+            "title": "Parallax [ingame]",
+            "filename": "M:\\Mp3\\c64\\Albums\\Reyn Ouwehand - Galway Remixed\\07 - Parallax [ingame].mp3",
+            "live": 0,
+            "artist": "Reyn Ouwehand"
+        },
+        "next_poll": 139,
+        "duration": 269,
+        "requestID": "0",
+        "sid_path": null,
+        "picture": "Remix64_-_Into_Eternity.jpg",
+        "r64_id": null,
+        "live": 0,
+        "listeners": "49",
+        "vote_percent": "94.8529",
+        "next_song_expected": 139,
+        "website": "http://www.c64audio.com/productInfo.php?cat=R64IE"
+    }
+}

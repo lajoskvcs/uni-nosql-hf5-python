@@ -1,0 +1,36 @@
+{
+    "message": "",
+    "error": 0,
+    "data": {
+        "next_song": {
+            "title": "Whittaker-medley",
+            "artist": "Zyron",
+            "album": "",
+            "filename": "M:\\Mp3\\c64\\rko\\Zyron - Whittaker-medley.mp3",
+            "live": 0
+        },
+        "r64_id": "2627",
+        "id": "2088",
+        "live": 0,
+        "my_vote": null,
+        "filename": "c64\\rko\\Zuckerfrei - Mask III - Venom Strikes Back (20Hz Mix).mp3",
+        "next_poll": 15,
+        "artist": "Zuckerfrei",
+        "duration": 245,
+        "r64_vote": "5",
+        "requestID": "0",
+        "title": "Mask III - Venom Strikes Back (20Hz Mix)",
+        "website": "",
+        "vote_percent": "92.0259",
+        "next_song_expected": -19,
+        "num_votes": "116",
+        "sid_path": "MUSICIANS/D/Daglish_Ben/MASK_III_Venom_Strikes_Back.sid",
+        "picture": "",
+        "albumyear": "1988",
+        "requestedBy": "",
+        "listeners": "81",
+        "album": "",
+        "next_song_date": 1504890799,
+        "date_played": 1504890309
+    }
+}

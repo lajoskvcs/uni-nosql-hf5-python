@@ -1,0 +1,36 @@
+{
+    "message": "",
+    "data": {
+        "artist": "Chris Prattini",
+        "next_song": {
+            "filename": "M:\\Mp3\\c64\\rko\\daRK HaLF - Last Ninja 2 Central Park.mp3",
+            "album": "",
+            "artist": "daRK HaLF",
+            "title": "Last Ninja 2 Central Park",
+            "live": 0
+        },
+        "filename": "c64\\rko\\Chris Prattini - Dark Star.mp3",
+        "albumyear": "2014",
+        "next_poll": 164,
+        "live": 0,
+        "id": "4621",
+        "my_vote": null,
+        "r64_vote": "5",
+        "sid_path": "GAMES/A-F/Dark_Star.sid",
+        "next_song_expected": 164,
+        "website": "",
+        "next_song_date": 1504903865,
+        "requestedBy": "",
+        "duration": 288,
+        "picture": "",
+        "title": "Dark Star",
+        "requestID": "0",
+        "date_played": 1504903289,
+        "listeners": "67",
+        "vote_percent": "99.4318",
+        "r64_id": "5278",
+        "num_votes": "43",
+        "album": ""
+    },
+    "error": 0
+}

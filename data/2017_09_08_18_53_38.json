@@ -1,0 +1,36 @@
+{
+    "message": "",
+    "error": 0,
+    "data": {
+        "duration": 126,
+        "listeners": "67",
+        "num_votes": "25",
+        "next_song_expected": 19,
+        "picture": "",
+        "next_poll": 19,
+        "id": "2003",
+        "title": "Mellow Idea (Orthodox Mix)",
+        "r64_id": "2610",
+        "albumyear": "2005",
+        "requestedBy": "",
+        "sid_path": "MUSICIANS/D/DaFunk/Mellow_Idea.sid",
+        "next_song_date": 1504889758,
+        "live": 0,
+        "my_vote": null,
+        "album": "",
+        "r64_vote": "4",
+        "artist": "Branko Balsic",
+        "date_played": 1504889506,
+        "requestID": "0",
+        "next_song": {
+            "title": "Delta",
+            "filename": "M:\\Mp3\\c64\\rko\\Obscuresounds - Delta.mp3",
+            "album": "",
+            "artist": "Obscuresounds",
+            "live": 0
+        },
+        "filename": "c64\\rko\\Branko Balsic - Mellow Idea (Orthodox Mix).mp3",
+        "website": "",
+        "vote_percent": "100.0000"
+    }
+}

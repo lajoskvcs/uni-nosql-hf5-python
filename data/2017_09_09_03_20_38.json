@@ -1,0 +1,36 @@
+{
+    "data": {
+        "picture": "",
+        "vote_percent": "93.9597",
+        "albumyear": "2009",
+        "id": "3545",
+        "next_song_expected": 102,
+        "my_vote": null,
+        "filename": "c64\\rko\\KirikuGo - Plastic Pop (Plastic Fantastic Mix).mp3",
+        "artist": "KirikuGo",
+        "next_song": {
+            "live": 0,
+            "filename": "M:\\Mp3\\c64\\rko\\Mitch van Hayden - Dying High (in a classical way).mp3",
+            "album": "",
+            "artist": "Mitch van Hayden",
+            "title": "Dying High (in a classical way)"
+        },
+        "sid_path": "MUSICIANS/D/Danko_Tomas/Plastic_Pop.sid",
+        "date_played": 1504919912,
+        "title": "Plastic Pop (Plastic Fantastic Mix)",
+        "website": "",
+        "requestedBy": "",
+        "duration": 223,
+        "next_poll": 102,
+        "r64_vote": "5",
+        "listeners": "44",
+        "num_votes": "149",
+        "live": 0,
+        "r64_id": "4069",
+        "next_song_date": 1504920358,
+        "album": "",
+        "requestID": "0"
+    },
+    "error": 0,
+    "message": ""
+}

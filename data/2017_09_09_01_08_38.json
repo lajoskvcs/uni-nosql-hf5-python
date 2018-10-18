@@ -1,0 +1,36 @@
+{
+    "data": {
+        "filename": "c64\\rko\\DeeS - Chopper (Arctic Circle Remix).mp3",
+        "next_song_date": 1504912316,
+        "next_song_expected": 29,
+        "listeners": "54",
+        "duration": 174,
+        "sid_path": "MUSICIANS/F/Future_Freak/Chopper.sid",
+        "picture": "",
+        "live": 0,
+        "r64_id": "2568",
+        "my_vote": null,
+        "title": "Chopper (Arctic Circle Remix)",
+        "albumyear": "2005",
+        "requestedBy": "",
+        "website": "",
+        "requestID": "0",
+        "next_poll": 29,
+        "album": "",
+        "date_played": 1504911968,
+        "num_votes": "83",
+        "next_song": {
+            "artist": "N-Joy of The Soundwavers",
+            "album": "",
+            "title": "Stormlord - Seneca's Marble Pack (feat. Simona)",
+            "live": 0,
+            "filename": "M:\\Mp3\\c64\\rko\\N-Joy of TSW featuring Simona - Stormlord (Senecas Marble Pack Edit).mp3"
+        },
+        "artist": "Dees",
+        "id": "2024",
+        "r64_vote": "5",
+        "vote_percent": "94.8795"
+    },
+    "error": 0,
+    "message": ""
+}

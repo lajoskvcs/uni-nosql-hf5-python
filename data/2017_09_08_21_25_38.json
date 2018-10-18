@@ -1,0 +1,36 @@
+{
+    "error": 0,
+    "message": "",
+    "data": {
+        "album": "",
+        "requestID": "0",
+        "next_poll": 45,
+        "id": "3491",
+        "r64_vote": "5",
+        "vote_percent": "86.1272",
+        "artist": "squaresaw",
+        "date_played": 1504898448,
+        "my_vote": null,
+        "filename": "c64\\rko\\squaresaw - Trip to Pluto 2006.mp3",
+        "num_votes": "173",
+        "live": 0,
+        "title": "Trip to Pluto 2006",
+        "duration": 330,
+        "albumyear": "2006",
+        "website": "",
+        "next_song_expected": 45,
+        "requestedBy": "",
+        "next_song_date": 1504899108,
+        "picture": "",
+        "listeners": "73",
+        "next_song": {
+            "artist": "X-formZ",
+            "live": 0,
+            "album": "",
+            "title": "The Arctic Circle (66.56756 edition)",
+            "filename": "M:\\Mp3\\c64\\rko\\X-formZ - The Arctic Circle (66.56756d edition).mp3"
+        },
+        "r64_id": "3322",
+        "sid_path": "MUSICIANS/M/Metal/Trip_2_Pluto.sid"
+    }
+}

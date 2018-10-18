@@ -1,0 +1,36 @@
+{
+    "message": "",
+    "error": 0,
+    "data": {
+        "listeners": "69",
+        "website": "",
+        "vote_percent": "91.6667",
+        "artist": "Gerd Bahl",
+        "next_song": {
+            "album": "",
+            "title": "Yie Ar Kung Fu II",
+            "live": 0,
+            "artist": "Johan Andersson",
+            "filename": "M:\\Mp3\\c64\\rko\\Johan Andersson - Yie Ar Kung Fu II.mp3"
+        },
+        "next_song_date": 1504883564,
+        "date_played": 1504882874,
+        "albumyear": "0",
+        "duration": 345,
+        "album": "",
+        "filename": "c64\\rko\\Escape - Maniacs of Noise - Megamix.mp3",
+        "next_poll": 146,
+        "num_votes": "159",
+        "sid_path": null,
+        "next_song_expected": 146,
+        "id": "378",
+        "title": "Maniacs of Noise Megamix",
+        "picture": "",
+        "requestID": "0",
+        "live": 0,
+        "r64_id": null,
+        "my_vote": null,
+        "r64_vote": null,
+        "requestedBy": ""
+    }
+}

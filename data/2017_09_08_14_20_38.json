@@ -1,0 +1,36 @@
+{
+    "data": {
+        "requestedBy": "raw",
+        "website": "",
+        "num_votes": "598",
+        "r64_vote": "6",
+        "id": "689",
+        "albumyear": "0",
+        "duration": 224,
+        "next_song": {
+            "filename": "M:\\Mp3\\c64\\rko\\Asterion (Rafal Kazimierski) - Barbarian (Anvil of Death).mp3",
+            "album": "",
+            "title": "Barbarian (Anvil of Death)",
+            "live": 0,
+            "artist": "Asterion (Rafal Kazimierski)"
+        },
+        "my_vote": null,
+        "next_song_expected": -46,
+        "date_played": 1504872963,
+        "listeners": "81",
+        "next_poll": 15,
+        "album": "",
+        "vote_percent": "97.0736",
+        "sid_path": "MUSICIANS/T/Tel_Jeroen/RoboCop_3.sid",
+        "live": 0,
+        "filename": "c64\\rko\\Lagerfeldt - Robocop 3 (Progressive Uplift).mp3",
+        "next_song_date": 1504873411,
+        "requestID": "462410",
+        "title": "Robocop 3 (Progressive Uplift)",
+        "r64_id": "1967",
+        "artist": "Lagerfeldt",
+        "picture": ""
+    },
+    "error": 0,
+    "message": ""
+}

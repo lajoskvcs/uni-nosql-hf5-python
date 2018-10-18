@@ -1,0 +1,36 @@
+{
+    "data": {
+        "sid_path": "MUSICIANS/T/Tel_Jeroen/Battle_Valley.sid",
+        "r64_vote": "5",
+        "live": 0,
+        "duration": 235,
+        "next_song_date": 1504906257,
+        "r64_id": "5411",
+        "next_song_expected": 29,
+        "artist": "Mongo Erectus",
+        "listeners": "63",
+        "num_votes": "36",
+        "album": "",
+        "date_played": 1504905787,
+        "vote_percent": "95.1389",
+        "requestID": "0",
+        "id": "4734",
+        "website": "",
+        "requestedBy": "",
+        "next_poll": 29,
+        "title": "Battle Valley",
+        "filename": "c64\\rko\\Mongo Erectus - Battle Valley.mp3",
+        "albumyear": "2015",
+        "picture": "",
+        "next_song": {
+            "filename": "M:\\Mp3\\c64\\rko\\Slaygon - Boredom (livingroom edit).mp3",
+            "artist": "Slaygon",
+            "album": "",
+            "title": "Boredom (livingroom edit)",
+            "live": 0
+        },
+        "my_vote": null
+    },
+    "error": 0,
+    "message": ""
+}

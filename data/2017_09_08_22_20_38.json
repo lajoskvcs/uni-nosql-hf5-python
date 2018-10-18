@@ -1,0 +1,36 @@
+{
+    "error": 0,
+    "message": "",
+    "data": {
+        "r64_vote": "5",
+        "live": 0,
+        "albumyear": "2008",
+        "requestID": "0",
+        "next_poll": 15,
+        "website": "",
+        "r64_id": "3726",
+        "requestedBy": "",
+        "next_song_date": 1504902193,
+        "vote_percent": "95.5357",
+        "title": "To be on Top - S2 [RMX2008]",
+        "my_vote": null,
+        "date_played": 1504901879,
+        "album": "",
+        "next_song_expected": 3,
+        "duration": 157,
+        "listeners": "69",
+        "artist": "XxDUSTYxX",
+        "next_song": {
+            "album": "",
+            "title": "AzzJazz (re-mux)",
+            "live": 0,
+            "artist": "Dafunk",
+            "filename": "M:\\Mp3\\c64\\rko\\Dafunk - AzzJazz (remix).mp3"
+        },
+        "sid_path": "MUSICIANS/H/Huelsbeck_Chris/To_be_on_Top.sid",
+        "id": "3184",
+        "picture": "",
+        "num_votes": "84",
+        "filename": "c64\\rko\\XxDUSTYxX - To be on Top - S2 [RMX2008].mp3"
+    }
+}

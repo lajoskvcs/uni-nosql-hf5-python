@@ -1,0 +1,36 @@
+{
+    "data": {
+        "r64_id": "2450",
+        "listeners": "70",
+        "next_song_expected": 203,
+        "requestedBy": "",
+        "id": "3237",
+        "next_song": {
+            "live": 0,
+            "artist": "Amok",
+            "album": "",
+            "filename": "M:\\Mp3\\c64\\rko\\Amok - Rambo - First Blood.mp3",
+            "title": "Rambo - First Blood"
+        },
+        "albumyear": "2004",
+        "artist": "Dafunk",
+        "website": "",
+        "vote_percent": "84.2949",
+        "num_votes": "156",
+        "album": "",
+        "my_vote": null,
+        "sid_path": "MUSICIANS/P/PRI/Azzdjazz.sid",
+        "next_poll": 203,
+        "date_played": 1504902033,
+        "r64_vote": "5",
+        "filename": "c64\\rko\\Dafunk - AzzJazz (remix).mp3",
+        "picture": "",
+        "duration": 323,
+        "live": 0,
+        "next_song_date": 1504902679,
+        "requestID": "0",
+        "title": "AzzJazz (re-mux)"
+    },
+    "message": "",
+    "error": 0
+}

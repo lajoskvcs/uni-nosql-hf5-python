@@ -1,0 +1,36 @@
+{
+    "message": "",
+    "error": 0,
+    "data": {
+        "album": "",
+        "num_votes": "104",
+        "date_played": 1504918611,
+        "listeners": "40",
+        "website": "",
+        "duration": 263,
+        "sid_path": "MUSICIANS/D/Detert_Thomas/Mega_Starforce.sid",
+        "vote_percent": "93.2692",
+        "title": "MegaStarforce",
+        "requestID": "0",
+        "next_poll": 15,
+        "picture": "",
+        "id": "1364",
+        "r64_vote": "5",
+        "live": 0,
+        "next_song_expected": -19,
+        "r64_id": "987",
+        "requestedBy": "",
+        "artist": "Thomas Detert",
+        "my_vote": null,
+        "next_song": {
+            "artist": "Instant Remedy",
+            "filename": "M:\\Mp3\\c64\\Albums\\Instant Remedy - Instant Remedy\\01 - Last Ninja - The Palace.mp3",
+            "live": 0,
+            "title": "Last Ninja - The Palace",
+            "album": "Instant Remedy"
+        },
+        "next_song_date": 1504919137,
+        "filename": "c64\\rko\\Thomas Detert - MegaStarforce.mp3",
+        "albumyear": "0"
+    }
+}

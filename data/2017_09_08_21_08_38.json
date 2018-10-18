@@ -1,0 +1,36 @@
+{
+    "data": {
+        "my_vote": null,
+        "next_song_expected": 216,
+        "next_poll": 216,
+        "title": "Comic Bakery",
+        "requestedBy": "",
+        "next_song_date": 1504898219,
+        "filename": "c64\\Albums\\Back in Time Live\\Visa Roster _ Comic Bakery.mp3",
+        "r64_id": null,
+        "website": "http://www.c64audio.com/productInfo.php?cat=C64DVD1",
+        "r64_vote": null,
+        "num_votes": "180",
+        "id": "2632",
+        "listeners": "73",
+        "live": 0,
+        "artist": "Visa R\u00f6ster",
+        "vote_percent": "93.4722",
+        "requestID": "0",
+        "next_song": {
+            "album": "",
+            "filename": "M:\\Mp3\\c64\\rko\\SchepersThorsten - Maniac Mansion [Plain Music Remix].mp3",
+            "live": 0,
+            "artist": "SchepersThorsten",
+            "title": "Maniac Mansion [Plain Music Remix]"
+        },
+        "sid_path": null,
+        "picture": "Back_in_time_live.jpg",
+        "duration": 290,
+        "album": "Back in Time Live DVD",
+        "date_played": 1504897639,
+        "albumyear": "2005"
+    },
+    "message": "",
+    "error": 0
+}

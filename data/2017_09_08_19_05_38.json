@@ -1,0 +1,36 @@
+{
+    "data": {
+        "picture": "",
+        "albumyear": "2005",
+        "r64_id": "2571",
+        "album": "",
+        "artist": "Dees",
+        "website": "",
+        "filename": "c64\\rko\\DeeS - Nemesis (The Gradius Rotation Remix).mp3",
+        "next_poll": 15,
+        "sid_path": "GAMES/M-R/Nemesis.sid",
+        "num_votes": "124",
+        "listeners": "77",
+        "id": "2021",
+        "my_vote": null,
+        "date_played": 1504890019,
+        "next_song_date": 1504890615,
+        "requestID": "0",
+        "next_song_expected": -16,
+        "duration": 298,
+        "live": 0,
+        "title": "Nemesis (The Gradius Rotation Remix)",
+        "next_song": {
+            "artist": "Zuckerfrei",
+            "album": "",
+            "filename": "M:\\Mp3\\c64\\rko\\Zuckerfrei - Mask III - Venom Strikes Back (20Hz Mix).mp3",
+            "title": "Mask III - Venom Strikes Back (20Hz Mix)",
+            "live": 0
+        },
+        "r64_vote": "4",
+        "requestedBy": "",
+        "vote_percent": "93.7500"
+    },
+    "error": 0,
+    "message": ""
+}

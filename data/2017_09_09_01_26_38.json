@@ -1,0 +1,36 @@
+{
+    "error": 0,
+    "message": "",
+    "data": {
+        "album": "",
+        "listeners": "56",
+        "filename": "c64\\rko\\Thomas Detert - Sigma Seven (Chariots of fire remix).mp3",
+        "requestID": "0",
+        "duration": 121,
+        "vote_percent": "92.1196",
+        "picture": "",
+        "my_vote": null,
+        "albumyear": "2001",
+        "title": "Sigma Seven (Chariots of fire remix)",
+        "next_song_date": 1504913326,
+        "website": "",
+        "id": "1366",
+        "artist": "Thomas Detert",
+        "next_song_expected": 12,
+        "sid_path": "MUSICIANS/H/Hubbard_Rob/Sigma_Seven.sid",
+        "num_votes": "92",
+        "date_played": 1504913084,
+        "r64_vote": "6",
+        "r64_id": "1024",
+        "live": 0,
+        "requestedBy": "",
+        "next_song": {
+            "artist": "Yoko",
+            "album": "",
+            "title": "Target Renegade (Re-Mix)",
+            "filename": "M:\\Mp3\\c64\\rko\\Yoko - Target Renegade (Re-Mix).mp3",
+            "live": 0
+        },
+        "next_poll": 15
+    }
+}

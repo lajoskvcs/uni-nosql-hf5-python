@@ -1,0 +1,36 @@
+{
+    "message": "",
+    "data": {
+        "date_played": 1504927707,
+        "vote_percent": "97.2222",
+        "requestID": "0",
+        "artist": "Paradroid",
+        "my_vote": null,
+        "live": 0,
+        "next_poll": 15,
+        "id": "946",
+        "duration": 186,
+        "num_votes": "216",
+        "albumyear": "2000",
+        "requestedBy": "",
+        "next_song_expected": 0,
+        "sid_path": "MUSICIANS/T/Trident/A_Short_One.sid",
+        "filename": "c64\\rko\\Paradroid - MindControl - part 1.mp3",
+        "r64_id": "242",
+        "album": "",
+        "listeners": "39",
+        "next_song_date": 1504928079,
+        "next_song": {
+            "artist": "David Filskov",
+            "filename": "M:\\Mp3\\c64\\rko\\David Filskov - Thrust remix.mp3",
+            "album": "",
+            "live": 0,
+            "title": "Thrust remix"
+        },
+        "website": "",
+        "picture": "",
+        "title": "MindControl - part 1",
+        "r64_vote": "5"
+    },
+    "error": 0
+}

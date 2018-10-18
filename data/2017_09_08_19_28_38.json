@@ -1,0 +1,36 @@
+{
+    "message": "",
+    "error": 0,
+    "data": {
+        "listeners": "78",
+        "next_poll": 35,
+        "title": "Hatlelid's Grand Prix Circuit (Medley Mix)",
+        "picture": "",
+        "next_song_date": 1504891919,
+        "vote_percent": "95.5508",
+        "artist": "Makke",
+        "requestID": "0",
+        "album": "",
+        "sid_path": null,
+        "live": 0,
+        "num_votes": "118",
+        "next_song_expected": 35,
+        "date_played": 1504891577,
+        "website": "",
+        "r64_id": null,
+        "duration": 171,
+        "r64_vote": null,
+        "my_vote": null,
+        "albumyear": "2004",
+        "filename": "c64\\rko\\Makke - Hatlelid's Grand Prix Circuit (Medley Mix).mp3",
+        "next_song": {
+            "album": "Galway [Remixed]",
+            "filename": "M:\\Mp3\\c64\\Albums\\Reyn Ouwehand - Galway Remixed\\06 - Insects In Space [title].mp3",
+            "artist": "Reyn Ouwehand",
+            "title": "Insects In Space [title]",
+            "live": 0
+        },
+        "id": "758",
+        "requestedBy": ""
+    }
+}

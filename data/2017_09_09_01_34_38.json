@@ -1,0 +1,36 @@
+{
+    "error": 0,
+    "data": {
+        "album": "",
+        "live": 0,
+        "next_poll": 136,
+        "requestedBy": "",
+        "picture": "",
+        "albumyear": "2006",
+        "num_votes": "150",
+        "my_vote": null,
+        "vote_percent": "94.8333",
+        "filename": "c64\\rko\\Juha Kaunisto - 2000 A.D..mp3",
+        "next_song": {
+            "filename": "M:\\Mp3\\c64\\rko\\Sonic Wanderer - Parallax (Wanderized).mp3",
+            "artist": "Sonic Wanderer",
+            "album": "",
+            "title": "Parallax (Wanderized)",
+            "live": 0
+        },
+        "id": "2685",
+        "title": "2000 A.D.",
+        "r64_id": "3154",
+        "duration": 215,
+        "r64_vote": "6",
+        "website": "",
+        "next_song_expected": 136,
+        "next_song_date": 1504914024,
+        "listeners": "53",
+        "sid_path": "MUSICIANS/L/Laxity/2000_A_D.sid",
+        "artist": "Juha Kaunisto",
+        "requestID": "0",
+        "date_played": 1504913594
+    },
+    "message": ""
+}

@@ -1,0 +1,36 @@
+{
+    "data": {
+        "num_votes": "51",
+        "sid_path": null,
+        "requestID": "0",
+        "requestedBy": "",
+        "albumyear": "2002",
+        "listeners": "50",
+        "live": 0,
+        "duration": 433,
+        "title": "Warriors (Club Version)",
+        "website": "http://www.c64audio.com/productInfo.php?cat=IR01",
+        "r64_vote": null,
+        "next_song": {
+            "album": "",
+            "live": 0,
+            "filename": "M:\\Mp3\\c64\\rko\\Thomas Detert - Another World.mp3",
+            "artist": "Thomas Detert",
+            "title": "Another World"
+        },
+        "date_played": 1504915674,
+        "filename": "c64\\Albums\\Instant Remedy - Instant Remedy\\10 - Warriors (Club version).mp3",
+        "vote_percent": "97.0588",
+        "my_vote": null,
+        "picture": "Instant_Remedy.jpg",
+        "next_song_date": 1504916540,
+        "next_song_expected": -26,
+        "next_poll": 15,
+        "id": "2185",
+        "r64_id": null,
+        "album": "Instant Remedy",
+        "artist": "Instant Remedy"
+    },
+    "error": 0,
+    "message": ""
+}

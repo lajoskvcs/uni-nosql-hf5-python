@@ -1,0 +1,36 @@
+{
+    "data": {
+        "albumyear": "2009",
+        "id": "3611",
+        "next_song": {
+            "album": "",
+            "title": "Bomb Jack (Summer Radio Edit)",
+            "artist": "Andr\u00e9 M\u00fcller (Crefelder)",
+            "filename": "M:\\Mp3\\c64\\rko\\Andre Muller (Crefelder) - Bomb Jack (Summer Radio Edit).mp3",
+            "live": 0
+        },
+        "album": "",
+        "duration": 270,
+        "next_poll": 15,
+        "date_played": 1504920122,
+        "artist": "Mitch van Hayden",
+        "sid_path": "MUSICIANS/T/Tel_Jeroen/Dying_High.sid",
+        "num_votes": "161",
+        "next_song_expected": -1,
+        "requestID": "0",
+        "vote_percent": "94.4099",
+        "requestedBy": "",
+        "listeners": "42",
+        "my_vote": null,
+        "picture": "",
+        "r64_id": "4144",
+        "filename": "c64\\rko\\Mitch van Hayden - Dying High (in a classical way).mp3",
+        "r64_vote": "5",
+        "next_song_date": 1504920662,
+        "title": "Dying High (in a classical way)",
+        "website": "",
+        "live": 0
+    },
+    "error": 0,
+    "message": ""
+}

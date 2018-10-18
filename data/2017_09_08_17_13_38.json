@@ -1,0 +1,36 @@
+{
+    "message": "",
+    "data": {
+        "album": "Back in Time II",
+        "listeners": "64",
+        "next_poll": 66,
+        "artist": "Jogeir Liljedahl",
+        "next_song_expected": 66,
+        "next_song": {
+            "album": "",
+            "title": "Armageddon man (Re-Remixed)",
+            "artist": "Kent 'Trace' Walld\u00e9n",
+            "live": 0,
+            "filename": "M:\\Mp3\\c64\\rko\\Kent 'Trace' Walld\u00e9n - Armageddon man (Re-Remixed).mp3"
+        },
+        "next_song_date": 1504883938,
+        "r64_id": null,
+        "vote_percent": "98.9474",
+        "filename": "c64\\Albums\\Various Artists - Back in Time II\\06. Jogeir Liljedahl - Terra Cresta.mp3",
+        "live": 0,
+        "r64_vote": null,
+        "my_vote": null,
+        "date_played": 1504883420,
+        "duration": 259,
+        "id": "2255",
+        "title": "Terra Cresta",
+        "requestID": "0",
+        "picture": "BIT2.jpg",
+        "sid_path": null,
+        "num_votes": "95",
+        "albumyear": "2003",
+        "requestedBy": "",
+        "website": "http://www.c64audio.com/productInfo.php?cat=C64CD2"
+    },
+    "error": 0
+}

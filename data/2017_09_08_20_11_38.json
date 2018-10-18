@@ -1,0 +1,36 @@
+{
+    "message": "",
+    "data": {
+        "num_votes": "354",
+        "id": "896",
+        "next_song_expected": 296,
+        "live": 0,
+        "picture": "",
+        "next_song": {
+            "filename": "M:\\Mp3\\c64\\rko\\Hazel - Spellbound (64 Knights And One Round Table).mp3",
+            "title": "Spellbound (64 Knights And One Round Table)",
+            "live": 0,
+            "album": "",
+            "artist": "Hazel"
+        },
+        "next_song_date": 1504894957,
+        "title": "Nemesis The Warlock",
+        "requestedBy": "raw",
+        "next_poll": 296,
+        "date_played": 1504894221,
+        "albumyear": "0",
+        "r64_vote": "6",
+        "artist": "o2",
+        "website": "",
+        "listeners": "75",
+        "vote_percent": "98.0226",
+        "filename": "c64\\rko\\o2 - Nemesis The Warlock.mp3",
+        "duration": 368,
+        "sid_path": "MUSICIANS/H/Hubbard_Rob/Nemesis_the_Warlock.sid",
+        "r64_id": "116",
+        "my_vote": null,
+        "album": "",
+        "requestID": "462428"
+    },
+    "error": 0
+}

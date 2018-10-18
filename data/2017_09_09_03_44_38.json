@@ -1,0 +1,36 @@
+{
+    "data": {
+        "artist": "Infamous",
+        "listeners": "41",
+        "website": "",
+        "picture": "",
+        "r64_vote": "5",
+        "next_song_date": 1504921767,
+        "filename": "c64\\rko\\Infamous - Marble Madness.mp3",
+        "vote_percent": "94.4444",
+        "r64_id": "3978",
+        "id": "3441",
+        "date_played": 1504921349,
+        "next_song": {
+            "artist": "BeeZerk",
+            "title": "Mega Starforce",
+            "live": 0,
+            "album": "",
+            "filename": "M:\\Mp3\\c64\\rko\\BeeZerk - Mega Starforce.mp3"
+        },
+        "num_votes": "162",
+        "albumyear": "2008",
+        "title": "Marble Madness",
+        "duration": 209,
+        "album": "",
+        "next_poll": 85,
+        "my_vote": null,
+        "live": 0,
+        "requestID": "0",
+        "requestedBy": "",
+        "sid_path": "GAMES/M-R/Marble_Madness.sid",
+        "next_song_expected": 85
+    },
+    "error": 0,
+    "message": ""
+}

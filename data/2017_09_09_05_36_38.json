@@ -1,0 +1,36 @@
+{
+    "data": {
+        "next_poll": 82,
+        "requestID": "0",
+        "r64_id": "5603",
+        "album": "",
+        "next_song_date": 1504928660,
+        "num_votes": "4",
+        "listeners": "40",
+        "albumyear": "2017",
+        "my_vote": null,
+        "r64_vote": "5",
+        "website": "",
+        "artist": "David Filskov",
+        "next_song": {
+            "artist": "Hazel",
+            "album": "",
+            "live": 0,
+            "title": "Savage (A Kingdom Will Fall)",
+            "filename": "M:\\Mp3\\c64\\rko\\Hazel - Savage (A Kingdom Will Fall).mp3"
+        },
+        "date_played": 1504927890,
+        "duration": 385,
+        "title": "Thrust remix",
+        "next_song_expected": 82,
+        "live": 0,
+        "vote_percent": "93.7500",
+        "requestedBy": "",
+        "picture": "",
+        "filename": "c64\\rko\\David Filskov - Thrust remix.mp3",
+        "sid_path": "MUSICIANS/H/Hubbard_Rob/Thrust.sid",
+        "id": "4969"
+    },
+    "message": "",
+    "error": 0
+}

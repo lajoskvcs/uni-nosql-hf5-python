@@ -1,0 +1,36 @@
+{
+    "message": "",
+    "data": {
+        "duration": 257,
+        "albumyear": "2017",
+        "r64_id": "5623",
+        "picture": "",
+        "date_played": 1504880196,
+        "next_song_date": 1504880710,
+        "num_votes": "3",
+        "r64_vote": "5",
+        "artist": "lclhstr",
+        "title": "Turbo Charge (The Local Farthest Mix)",
+        "requestID": "0",
+        "sid_path": "MUSICIANS/C/Connolly_Sean/Turbocharge.sid",
+        "listeners": "77",
+        "website": "",
+        "next_song": {
+            "live": 0,
+            "title": "Commando (Sound of SceneSat Edit)",
+            "filename": "M:\\Mp3\\c64\\rko\\Firestorm - Commando (Sound of SceneSat Edit).mp3",
+            "artist": "Firestorm",
+            "album": ""
+        },
+        "album": "",
+        "id": "4950",
+        "filename": "c64\\rko\\lclhstr - Turbo Charge (The Local Farthest Mix).mp3",
+        "my_vote": null,
+        "live": 0,
+        "next_poll": 20,
+        "next_song_expected": 20,
+        "requestedBy": "",
+        "vote_percent": "100.0000"
+    },
+    "error": 0
+}

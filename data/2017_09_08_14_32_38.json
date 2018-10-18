@@ -1,0 +1,36 @@
+{
+    "message": "",
+    "error": 0,
+    "data": {
+        "filename": "c64\\Albums\\Reyn Ouwehand - Nexus 6581 II\\01-reyn_ouwehand-bombo_(ben_daglish)-byter.mp3",
+        "r64_vote": null,
+        "vote_percent": "100.0000",
+        "next_song": {
+            "title": "Deflektor",
+            "filename": "M:\\Mp3\\c64\\rko\\ziona - Deflektor.mp3",
+            "live": 0,
+            "artist": "ziona",
+            "album": ""
+        },
+        "num_votes": "62",
+        "next_song_expected": 138,
+        "listeners": "80",
+        "website": "http://www.c64audio.com/productInfo.php?cat=PP003",
+        "title": "Bombo (Ben Daglish)",
+        "next_poll": 138,
+        "album": "Nexus 6581-II",
+        "r64_id": null,
+        "live": 0,
+        "my_vote": null,
+        "picture": "",
+        "id": "2353",
+        "duration": 236,
+        "next_song_date": 1504874327,
+        "sid_path": null,
+        "requestID": "462413",
+        "albumyear": "2003",
+        "artist": "Reyn Ouwehand",
+        "requestedBy": "raw",
+        "date_played": 1504873855
+    }
+}

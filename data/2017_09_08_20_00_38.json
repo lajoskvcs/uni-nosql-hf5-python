@@ -1,0 +1,36 @@
+{
+    "error": 0,
+    "message": "",
+    "data": {
+        "next_song": {
+            "live": 0,
+            "filename": "M:\\Mp3\\c64\\rko\\X-formZ - The evil trolls from the dark forest.mp3",
+            "title": "Trolls (Evil trolls from the dark forest)",
+            "artist": "X-formZ",
+            "album": ""
+        },
+        "vote_percent": "95.6790",
+        "live": 0,
+        "filename": "c64\\Albums\\Instant Remedy - Instant Remedy\\09 - Trolls.mp3",
+        "r64_id": null,
+        "next_song_date": 1504893892,
+        "num_votes": "162",
+        "my_vote": null,
+        "r64_vote": null,
+        "website": "http://www.c64audio.com/productInfo.php?cat=IR01",
+        "listeners": "79",
+        "albumyear": "2002",
+        "artist": "Instant Remedy",
+        "sid_path": null,
+        "next_poll": 49,
+        "title": "Trolls",
+        "next_song_expected": 49,
+        "requestID": "462424",
+        "date_played": 1504893472,
+        "picture": "Instant_Remedy.jpg",
+        "requestedBy": "raw",
+        "duration": 210,
+        "id": "2184",
+        "album": "Instant Remedy"
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "data": {
+        "next_song_date": 1504877845,
+        "id": "4661",
+        "duration": 352,
+        "title": "Parallax (Classic Acid House Remix)",
+        "website": "",
+        "requestedBy": "",
+        "date_played": 1504877141,
+        "my_vote": null,
+        "picture": "",
+        "artist": "dr.blitzen",
+        "vote_percent": "95.7447",
+        "listeners": "74",
+        "requestID": "0",
+        "r64_id": "5239",
+        "sid_path": "MUSICIANS/G/Galway_Martin/Parallax.sid",
+        "num_votes": "46",
+        "albumyear": "2014",
+        "next_song": {
+            "title": "Pool Party",
+            "live": 0,
+            "filename": "M:\\Mp3\\c64\\rko\\DJB - Pool Party.mp3",
+            "album": "",
+            "artist": "DJB"
+        },
+        "next_song_expected": 0,
+        "filename": "c64\\rko\\dr.blitzen - Parallax (Classic Acid House Remix).mp3",
+        "album": "",
+        "next_poll": 15,
+        "live": 0,
+        "r64_vote": "4"
+    },
+    "error": 0,
+    "message": ""
+}

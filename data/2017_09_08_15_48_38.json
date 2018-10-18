@@ -1,0 +1,36 @@
+{
+    "data": {
+        "website": "",
+        "id": "2930",
+        "sid_path": null,
+        "filename": "c64\\non-RKO\\Jogeir Liljedahl - God = Martin Galway.mp3",
+        "live": 0,
+        "r64_id": null,
+        "album": "",
+        "vote_percent": "96.1155",
+        "duration": 461,
+        "requestedBy": "",
+        "r64_vote": null,
+        "next_song_expected": 330,
+        "albumyear": "1997",
+        "next_song_date": 1504879304,
+        "picture": "",
+        "next_song": {
+            "title": "Commando (2011 metal remix)",
+            "album": "",
+            "filename": "M:\\Mp3\\c64\\rko\\Aki Jarvinen - Commando (2011 metal remix).mp3",
+            "artist": "Aki J\u00e4rvinen",
+            "live": 0
+        },
+        "date_played": 1504878382,
+        "my_vote": null,
+        "listeners": "74",
+        "artist": "Jogeir Liljedahl",
+        "requestID": "0",
+        "title": "God = Martin Galway (XM)",
+        "next_poll": 330,
+        "num_votes": "502"
+    },
+    "message": "",
+    "error": 0
+}

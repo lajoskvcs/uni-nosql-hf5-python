@@ -1,0 +1,36 @@
+{
+    "error": 0,
+    "message": "",
+    "data": {
+        "r64_vote": "5",
+        "picture": "",
+        "vote_percent": "92.7481",
+        "next_song_date": 1504886058,
+        "date_played": 1504885410,
+        "r64_id": "968",
+        "live": 0,
+        "listeners": "60",
+        "num_votes": "131",
+        "website": "",
+        "artist": "Thomas Detert",
+        "albumyear": "1992",
+        "title": "The Switch",
+        "id": "1369",
+        "album": "",
+        "requestID": "0",
+        "my_vote": null,
+        "sid_path": "MUSICIANS/D/Detert_Thomas/Artists_of_Time_tune_1.sid",
+        "duration": 324,
+        "next_song_expected": 141,
+        "filename": "c64\\rko\\Thomas Detert - The Switch.mp3",
+        "requestedBy": "",
+        "next_song": {
+            "live": 0,
+            "artist": "Sonic Wanderer",
+            "title": "The Last Ninja - The Palace (128bpm Freestyle Edit)",
+            "filename": "M:\\Mp3\\c64\\rko\\Sonic Wanderer - The Last Ninja - The Palace (128bpm Freestyle Edit).mp3",
+            "album": ""
+        },
+        "next_poll": 141
+    }
+}

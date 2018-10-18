@@ -1,0 +1,36 @@
+{
+    "message": "",
+    "data": {
+        "next_poll": 15,
+        "website": "",
+        "date_played": 1504872043,
+        "duration": 302,
+        "listeners": "84",
+        "filename": "c64\\rko\\moog (Sebastian Bachlinski) - Tristess.mp3",
+        "sid_path": "MUSICIANS/D/DRAX/Tristesse.sid",
+        "my_vote": null,
+        "title": "Tristess",
+        "next_song": {
+            "artist": "Hazel",
+            "album": "",
+            "filename": "M:\\Mp3\\c64\\non-RKO\\Lets_Scroll_It\\Hazel vs Jeroen Tel - Remark (Noisy Maniacs Remix).mp3",
+            "live": 0,
+            "title": "Remark (Noisy Maniacs Remix) [Hazel vs Jeroen Tel]"
+        },
+        "next_song_expected": -48,
+        "artist": "moog (Sebastian Bachli\u00f1ski)",
+        "r64_id": "3196",
+        "id": "2745",
+        "requestID": "0",
+        "num_votes": "189",
+        "r64_vote": "6",
+        "vote_percent": "96.9577",
+        "album": "",
+        "requestedBy": "",
+        "live": 0,
+        "albumyear": "2006",
+        "next_song_date": 1504872647,
+        "picture": ""
+    },
+    "error": 0
+}

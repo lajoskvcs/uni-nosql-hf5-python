@@ -1,0 +1,36 @@
+{
+    "error": 0,
+    "data": {
+        "num_votes": "31",
+        "albumyear": "0",
+        "next_song": {
+            "artist": "Mongo Erectus",
+            "filename": "M:\\Mp3\\c64\\rko\\Mongo Erectus - Battle Valley.mp3",
+            "album": "",
+            "live": 0,
+            "title": "Battle Valley"
+        },
+        "duration": 116,
+        "album": "",
+        "date_played": 1504905674,
+        "filename": "c64\\rko\\Alastair 'Boz' Bowness - Detergent.mp3",
+        "next_poll": 15,
+        "next_song_expected": -23,
+        "picture": "",
+        "r64_id": "214",
+        "artist": "Alistair 'Boz' Bowness",
+        "sid_path": "MUSICIANS/B/BOGG/Detergent.sid",
+        "title": "Detergent",
+        "website": "",
+        "next_song_date": 1504905906,
+        "requestedBy": "",
+        "id": "24",
+        "listeners": "62",
+        "my_vote": null,
+        "r64_vote": "4",
+        "requestID": "0",
+        "live": 0,
+        "vote_percent": null
+    },
+    "message": ""
+}

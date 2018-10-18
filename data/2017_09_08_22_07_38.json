@@ -1,0 +1,36 @@
+{
+    "data": {
+        "id": "4242",
+        "artist": "moog (Sebastian Bachli\u00f1ski)",
+        "title": "Supremacy",
+        "next_song_expected": -31,
+        "vote_percent": "93.4564",
+        "next_song": {
+            "album": "",
+            "artist": "Klemen Verdnik",
+            "title": "Castle Master (Tribute)",
+            "live": 0,
+            "filename": "M:\\Mp3\\c64\\rko\\Klemen Verdnik - Castle Master (Tribute).mp3"
+        },
+        "date_played": 1504900982,
+        "next_song_date": 1504901462,
+        "picture": "",
+        "num_votes": "149",
+        "website": "",
+        "albumyear": "2011",
+        "r64_id": "4811",
+        "requestID": "0",
+        "my_vote": null,
+        "live": 0,
+        "listeners": "72",
+        "requestedBy": "",
+        "sid_path": "MUSICIANS/T/Tel_Jeroen/Supremacy.sid",
+        "duration": 240,
+        "r64_vote": "6",
+        "filename": "c64\\rko\\moog (Sebastian Bachlinski) - Supremacy.mp3",
+        "next_poll": 15,
+        "album": ""
+    },
+    "error": 0,
+    "message": ""
+}

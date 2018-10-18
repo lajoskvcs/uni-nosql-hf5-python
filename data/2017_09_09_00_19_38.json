@@ -1,0 +1,36 @@
+{
+    "message": "",
+    "error": 0,
+    "data": {
+        "next_song_date": 1504909663,
+        "live": 0,
+        "listeners": "65",
+        "r64_id": "4641",
+        "title": "Let's Go",
+        "website": "",
+        "filename": "c64\\rko\\BeeZerk - Let's Go.mp3",
+        "picture": "",
+        "artist": "BeeZerk",
+        "albumyear": "2011",
+        "my_vote": null,
+        "requestID": "0",
+        "r64_vote": "6",
+        "id": "4071",
+        "date_played": 1504908921,
+        "num_votes": "185",
+        "album": "",
+        "next_poll": 119,
+        "next_song_expected": 119,
+        "next_song": {
+            "title": "I don't need no love",
+            "filename": "M:\\Mp3\\c64\\rko\\Dafunk - I don't need no love.mp3",
+            "album": "",
+            "live": 0,
+            "artist": "Dafunk"
+        },
+        "requestedBy": "",
+        "duration": 371,
+        "sid_path": "MUSICIANS/J/Jammer/Lets_Go.sid",
+        "vote_percent": "95.2703"
+    }
+}

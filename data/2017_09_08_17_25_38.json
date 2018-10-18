@@ -1,0 +1,36 @@
+{
+    "message": "",
+    "data": {
+        "next_song": {
+            "title": "The Last Ninja - Central Park",
+            "artist": "Isaac Abraham",
+            "live": 0,
+            "album": "",
+            "filename": "M:\\Mp3\\c64\\rko\\Isaac Abraham - The Last Ninja - Central Park.mp3"
+        },
+        "title": "Auf Wiedersehen Monty (metalmix)",
+        "albumyear": "2002",
+        "next_song_expected": 221,
+        "r64_id": "1487",
+        "duration": 339,
+        "num_votes": "147",
+        "requestID": "0",
+        "live": 0,
+        "next_poll": 221,
+        "vote_percent": "91.3265",
+        "album": "",
+        "next_song_date": 1504884893,
+        "artist": "RBT",
+        "website": "",
+        "id": "1098",
+        "my_vote": null,
+        "r64_vote": "5",
+        "sid_path": "MUSICIANS/H/Hubbard_Rob/Auf_Wiedersehen_Monty.sid",
+        "listeners": "66",
+        "requestedBy": "",
+        "picture": "",
+        "filename": "c64\\rko\\RBT - Auf Wiedersehen Monty (metalmix).mp3",
+        "date_played": 1504884215
+    },
+    "error": 0
+}

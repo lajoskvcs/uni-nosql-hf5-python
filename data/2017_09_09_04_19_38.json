@@ -1,0 +1,36 @@
+{
+    "message": "",
+    "data": {
+        "r64_id": "4963",
+        "next_poll": 15,
+        "filename": "c64\\rko\\Vred - Blue Angel 69 (easy listening lounge mix).mp3",
+        "id": "4347",
+        "duration": 128,
+        "album": "",
+        "num_votes": "54",
+        "vote_percent": "97.2222",
+        "albumyear": "2012",
+        "website": "",
+        "picture": "",
+        "requestedBy": "",
+        "listeners": "39",
+        "live": 0,
+        "title": "Blue Angel 69 (easy listening lounge mix)",
+        "requestID": "0",
+        "next_song_date": 1504923700,
+        "next_song_expected": -1,
+        "next_song": {
+            "title": "The Human Race (Pop goes Classics)",
+            "filename": "M:\\Mp3\\c64\\rko\\DJ Mitch - The Human Race (Pop goes Classics).mp3",
+            "live": 0,
+            "artist": "Mitch van Hayden",
+            "album": ""
+        },
+        "sid_path": "MUSICIANS/D/Detert_Thomas/Blue_Angel_69.sid",
+        "my_vote": null,
+        "artist": "Vred",
+        "date_played": 1504923444,
+        "r64_vote": "4"
+    },
+    "error": 0
+}

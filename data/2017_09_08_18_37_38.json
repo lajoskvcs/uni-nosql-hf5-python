@@ -1,0 +1,36 @@
+{
+    "message": "",
+    "data": {
+        "next_song": {
+            "album": "",
+            "artist": "are be",
+            "live": 0,
+            "title": "Kung Fu Master (The Beatrix Mix)",
+            "filename": "M:\\Mp3\\c64\\rko\\are be - Kung Fu Master (The Beatrix Mix).mp3"
+        },
+        "requestedBy": "",
+        "num_votes": "61",
+        "duration": 695,
+        "live": 0,
+        "next_poll": 184,
+        "next_song_expected": 184,
+        "picture": "Reyn_-_Galway_remixed.jpg",
+        "vote_percent": "94.2623",
+        "r64_id": null,
+        "albumyear": "2002",
+        "filename": "c64\\Albums\\Reyn Ouwehand - Galway Remixed\\01 - Parallax [title].mp3",
+        "artist": "Reyn Ouwehand",
+        "id": "2312",
+        "date_played": 1504888142,
+        "requestID": "0",
+        "website": "http://www.c64audio.com/productInfo.php?cat=PP002",
+        "title": "Parallax [title]",
+        "listeners": "63",
+        "album": "Galway [Remixed]",
+        "sid_path": null,
+        "my_vote": null,
+        "next_song_date": 1504889532,
+        "r64_vote": null
+    },
+    "error": 0
+}

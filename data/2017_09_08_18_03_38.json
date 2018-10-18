@@ -1,0 +1,36 @@
+{
+    "message": "",
+    "error": 0,
+    "data": {
+        "r64_id": "405",
+        "num_votes": "47",
+        "filename": "c64\\rko\\Red Devil - IronLord.mp3",
+        "requestID": "0",
+        "r64_vote": "4",
+        "date_played": 1504886487,
+        "sid_path": "MUSICIANS/T/Tel_Jeroen/Iron_Lord.sid",
+        "vote_percent": "90.4255",
+        "website": "",
+        "next_song": {
+            "live": 0,
+            "artist": "Alistair 'Boz' Bowness",
+            "album": "",
+            "title": "Chimera (subtune 2)",
+            "filename": "M:\\Mp3\\c64\\non-RKO\\Boz_-_Chimera_Subtune_2.mp3"
+        },
+        "title": "IronLord",
+        "artist": "Red Devil",
+        "listeners": "62",
+        "live": 0,
+        "id": "1103",
+        "requestedBy": "",
+        "album": "",
+        "picture": "",
+        "duration": 126,
+        "next_song_expected": 0,
+        "my_vote": null,
+        "next_song_date": 1504886739,
+        "albumyear": "1996",
+        "next_poll": 15
+    }
+}

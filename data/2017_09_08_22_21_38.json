@@ -1,0 +1,36 @@
+{
+    "error": 0,
+    "data": {
+        "id": "3184",
+        "listeners": "69",
+        "requestedBy": "",
+        "album": "",
+        "albumyear": "2008",
+        "next_song_expected": -57,
+        "my_vote": null,
+        "vote_percent": "95.5357",
+        "filename": "c64\\rko\\XxDUSTYxX - To be on Top - S2 [RMX2008].mp3",
+        "date_played": 1504901879,
+        "r64_id": "3726",
+        "title": "To be on Top - S2 [RMX2008]",
+        "sid_path": "MUSICIANS/H/Huelsbeck_Chris/To_be_on_Top.sid",
+        "duration": 157,
+        "next_song": {
+            "album": "",
+            "live": 0,
+            "artist": "Amok",
+            "title": "Rambo - First Blood",
+            "filename": "M:\\Mp3\\c64\\rko\\Amok - Rambo - First Blood.mp3"
+        },
+        "artist": "XxDUSTYxX",
+        "picture": "",
+        "live": 0,
+        "requestID": "0",
+        "num_votes": "84",
+        "r64_vote": "5",
+        "next_poll": 15,
+        "next_song_date": 1504902193,
+        "website": ""
+    },
+    "message": ""
+}

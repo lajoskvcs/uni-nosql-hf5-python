@@ -1,0 +1,36 @@
+{
+    "error": 0,
+    "data": {
+        "album": "Crystal Dreamscapes",
+        "filename": "c64\\Albums\\Chris Abbott - Crystal Dreamscapes\\Liquid Crystal (Chimera).mp3",
+        "next_poll": 55,
+        "next_song_expected": 55,
+        "requestedBy": "",
+        "title": "Liquid Crystal",
+        "albumyear": "2003",
+        "r64_vote": null,
+        "listeners": "64",
+        "sid_path": null,
+        "id": "2614",
+        "r64_id": null,
+        "next_song_date": 1504909145,
+        "picture": "Crystal_Dreamscapes.jpg",
+        "num_votes": "99",
+        "live": 0,
+        "date_played": 1504908711,
+        "duration": 217,
+        "requestID": "0",
+        "next_song": {
+            "album": "",
+            "filename": "M:\\Mp3\\c64\\rko\\BeeZerk - Let's Go.mp3",
+            "live": 0,
+            "title": "Let's Go",
+            "artist": "BeeZerk"
+        },
+        "my_vote": null,
+        "vote_percent": "82.5758",
+        "website": "http://www.c64audio.com/productInfo.php?cat=NAM001",
+        "artist": "C.Abbott"
+    },
+    "message": ""
+}

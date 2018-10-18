@@ -1,0 +1,36 @@
+{
+    "message": "",
+    "error": 0,
+    "data": {
+        "r64_vote": "4",
+        "albumyear": "2002",
+        "next_poll": 15,
+        "duration": 75,
+        "album": "",
+        "listeners": "76",
+        "vote_percent": "91.1111",
+        "num_votes": "45",
+        "filename": "c64\\rko\\Eric Delos - Beroot Olejuuri (Minimal Washburn mix preview).mp3",
+        "next_song_date": 1504881172,
+        "requestedBy": "",
+        "next_song_expected": 4,
+        "requestID": "0",
+        "date_played": 1504881022,
+        "title": "Beroot Olejuuri (Minimal Washburn mix preview)",
+        "website": "",
+        "artist": "Eric Delos",
+        "picture": "",
+        "r64_id": "1755",
+        "next_song": {
+            "album": "",
+            "live": 0,
+            "title": "The Human Race (The Human Machine Remix)",
+            "artist": "Martin Dodd",
+            "filename": "M:\\Mp3\\c64\\rko\\Martin Dodd - The Human Race (The Human Machine Remix).mp3"
+        },
+        "sid_path": "MUSICIANS/A/Agemixer/Beroot_Olejuuri.sid",
+        "live": 0,
+        "my_vote": null,
+        "id": "361"
+    }
+}

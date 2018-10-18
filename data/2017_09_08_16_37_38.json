@@ -1,0 +1,36 @@
+{
+    "message": "",
+    "data": {
+        "next_song_date": 1504881647,
+        "album": "",
+        "num_votes": "103",
+        "vote_percent": "95.3883",
+        "filename": "c64\\rko\\Tron - Bounces (Glam Rock Hammond Galore Demo Tape).mp3",
+        "r64_id": "4849",
+        "next_song": {
+            "filename": "M:\\Mp3\\c64\\rko\\Estrayk - Last Hero.mp3",
+            "artist": "Estrayk",
+            "live": 0,
+            "title": "Last Hero",
+            "album": ""
+        },
+        "website": "",
+        "next_song_expected": 14,
+        "duration": 180,
+        "live": 0,
+        "requestedBy": "",
+        "id": "4266",
+        "picture": "",
+        "sid_path": "MUSICIANS/G/Gray_Fred/Bounces.sid",
+        "my_vote": null,
+        "date_played": 1504881287,
+        "next_poll": 15,
+        "artist": "Tron",
+        "requestID": "0",
+        "title": "Bounces (Glam Rock Hammond Galore Demo Tape)",
+        "r64_vote": "6",
+        "albumyear": "2012",
+        "listeners": "77"
+    },
+    "error": 0
+}

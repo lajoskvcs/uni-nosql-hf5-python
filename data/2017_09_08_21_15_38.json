@@ -1,0 +1,36 @@
+{
+    "error": 0,
+    "data": {
+        "live": 0,
+        "title": "Maniac Mansion [Plain Music Remix]",
+        "website": "",
+        "r64_vote": "5",
+        "date_played": 1504897921,
+        "sid_path": "MUSICIANS/G/Grigg_Chris/Maniac_Mansion.sid",
+        "vote_percent": "91.8333",
+        "id": "3247",
+        "filename": "c64\\rko\\SchepersThorsten - Maniac Mansion [Plain Music Remix].mp3",
+        "num_votes": "150",
+        "next_song_expected": 106,
+        "requestedBy": "",
+        "next_song": {
+            "live": 0,
+            "title": "Strike Force (noise progress mix)",
+            "artist": "Emre Bulsat",
+            "filename": "M:\\Mp3\\c64\\rko\\Emre Bulsat - Strike Force (noise progress mix).mp3",
+            "album": ""
+        },
+        "requestID": "0",
+        "artist": "SchepersThorsten",
+        "duration": 318,
+        "my_vote": null,
+        "next_poll": 106,
+        "album": "",
+        "listeners": "72",
+        "albumyear": "1998",
+        "r64_id": "3782",
+        "picture": "",
+        "next_song_date": 1504898557
+    },
+    "message": ""
+}

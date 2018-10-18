@@ -1,0 +1,36 @@
+{
+    "data": {
+        "filename": "c64\\non-RKO\\CZ-Tunes - Double Dragon Title Remix (Extended Version).mp3",
+        "artist": "CZ Tunes",
+        "my_vote": null,
+        "date_played": 1504874573,
+        "next_song_date": 1504875329,
+        "website": "",
+        "picture": "",
+        "next_song_expected": 158,
+        "sid_path": null,
+        "vote_percent": "96.7014",
+        "listeners": "80",
+        "requestedBy": "raw",
+        "id": "2770",
+        "live": 0,
+        "albumyear": "2006",
+        "r64_vote": null,
+        "duration": 378,
+        "title": "Double Dragon Title Remix (Extended Version)",
+        "next_poll": 158,
+        "r64_id": null,
+        "album": "",
+        "next_song": {
+            "live": 0,
+            "filename": "M:\\Mp3\\c64\\rko\\Mongo Erectus - Druid II 2.mp3",
+            "album": "",
+            "title": "Druid II 2",
+            "artist": "Mongo Erectus"
+        },
+        "num_votes": "288",
+        "requestID": "462417"
+    },
+    "message": "",
+    "error": 0
+}

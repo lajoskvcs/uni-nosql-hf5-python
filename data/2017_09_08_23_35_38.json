@@ -1,0 +1,30 @@
+{
+    "message": "",
+    "data": {
+        "sid_path": "MUSICIANS/C/Clansey_Paul/Alien.sid",
+        "albumyear": "2011",
+        "num_votes": "149",
+        "id": "4201",
+        "requestID": "0",
+        "r64_id": "4784",
+        "next_song_expected": 178,
+        "next_song_date": 1504906957,
+        "r64_vote": "4",
+        "date_played": 1504906465,
+        "live": 0,
+        "next_poll": 178,
+        "my_vote": null,
+        "next_song": null,
+        "website": "",
+        "picture": "",
+        "requestedBy": "",
+        "album": "",
+        "duration": 246,
+        "vote_percent": "89.9329",
+        "title": "Alien (Korg DS-10 Mix)",
+        "artist": "LPChip",
+        "listeners": "67",
+        "filename": "c64\\rko\\LPChip - Alien (Korg DS-10 Mix).mp3"
+    },
+    "error": 0
+}

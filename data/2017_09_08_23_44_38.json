@@ -1,0 +1,36 @@
+{
+    "message": "",
+    "error": 0,
+    "data": {
+        "sid_path": "MUSICIANS/F/Follin_Tim/Scumball.sid",
+        "id": "233",
+        "next_song_date": 1504907386,
+        "duration": 215,
+        "next_poll": 98,
+        "filename": "c64\\rko\\Dan Tootill - Scumball (Cheat Mode).mp3",
+        "requestedBy": "",
+        "live": 0,
+        "next_song": {
+            "live": 0,
+            "title": "The Last Ninja 2 - The Basement",
+            "artist": "Dave Brybe",
+            "filename": "M:\\Mp3\\c64\\rko\\Dave Brybe - The Last Ninja 2 - The Basement.mp3",
+            "album": ""
+        },
+        "artist": "Dan Tootill",
+        "albumyear": "2003",
+        "date_played": 1504906956,
+        "r64_id": "1838",
+        "title": "Scumball (Cheat Mode)",
+        "website": "",
+        "num_votes": "107",
+        "next_song_expected": 98,
+        "my_vote": null,
+        "album": "",
+        "listeners": "72",
+        "vote_percent": "87.6168",
+        "picture": "",
+        "r64_vote": "4",
+        "requestID": "0"
+    }
+}

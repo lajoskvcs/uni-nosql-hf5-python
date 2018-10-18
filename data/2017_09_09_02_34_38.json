@@ -1,0 +1,36 @@
+{
+    "message": "",
+    "data": {
+        "filename": "c64\\rko\\Dafunk - AirRide (short mix).mp3",
+        "vote_percent": "93.8596",
+        "duration": 156,
+        "live": 0,
+        "album": "",
+        "requestID": "0",
+        "date_played": 1504917159,
+        "albumyear": "0",
+        "next_song_expected": 42,
+        "website": "",
+        "title": "AirRide (short mix)",
+        "picture": "",
+        "id": "1855",
+        "num_votes": "114",
+        "requestedBy": "",
+        "sid_path": "MUSICIANS/B/Behdad_Arman/Airscape_Ride.sid",
+        "next_song_date": 1504917471,
+        "listeners": "45",
+        "artist": "Dafunk",
+        "r64_id": "2265",
+        "my_vote": null,
+        "next_poll": 42,
+        "next_song": {
+            "album": "",
+            "filename": "M:\\Mp3\\c64\\rko\\moog (Sebastian Bachlinski) - Street Hawk.mp3",
+            "live": 0,
+            "title": "Street Hawk",
+            "artist": "moog (Sebastian Bachli\u00f1ski)"
+        },
+        "r64_vote": "4"
+    },
+    "error": 0
+}

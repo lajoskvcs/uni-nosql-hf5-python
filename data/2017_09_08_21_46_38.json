@@ -1,0 +1,36 @@
+{
+    "message": "",
+    "data": {
+        "id": "3037",
+        "picture": "",
+        "r64_id": "3532",
+        "requestID": "0",
+        "requestedBy": "",
+        "vote_percent": "95.0000",
+        "live": 0,
+        "next_poll": 15,
+        "website": "",
+        "sid_path": "MUSICIANS/J/Jammer/Floatee.sid",
+        "next_song_expected": -8,
+        "listeners": "66",
+        "title": "Floatee",
+        "next_song": {
+            "album": "",
+            "title": "ATF Remix",
+            "live": 0,
+            "artist": "Teo",
+            "filename": "M:\\Mp3\\c64\\rko\\Teo - ATF Remix.mp3"
+        },
+        "num_votes": "250",
+        "duration": 490,
+        "r64_vote": "6",
+        "next_song_date": 1504900475,
+        "artist": "BeeZerk",
+        "filename": "c64\\rko\\BeeZerk - Floatee.mp3",
+        "album": "",
+        "albumyear": "2007",
+        "date_played": 1504899495,
+        "my_vote": null
+    },
+    "error": 0
+}

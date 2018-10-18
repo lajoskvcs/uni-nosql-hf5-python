@@ -1,0 +1,36 @@
+{
+    "data": {
+        "live": 0,
+        "sid_path": "MUSICIANS/G/Gray_Fred/Batman_the_Caped_Crusader.sid",
+        "artist": "Flawless",
+        "listeners": "43",
+        "website": "",
+        "picture": "",
+        "r64_id": "4356",
+        "my_vote": null,
+        "next_song_expected": 210,
+        "album": "",
+        "albumyear": "2010",
+        "title": "Batman The Caped Crusader",
+        "next_poll": 210,
+        "num_votes": "143",
+        "requestedBy": "",
+        "id": "3820",
+        "duration": 280,
+        "filename": "c64\\rko\\Flawless - Batman The Caped Crusader.mp3",
+        "r64_vote": "3",
+        "date_played": 1504920803,
+        "vote_percent": "78.8462",
+        "requestID": "0",
+        "next_song": {
+            "live": 0,
+            "artist": "CZ Tunes",
+            "filename": "M:\\Mp3\\c64\\rko\\CZ Tunes - Vice From Miami (Jan Hammer Edit).mp3",
+            "album": "",
+            "title": "Vice From Miami (Jan Hammer Edit)"
+        },
+        "next_song_date": 1504921363
+    },
+    "error": 0,
+    "message": ""
+}

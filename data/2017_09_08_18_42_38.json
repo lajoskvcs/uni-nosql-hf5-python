@@ -1,0 +1,36 @@
+{
+    "data": {
+        "album": "",
+        "r64_id": "2321",
+        "artist": "are be",
+        "next_song": {
+            "live": 0,
+            "title": "Corporations",
+            "filename": "M:\\Mp3\\c64\\Albums\\Makke - It's Binary, Baby!\\12 - Corporations.mp3",
+            "album": "It's Binary, Baby!",
+            "artist": "Makke"
+        },
+        "next_poll": 36,
+        "r64_vote": "4",
+        "requestedBy": "",
+        "albumyear": "2004",
+        "listeners": "69",
+        "sid_path": "GAMES/G-L/Kung-Fu_Master.sid",
+        "title": "Kung Fu Master (The Beatrix Mix)",
+        "duration": 166,
+        "date_played": 1504888823,
+        "next_song_expected": 36,
+        "live": 0,
+        "picture": "",
+        "website": "",
+        "filename": "c64\\rko\\are be - Kung Fu Master (The Beatrix Mix).mp3",
+        "id": "1930",
+        "next_song_date": 1504889155,
+        "requestID": "0",
+        "num_votes": "121",
+        "my_vote": null,
+        "vote_percent": "85.1240"
+    },
+    "error": 0,
+    "message": ""
+}

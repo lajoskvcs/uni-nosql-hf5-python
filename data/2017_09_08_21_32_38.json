@@ -1,0 +1,36 @@
+{
+    "message": "",
+    "data": {
+        "sid_path": "MUSICIANS/G/Gray_Matt/Last_Ninja_2.sid",
+        "vote_percent": "88.4298",
+        "filename": "c64\\rko\\sYmBoLs - Last Ninja 2 - The office (in game).mp3",
+        "next_song_expected": 120,
+        "requestID": "0",
+        "r64_id": "3774",
+        "r64_vote": "4",
+        "next_poll": 120,
+        "next_song_date": 1504899560,
+        "artist": "sYmBoLs",
+        "live": 0,
+        "my_vote": null,
+        "picture": "",
+        "website": "",
+        "next_song": {
+            "album": "",
+            "title": "Clarence (short rmx)",
+            "live": 0,
+            "filename": "M:\\Mp3\\c64\\rko\\Dafunk - Clarence (short rmx).mp3",
+            "artist": "Dafunk"
+        },
+        "date_played": 1504898986,
+        "album": "",
+        "num_votes": "121",
+        "id": "3221",
+        "requestedBy": "",
+        "duration": 287,
+        "listeners": "66",
+        "albumyear": "1988",
+        "title": "Last Ninja 2 - The office (in game)"
+    },
+    "error": 0
+}

@@ -1,0 +1,36 @@
+{
+    "message": "",
+    "data": {
+        "picture": "",
+        "requestedBy": "",
+        "next_song_expected": 215,
+        "requestID": "0",
+        "num_votes": "152",
+        "title": "Spellbound (Remiximus)",
+        "albumyear": "2005",
+        "live": 0,
+        "album": "",
+        "id": "2162",
+        "filename": "c64\\rko\\deVilhoOD - Spellbound (Remiximus).mp3",
+        "listeners": "74",
+        "next_song_date": 1504895825,
+        "duration": 357,
+        "my_vote": null,
+        "artist": "Pawel Osmolski (deVilhoOD)",
+        "vote_percent": "95.0658",
+        "sid_path": "MUSICIANS/H/Hubbard_Rob/Spellbound.sid",
+        "website": "",
+        "date_played": 1504895111,
+        "next_poll": 215,
+        "r64_vote": "5",
+        "r64_id": "2745",
+        "next_song": {
+            "album": "",
+            "live": 0,
+            "artist": "Mitch van Hayden",
+            "title": "Toytone Caf (Piano Tribe Mix)",
+            "filename": "M:\\Mp3\\c64\\rko\\DJ Mitch - Toytone Cafe (Piano Tribe Mix).mp3"
+        }
+    },
+    "error": 0
+}

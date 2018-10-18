@@ -1,0 +1,36 @@
+{
+    "data": {
+        "artist": "Mitch van Hayden",
+        "albumyear": "2007",
+        "duration": 334,
+        "sid_path": "MUSICIANS/H/Hubbard_Rob/Human_Race.sid",
+        "next_poll": 148,
+        "filename": "c64\\rko\\DJ Mitch - The Human Race (Pop goes Classics).mp3",
+        "date_played": 1504923567,
+        "live": 0,
+        "requestID": "0",
+        "id": "2995",
+        "next_song": {
+            "artist": "Dees",
+            "album": "",
+            "title": "Gemini (Electro Glide Remix)",
+            "filename": "M:\\Mp3\\c64\\rko\\Dees - Gemini (Electro Glide Remix).mp3",
+            "live": 0
+        },
+        "next_song_expected": 148,
+        "vote_percent": "92.9078",
+        "picture": "",
+        "next_song_date": 1504924235,
+        "my_vote": null,
+        "num_votes": "141",
+        "r64_vote": "6",
+        "title": "The Human Race (Pop goes Classics)",
+        "requestedBy": "",
+        "album": "",
+        "website": "",
+        "listeners": "41",
+        "r64_id": "3442"
+    },
+    "error": 0,
+    "message": ""
+}

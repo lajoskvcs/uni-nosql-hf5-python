@@ -1,0 +1,36 @@
+{
+    "message": "",
+    "error": 0,
+    "data": {
+        "id": "4177",
+        "next_song": {
+            "live": 0,
+            "album": "",
+            "artist": "Dr Future",
+            "filename": "M:\\Mp3\\c64\\rko\\Dr Future - Ice Age (.com -- Unity).mp3",
+            "title": "Ice Age (.com Unity)"
+        },
+        "num_votes": "123",
+        "album": "",
+        "r64_id": "4757",
+        "next_poll": 49,
+        "artist": "Martin Dodd",
+        "requestedBy": "",
+        "filename": "c64\\rko\\Martin Dodd - Forbidden Forest (Purgatory Mix).mp3",
+        "title": "Forbidden Forest (Purgatory Mix)",
+        "vote_percent": "92.2764",
+        "requestID": "0",
+        "duration": 253,
+        "sid_path": "MUSICIANS/N/Norman_Paul/Forbidden_Forest.sid",
+        "next_song_expected": 49,
+        "website": "",
+        "albumyear": "2011",
+        "date_played": 1504879089,
+        "my_vote": null,
+        "live": 0,
+        "picture": "",
+        "r64_vote": "5",
+        "next_song_date": 1504879595,
+        "listeners": "70"
+    }
+}

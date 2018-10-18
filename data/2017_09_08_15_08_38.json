@@ -1,0 +1,36 @@
+{
+    "error": 0,
+    "data": {
+        "next_song_expected": -53,
+        "picture": "",
+        "next_song_date": 1504876248,
+        "num_votes": "127",
+        "website": "",
+        "vote_percent": "85.4331",
+        "sid_path": "MUSICIANS/H/Hubbard_Rob/Thing_on_a_Spring.sid",
+        "my_vote": null,
+        "r64_id": "4635",
+        "albumyear": "2011",
+        "album": "",
+        "requestID": "0",
+        "next_poll": 15,
+        "duration": 188,
+        "listeners": "72",
+        "next_song": {
+            "title": "Eliminator (Sexy & Saxy Smooth Party remix)",
+            "album": "",
+            "filename": "M:\\Mp3\\c64\\rko\\N-JOY - Eliminator (Sexy and Saxy Smooth Party remix).mp3",
+            "live": 0,
+            "artist": "N-JOY"
+        },
+        "filename": "c64\\rko\\Rune-Bertil's - Boogie On a Spring (JP style).mp3",
+        "date_played": 1504875872,
+        "r64_vote": "5",
+        "id": "4062",
+        "artist": "Rune-Bertil's",
+        "requestedBy": "",
+        "title": "Boogie On a Spring (JP style)",
+        "live": 0
+    },
+    "message": ""
+}

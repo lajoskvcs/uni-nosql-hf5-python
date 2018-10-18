@@ -1,0 +1,36 @@
+{
+    "data": {
+        "next_song_date": 1504897866,
+        "live": 0,
+        "albumyear": "2008",
+        "album": "",
+        "listeners": "75",
+        "website": "",
+        "num_votes": "162",
+        "vote_percent": "93.8272",
+        "duration": 387,
+        "next_song": {
+            "filename": "M:\\Mp3\\c64\\rko\\Dr. Bongo - Pulse Warrior (Gotta keep on going).mp3",
+            "live": 0,
+            "title": "Pulse Warrior (Gotta keep on going)",
+            "album": "",
+            "artist": "Dr. Bongo"
+        },
+        "artist": "BeeZerk",
+        "date_played": 1504897092,
+        "r64_vote": "6",
+        "next_poll": 246,
+        "r64_id": "3641",
+        "next_song_expected": 246,
+        "picture": "",
+        "requestedBy": "",
+        "id": "3158",
+        "filename": "c64\\rko\\BeeZerk - Lets Fly (Skyhigh).mp3",
+        "sid_path": "MUSICIANS/B/Bzyk/Skyhigh.sid",
+        "title": "Lets Fly (Skyhigh)",
+        "my_vote": null,
+        "requestID": "0"
+    },
+    "message": "",
+    "error": 0
+}

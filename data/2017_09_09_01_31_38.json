@@ -1,0 +1,36 @@
+{
+    "data": {
+        "next_poll": 106,
+        "albumyear": "2006",
+        "date_played": 1504913371,
+        "next_song": {
+            "filename": "M:\\Mp3\\c64\\rko\\Juha Kaunisto - 2000 A.D..mp3",
+            "title": "2000 A.D.",
+            "album": "",
+            "live": 0,
+            "artist": "Juha Kaunisto"
+        },
+        "artist": "J Krafft",
+        "num_votes": "135",
+        "r64_id": "3128",
+        "sid_path": "MUSICIANS/D/Daglish_Ben/Terramex.sid",
+        "next_song_expected": 106,
+        "picture": "",
+        "requestID": "0",
+        "my_vote": null,
+        "album": "",
+        "listeners": "52",
+        "title": "Terramex Schizo RMX v0.8",
+        "duration": 228,
+        "website": "",
+        "next_song_date": 1504913827,
+        "r64_vote": "6",
+        "id": "2674",
+        "live": 0,
+        "requestedBy": "",
+        "filename": "c64\\rko\\J Krafft - Terramex Schizo RMX v0.8.mp3",
+        "vote_percent": "89.4444"
+    },
+    "error": 0,
+    "message": ""
+}

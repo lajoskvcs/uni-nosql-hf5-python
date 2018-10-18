@@ -1,0 +1,36 @@
+{
+    "message": "",
+    "error": 0,
+    "data": {
+        "website": "",
+        "albumyear": "2016",
+        "picture": "",
+        "requestedBy": "raw",
+        "title": "Nemesis The Warlock (Metal remake)",
+        "date_played": 1504893844,
+        "live": 0,
+        "r64_vote": "5",
+        "next_song_expected": 53,
+        "my_vote": null,
+        "num_votes": "90",
+        "vote_percent": "100.0000",
+        "id": "4845",
+        "next_song_date": 1504894608,
+        "requestID": "462427",
+        "sid_path": "MUSICIANS/H/Hubbard_Rob/Nemesis_the_Warlock.sid",
+        "album": "",
+        "listeners": "76",
+        "r64_id": "5524",
+        "duration": 382,
+        "artist": "Aki J\u00e4rvinen",
+        "filename": "c64\\rko\\Aki Jarvinen - Nemesis The Warlock (Metal remake).mp3",
+        "next_poll": 53,
+        "next_song": {
+            "album": "",
+            "live": 0,
+            "filename": "M:\\Mp3\\c64\\rko\\o2 - Nemesis The Warlock.mp3",
+            "artist": "o2",
+            "title": "Nemesis The Warlock"
+        }
+    }
+}

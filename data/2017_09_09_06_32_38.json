@@ -1,0 +1,36 @@
+{
+    "message": "",
+    "error": 0,
+    "data": {
+        "r64_id": "5261",
+        "picture": "",
+        "requestID": "0",
+        "date_played": 1504931450,
+        "next_song_date": 1504932180,
+        "next_poll": 262,
+        "album": "",
+        "vote_percent": "97.0085",
+        "filename": "c64\\rko\\Analog-X64 - Legend of Kage (Nostaliga).mp3",
+        "my_vote": null,
+        "albumyear": "2014",
+        "artist": "Analog-X64",
+        "num_votes": "116",
+        "duration": 365,
+        "next_song_expected": 262,
+        "r64_vote": "5",
+        "live": 0,
+        "id": "4639",
+        "next_song": {
+            "live": 0,
+            "filename": "M:\\Mp3\\c64\\rko\\Sonic Wanderer - Tai Pan (Jumpin' Japanese Remix).mp3",
+            "album": "",
+            "title": "Tai Pan (Jumpin' Japanese Remix)",
+            "artist": "Sonic Wanderer"
+        },
+        "listeners": "39",
+        "requestedBy": "",
+        "title": "Legend of Kage (Nostaliga)",
+        "sid_path": "MUSICIANS/G/Gray_Fred/Legend_of_Kage.sid",
+        "website": ""
+    }
+}
